@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/WBP_HUD.uasset",
-				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/WBP_MainMenu.uasset"
+				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/WBP_MainMenu.uasset",
+				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/PC_Player.uasset",
+				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/BP_PlayerCharacter.uasset",
+				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/GMB_2D_CanteenGameMode.uasset",
+				"D:/Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap"
 			]
 		}
 	]

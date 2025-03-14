@@ -1437,3 +1437,651 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.14-16.12.08:644][671]AssetCheck: New page: Asset Save: multiple assets
 [2025.03.14-16.12.08:652][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WBP_MainMenu.WBP_MainMenu
 [2025.03.14-16.12.08:699][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WBP_HUD.WBP_HUD
+[2025.03.14-16.16.42:956][984]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-16.17.14:194][883]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-16.17.14:204][883]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.14-16.17.14:211][883]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.14-16.17.14:231][884]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.14-16.17.18:772][386]LogContentBrowser: Attempting asset rename: NewBlueprint -> PC_Player
+[2025.03.14-16.17.18:876][386]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.14-16.17.19:266][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PC_Player.PC_Player
+[2025.03.14-16.17.19:281][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.17.19:765][427]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.03.14-16.17.19:765][427]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2025.03.14-16.17.20:277][427]LogStaticMesh: Display: Building static mesh PhAT_FloorBox...
+[2025.03.14-16.17.20:302][427]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.03.14-16.17.20:378][427]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2025.03.14-16.17.20:893][427]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.14-16.17.41:672][702]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.17.41:672][702]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.17.41:672][702]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.17.59:808][717]BlueprintLog: New page: Compile PC_Player
+[2025.03.14-16.18.00:399][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.03.14-16.18.01:552][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-16.18.01:558][817]LogContentBundle: [Container: Untitled_1] Generating Streaming for 0 Content Bundles.
+[2025.03.14-16.18.01:597][817]LogWorldPartition: Display: GenerateStreaming started...
+[2025.03.14-16.18.01:597][817]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.03.14-16.18.01:597][817]LogWorldPartition: Display: GetPartitionedActors took 57 us (total: 702 us)
+[2025.03.14-16.18.01:755][817]LogWorldPartition: Display: GenerateStreaming took 158 ms (total: 3.04 sec)
+[2025.03.14-16.18.01:757][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-16.18.01:757][817]PIE: New page: PIE session: Untitled_1 (14 Mar 2025, 16:18:01)
+[2025.03.14-16.18.01:757][817]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.18.01:837][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080855s)
+[2025.03.14-16.18.01:837][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.080886s)
+[2025.03.14-16.18.01:837][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.18.01:838][817]LogAIModule: Creating AISystem for world Untitled_1
+[2025.03.14-16.18.01:838][817]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2025.03.14-16.18.01:838][817]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-16.18.01:838][817]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.03.14-16.18.01:842][817]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2025.03.14-16.18.01:842][817]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 394 ms)
+[2025.03.14-16.18.01:843][817]LogPlayLevel: PIE: World Init took: (0.004759s)
+[2025.03.14-16.18.01:890][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.03.14-16.18.01:892][817]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.14-16.18.01:892][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-16.18.01:892][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-16.18.01:892][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-16.18.01:892][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-16.18.01:892][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-16.18.01:894][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-16.18.01:917][817]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.14-16.18.01:918][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-16.18.01:918][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-16.18.01:918][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-16.18.01:918][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.14-16.18.01:918][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.14-16.18.01:920][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.14-16.18.01:920][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.14-16.18.01:920][817]LogInit: FAudioDevice initialized.
+[2025.03.14-16.18.01:920][817]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2025.03.14-16.18.01:924][817]LogLoad: Game class is 'GameModeBase'
+[2025.03.14-16.18.01:924][817]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.03.14-16.18.01
+[2025.03.14-16.18.01:925][817]LogWorld: Bringing up level for play took: 0.000604
+[2025.03.14-16.18.01:927][817]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.03.14-16.18.01:927][817]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=50729.972 Y=64864.033 Z=27642.203
+[2025.03.14-16.18.01:927][817]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(25), CellsToLoad(0), CellsToUnload(0)
+[2025.03.14-16.18.01:927][817]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=50729.972 Y=64864.033 Z=27642.203,P=-0.000000 Y=-137.198180 R=0.000000
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/3O/LQ9LHAPSPR2ZQON593WMVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/W5/RZKDGOKU0HOUR9XR3OORWP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/QA/56OJ68IEIQK6AZD998V9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/AJ/7C8JC8FV0F2O6Y16RNPPG5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/9D/DB7HESC98L3P1C0EXJ9VNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/5J/220CT5CUS77FQ1Y0UX22G1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/35/J016PIHOM9QMV09QAXSB71.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/2T/LW1MREPFXBPLJCYEDJ1QEP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/0N/MJ50OORWK9B5CCTZI745ZN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/AK/1ZC2T0VGQ3SM7U375JQUCB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/1C/J2AQ1EOULFDGSSVCOF21IT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/V2/79GVO9T8L33D7PL17IOCH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/UL/XUI40KZY0W19J25ADZ69HZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:114][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/XN/M3T3ZY3QR38M3HXIVWF08Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/EF/AVEFB64683AQF9CJYB93DM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/8F/UILAR7KZF01SB5K1TYIOQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/5T/8AVXKOA01TLOBAI26Z84M0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/VM/KITGMOBNCKMQD53U939GKS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/9E/VK298XRD5A11VYGHFC41A9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/8P/TLD3VX5ZWRDBTWGHZBD6B2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/67/SCIVTASLB1G49QJSTRVO2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/V1/G2IAL67Q51RDGY0JARYZFC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/Q1/OIHEIVHOC755KY4AIIXZHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/F4/M3J0ZJ0BV28M5Q99SOM48Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/2P/WBW9CAOQGGZICLNBCFDJSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/WR/5KB6IQ3V0QMTIH5VVAM109.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/OY/I7W1YSC8BUMH1JML1SHYXU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/N5/WGVE0AJGDUHGENADZV58M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/MN/ZRKV9F579IVFLFFQFWCNP1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/CV/ZVNWWCCOSQTHJQ00OL87PP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/SE/IMNTWHEYXWFLFNO0VMZCOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/PI/Q9H1B01GIQ3UAILDCXPKFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/ON/R223RRK3MH511F5YGGE4W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/L9/WMO74VATJJT97G0ETQHDV9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/833TP0FSFQQBWAZGJXKH6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/U7/26ZHDTM3CBW86ZMVC0MC81.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/IUFBX0244AWDZMZZHDKTKO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/OEPEEFQ7A0CTPWQWFEJ9PV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CM/ZZ4QMO3QO20LLLWIKB49QY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CK/3U7ZZLZZY4U2JGYD4CD484.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/3V/5E7YRRLHOPYOL7E03MPXZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/27/MBLYVKKRPXBTRA7FIYDZJJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/J1XJFLPOFLBJRCPMFGF6C5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/US/DINUB3VE6STDFAC2VZ35GN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/8P/VNJEVDB5K2D6L9KMNKBN6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/YK/NH0RQ83YOTSLK0KQ86IP4N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/JA/4Y1UNG2T4GPFYJ7KPEDYVV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/DZ/XTTNN5AZ8XZMSVE9GQR3TC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/8A/NXI3LY5DSH0JCF4MEEBM4X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4V/V25VGP3M2HPQ1P7Y76DI4R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/1T/ZL0Y1EEN97U5ZPYDIC5SAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/MS/53FFO8N8QMR5EZSU2BXG3T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/BZ/AQH36VQUL6RRNO1G8N89X8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/9R/JT69U2ZIH2ZJJUXUASV0F0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/Z0/SDO6T5HIB7O50OBHISZCIX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/XB/YH1MJRWSG6K7YKOSQWYADL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UP/XJC4J420XXOSGPB2F4H7ED.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UK/3OKX6C10NWGHVWYQ7NH21G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/T3/SQJ7JELAW5XSTP1JS5QJMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/K2/C74PLGXI2R9LW6IVE6AVMG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/G8/NGJ7QFQVTY01UZE0GQ5QX3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/DN/XR8P0OHQ2UMD5YU47C20EK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/AB/1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.03.14-16.18.02:115][817]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/77/QTK2TOFAKUCC4OH745GDVF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.18.02:193][817]LogShaderCompilers: Display: ================================================
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Total job queries 90, among them cache hits 13 (14.44%)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Tracking 77 distinct input hashes that result in 70 distinct outputs (90.91%)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: RAM used: 0.73 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Shaders Compiled: 77
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Jobs assigned 77, completed 77 (100.00%)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Average time worker was idle: 295.91 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Time job spent in pending queue: average 4.59 s, longest 16.72 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Job execution time: average 9.10 s, max 19.23 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Job life time (pending + execution): average 13.68 s, max 19.31
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.68 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 2.03 jobs/batch
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Total thread time: 88.24 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Total thread preprocess time: 7.07 s
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Percentage time preprocessing: 8.02%
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Effective parallelization: 3.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.93 sec, max 1.93 sec, min 1.93 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.61 sec, max 2.35 sec, min 1.03 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 31.04% of total time (compiled   17 times, average 1.61 sec, max 2.35 sec, min 1.03 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.66% of total time (compiled    6 times, average 0.98 sec, max 1.13 sec, min 0.86 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.30% of total time (compiled    6 times, average 0.93 sec, max 1.34 sec, min 0.71 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.15% of total time (compiled    4 times, average 0.91 sec, max 1.07 sec, min 0.77 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.49% of total time (compiled    4 times, average 0.77 sec, max 0.93 sec, min 0.51 sec)
+[2025.03.14-16.18.02:194][817]LogShaderCompilers: Display: ================================================
+[2025.03.14-16.18.02:299][817]PIE: Server logged in
+[2025.03.14-16.18.02:301][817]PIE: Play in editor total start time 0.742 seconds.
+[2025.03.14-16.18.03:269][865]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.18.04:650][996]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.18.05:930][143]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.18.06:503][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.18.06:503][192]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.18.06:513][192]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.18.06:513][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.18.06:513][192]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2025.03.14-16.18.06:518][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-16.18.06:529][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.18.07:763][192]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.18.07:764][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.18.07:767][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.14-16.18.07:770][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.14-16.18.07:808][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.14-16.18.08:034][193]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.03.14-16.18.08:092][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.14-16.18.09:394][194]LogSlate: Window 'Save Content' being destroyed
+[2025.03.14-16.18.09:408][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.18.09:469][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/PC_Player.uasset" SILENT=true
+[2025.03.14-16.18.09:543][194]LogSavePackage: Moving output files for package: /Game/PC_Player
+[2025.03.14-16.18.09:543][194]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_Player718D4EF744B93BFBD41B32B91C1FF48F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/PC_Player.uasset'
+[2025.03.14-16.18.09:554][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 541 ms)
+[2025.03.14-16.18.09:563][194]AssetCheck: New page: Asset Save: PC_Player
+[2025.03.14-16.18.09:563][194]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PC_Player.PC_Player
+[2025.03.14-16.18.19:740][729]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.18.19:740][729]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.18.19:740][729]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.18.52:009][683]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-16.18.52:020][683]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.14-16.18.52:025][683]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.14-16.18.52:034][684]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.14-16.18.57:059][247]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerCharacter
+[2025.03.14-16.18.57:690][247]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.14-16.19.00:977][605]LogContentBrowser: Attempting asset rename: PC_Player -> PC_Player
+[2025.03.14-16.19.02:126][714]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.14-16.19.02:126][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.19.02:817][714]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.14-16.19.28:864][ 84]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.03.14-16.19.29:029][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2025.03.14-16.19.34:151][326]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-16.19.34:164][326]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.14-16.19.34:170][326]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.14-16.19.34:184][327]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.14-16.19.44:442][494]LogContentBrowser: Attempting asset rename: NewBlueprint -> GMB_2D_CanteenGameMode
+[2025.03.14-16.19.44:446][494]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.14-16.19.44:690][520]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.14-16.19.44:690][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.19.45:196][520]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.14-16.19.59:976][159]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.19.59:977][159]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.19.59:977][159]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.20.18:085][146]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.14-16.20.18:185][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.03.14-16.20.19:542][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-16.20.19:548][278]LogContentBundle: [Container: Untitled_1] Generating Streaming for 0 Content Bundles.
+[2025.03.14-16.20.19:578][278]LogWorldPartition: Display: GenerateStreaming started...
+[2025.03.14-16.20.19:578][278]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.03.14-16.20.19:578][278]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 739 us)
+[2025.03.14-16.20.19:714][278]LogWorldPartition: Display: GenerateStreaming took 136 ms (total: 3.18 sec)
+[2025.03.14-16.20.19:716][278]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.14-16.20.19:716][278]LogPlayLevel: [PlayLevel] Compiling PC_Player before play...
+[2025.03.14-16.20.19:808][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.03.14-16.20.19:823][278]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (1 blueprints)
+[2025.03.14-16.20.19:824][278]PIE: New page: PIE session: Untitled_1 (14 Mar 2025, 16:20:19)
+[2025.03.14-16.20.19:824][278]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.20.19:882][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058874s)
+[2025.03.14-16.20.19:882][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.058938s)
+[2025.03.14-16.20.19:882][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.20.19:884][278]LogAIModule: Creating AISystem for world Untitled_1
+[2025.03.14-16.20.19:884][278]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2025.03.14-16.20.19:884][278]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-16.20.19:884][278]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.03.14-16.20.19:888][278]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2025.03.14-16.20.19:888][278]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 398 ms)
+[2025.03.14-16.20.19:888][278]LogPlayLevel: PIE: World Init took: (0.005041s)
+[2025.03.14-16.20.19:952][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.03.14-16.20.19:953][278]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.14-16.20.19:953][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-16.20.19:953][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-16.20.19:953][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-16.20.19:953][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-16.20.19:953][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-16.20.19:956][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-16.20.19:978][278]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.14-16.20.19:978][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-16.20.19:979][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-16.20.19:979][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-16.20.19:979][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.14-16.20.19:979][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.14-16.20.19:980][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.14-16.20.19:980][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.14-16.20.19:980][278]LogInit: FAudioDevice initialized.
+[2025.03.14-16.20.19:982][278]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2025.03.14-16.20.19:984][278]LogLoad: Game class is 'GameModeBase'
+[2025.03.14-16.20.19:985][278]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.03.14-16.20.19
+[2025.03.14-16.20.19:985][278]LogWorld: Bringing up level for play took: 0.000596
+[2025.03.14-16.20.19:987][278]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.03.14-16.20.19:988][278]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=50729.972 Y=64864.033 Z=27642.203
+[2025.03.14-16.20.19:988][278]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(25), CellsToLoad(0), CellsToUnload(0)
+[2025.03.14-16.20.19:988][278]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=50729.972 Y=64864.033 Z=27642.203,P=-0.000000 Y=-137.198180 R=0.000000
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/3O/LQ9LHAPSPR2ZQON593WMVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/W5/RZKDGOKU0HOUR9XR3OORWP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/QA/56OJ68IEIQK6AZD998V9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/AJ/7C8JC8FV0F2O6Y16RNPPG5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/9D/DB7HESC98L3P1C0EXJ9VNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/5J/220CT5CUS77FQ1Y0UX22G1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/35/J016PIHOM9QMV09QAXSB71.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/2T/LW1MREPFXBPLJCYEDJ1QEP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/0N/MJ50OORWK9B5CCTZI745ZN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/AK/1ZC2T0VGQ3SM7U375JQUCB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/1C/J2AQ1EOULFDGSSVCOF21IT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/V2/79GVO9T8L33D7PL17IOCH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/UL/XUI40KZY0W19J25ADZ69HZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/XN/M3T3ZY3QR38M3HXIVWF08Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/EF/AVEFB64683AQF9CJYB93DM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/8F/UILAR7KZF01SB5K1TYIOQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/5T/8AVXKOA01TLOBAI26Z84M0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/VM/KITGMOBNCKMQD53U939GKS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:209][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/9E/VK298XRD5A11VYGHFC41A9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/8P/TLD3VX5ZWRDBTWGHZBD6B2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/67/SCIVTASLB1G49QJSTRVO2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/V1/G2IAL67Q51RDGY0JARYZFC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/Q1/OIHEIVHOC755KY4AIIXZHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/F4/M3J0ZJ0BV28M5Q99SOM48Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/2P/WBW9CAOQGGZICLNBCFDJSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/WR/5KB6IQ3V0QMTIH5VVAM109.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/OY/I7W1YSC8BUMH1JML1SHYXU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/N5/WGVE0AJGDUHGENADZV58M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/MN/ZRKV9F579IVFLFFQFWCNP1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/CV/ZVNWWCCOSQTHJQ00OL87PP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/SE/IMNTWHEYXWFLFNO0VMZCOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/PI/Q9H1B01GIQ3UAILDCXPKFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/ON/R223RRK3MH511F5YGGE4W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/L9/WMO74VATJJT97G0ETQHDV9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/833TP0FSFQQBWAZGJXKH6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/U7/26ZHDTM3CBW86ZMVC0MC81.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/IUFBX0244AWDZMZZHDKTKO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/OEPEEFQ7A0CTPWQWFEJ9PV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CM/ZZ4QMO3QO20LLLWIKB49QY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CK/3U7ZZLZZY4U2JGYD4CD484.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/3V/5E7YRRLHOPYOL7E03MPXZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/27/MBLYVKKRPXBTRA7FIYDZJJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/J1XJFLPOFLBJRCPMFGF6C5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/US/DINUB3VE6STDFAC2VZ35GN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/8P/VNJEVDB5K2D6L9KMNKBN6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/YK/NH0RQ83YOTSLK0KQ86IP4N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/JA/4Y1UNG2T4GPFYJ7KPEDYVV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/DZ/XTTNN5AZ8XZMSVE9GQR3TC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/8A/NXI3LY5DSH0JCF4MEEBM4X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4V/V25VGP3M2HPQ1P7Y76DI4R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/1T/ZL0Y1EEN97U5ZPYDIC5SAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/MS/53FFO8N8QMR5EZSU2BXG3T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/BZ/AQH36VQUL6RRNO1G8N89X8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/9R/JT69U2ZIH2ZJJUXUASV0F0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/Z0/SDO6T5HIB7O50OBHISZCIX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/XB/YH1MJRWSG6K7YKOSQWYADL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UP/XJC4J420XXOSGPB2F4H7ED.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UK/3OKX6C10NWGHVWYQ7NH21G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/T3/SQJ7JELAW5XSTP1JS5QJMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/K2/C74PLGXI2R9LW6IVE6AVMG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/G8/NGJ7QFQVTY01UZE0GQ5QX3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/DN/XR8P0OHQ2UMD5YU47C20EK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/AB/1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.03.14-16.20.20:210][278]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/77/QTK2TOFAKUCC4OH745GDVF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.20:474][278]PIE: Server logged in
+[2025.03.14-16.20.20:475][278]PIE: Play in editor total start time 0.927 seconds.
+[2025.03.14-16.20.22:230][384]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.20.23:092][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.20.23:092][448]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.20.23:104][448]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.20.23:104][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.23:105][448]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2025.03.14-16.20.23:109][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-16.20.23:122][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.23:904][448]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.20.23:905][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.20.23:909][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.14-16.20.23:911][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.14-16.20.23:927][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2025.03.14-16.20.23:957][449]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.03.14-16.20.27:018][730]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.20.27:019][730]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.20.27:019][730]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.14-16.20.30:015][  3]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-16.20.30:020][  3]LogContentBundle: [Container: Untitled_1] Generating Streaming for 0 Content Bundles.
+[2025.03.14-16.20.30:043][  3]LogWorldPartition: Display: GenerateStreaming started...
+[2025.03.14-16.20.30:043][  3]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.03.14-16.20.30:043][  3]LogWorldPartition: Display: GetPartitionedActors took 33 us (total: 772 us)
+[2025.03.14-16.20.30:187][  3]LogWorldPartition: Display: GenerateStreaming took 143 ms (total: 3.32 sec)
+[2025.03.14-16.20.30:201][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-16.20.30:201][  3]PIE: New page: PIE session: Untitled_1 (14 Mar 2025, 16:20:30)
+[2025.03.14-16.20.30:201][  3]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.20.30:272][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070687s)
+[2025.03.14-16.20.30:272][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.070728s)
+[2025.03.14-16.20.30:272][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.20.30:272][  3]LogAIModule: Creating AISystem for world Untitled_1
+[2025.03.14-16.20.30:273][  3]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2025.03.14-16.20.30:273][  3]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-16.20.30:273][  3]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.03.14-16.20.30:277][  3]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2025.03.14-16.20.30:277][  3]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 402 ms)
+[2025.03.14-16.20.30:277][  3]LogPlayLevel: PIE: World Init took: (0.005575s)
+[2025.03.14-16.20.30:341][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.03.14-16.20.30:343][  3]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.14-16.20.30:343][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-16.20.30:343][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-16.20.30:344][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-16.20.30:344][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-16.20.30:344][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-16.20.30:346][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-16.20.30:369][  3]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.14-16.20.30:370][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-16.20.30:370][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-16.20.30:370][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-16.20.30:370][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.14-16.20.30:370][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.14-16.20.30:372][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.14-16.20.30:372][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.14-16.20.30:372][  3]LogInit: FAudioDevice initialized.
+[2025.03.14-16.20.30:372][  3]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2025.03.14-16.20.30:374][  3]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.14-16.20.30:375][  3]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.03.14-16.20.30
+[2025.03.14-16.20.30:375][  3]LogWorld: Bringing up level for play took: 0.000586
+[2025.03.14-16.20.30:377][  3]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.03.14-16.20.30:582][  3]LogWorldPartition: New Streaming Source: PC_Player_C_0 -> Position: X=50729.972 Y=64864.033 Z=27642.203
+[2025.03.14-16.20.30:582][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(25), CellsToLoad(0), CellsToUnload(0)
+[2025.03.14-16.20.30:582][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=50729.972 Y=64864.033 Z=27642.203,P=-0.000000 Y=-137.198180 R=0.000000
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/3O/LQ9LHAPSPR2ZQON593WMVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/W5/RZKDGOKU0HOUR9XR3OORWP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/QA/56OJ68IEIQK6AZD998V9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/AJ/7C8JC8FV0F2O6Y16RNPPG5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/9D/DB7HESC98L3P1C0EXJ9VNN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/5J/220CT5CUS77FQ1Y0UX22G1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/35/J016PIHOM9QMV09QAXSB71.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/2T/LW1MREPFXBPLJCYEDJ1QEP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/0N/MJ50OORWK9B5CCTZI745ZN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/AK/1ZC2T0VGQ3SM7U375JQUCB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/1C/J2AQ1EOULFDGSSVCOF21IT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/V2/79GVO9T8L33D7PL17IOCH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/UL/XUI40KZY0W19J25ADZ69HZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/XN/M3T3ZY3QR38M3HXIVWF08Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/EF/AVEFB64683AQF9CJYB93DM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/8F/UILAR7KZF01SB5K1TYIOQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/5T/8AVXKOA01TLOBAI26Z84M0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/VM/KITGMOBNCKMQD53U939GKS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/9E/VK298XRD5A11VYGHFC41A9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/8P/TLD3VX5ZWRDBTWGHZBD6B2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/67/SCIVTASLB1G49QJSTRVO2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/V1/G2IAL67Q51RDGY0JARYZFC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/Q1/OIHEIVHOC755KY4AIIXZHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/F4/M3J0ZJ0BV28M5Q99SOM48Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/2P/WBW9CAOQGGZICLNBCFDJSB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/WR/5KB6IQ3V0QMTIH5VVAM109.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/OY/I7W1YSC8BUMH1JML1SHYXU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/N5/WGVE0AJGDUHGENADZV58M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/MN/ZRKV9F579IVFLFFQFWCNP1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/CV/ZVNWWCCOSQTHJQ00OL87PP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/SE/IMNTWHEYXWFLFNO0VMZCOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/PI/Q9H1B01GIQ3UAILDCXPKFD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/ON/R223RRK3MH511F5YGGE4W1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/L9/WMO74VATJJT97G0ETQHDV9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/833TP0FSFQQBWAZGJXKH6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/U7/26ZHDTM3CBW86ZMVC0MC81.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/IUFBX0244AWDZMZZHDKTKO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/JP/OEPEEFQ7A0CTPWQWFEJ9PV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CM/ZZ4QMO3QO20LLLWIKB49QY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CK/3U7ZZLZZY4U2JGYD4CD484.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/3V/5E7YRRLHOPYOL7E03MPXZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/27/MBLYVKKRPXBTRA7FIYDZJJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/J1XJFLPOFLBJRCPMFGF6C5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/US/DINUB3VE6STDFAC2VZ35GN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/8P/VNJEVDB5K2D6L9KMNKBN6A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/YK/NH0RQ83YOTSLK0KQ86IP4N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/JA/4Y1UNG2T4GPFYJ7KPEDYVV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/DZ/XTTNN5AZ8XZMSVE9GQR3TC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/8A/NXI3LY5DSH0JCF4MEEBM4X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4V/V25VGP3M2HPQ1P7Y76DI4R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/1T/ZL0Y1EEN97U5ZPYDIC5SAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/MS/53FFO8N8QMR5EZSU2BXG3T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/BZ/AQH36VQUL6RRNO1G8N89X8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/9R/JT69U2ZIH2ZJJUXUASV0F0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/Z0/SDO6T5HIB7O50OBHISZCIX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/XB/YH1MJRWSG6K7YKOSQWYADL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:813][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UP/XJC4J420XXOSGPB2F4H7ED.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/UK/3OKX6C10NWGHVWYQ7NH21G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/T3/SQJ7JELAW5XSTP1JS5QJMH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/K2/C74PLGXI2R9LW6IVE6AVMG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/G8/NGJ7QFQVTY01UZE0GQ5QX3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/DN/XR8P0OHQ2UMD5YU47C20EK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/AB/1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.03.14-16.20.30:814][  3]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/77/QTK2TOFAKUCC4OH745GDVF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.03.14-16.20.31:155][  3]PIE: Server logged in
+[2025.03.14-16.20.31:156][  3]PIE: Play in editor total start time 1.136 seconds.
+[2025.03.14-16.20.32:572][ 90]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2025.03.14-16.20.32:783][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.20.32:783][106]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.03.14-16.20.32:794][106]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.20.32:794][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.32:795][106]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2025.03.14-16.20.32:800][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-16.20.32:815][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.33:417][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-16.20.33:420][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.14-16.20.33:422][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.14-16.20.33:427][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.20.33:437][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.03.14-16.20.33:470][107]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.03.14-16.20.34:256][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.03.14-16.20.35:115][164]LogSlate: Window 'Save Content' being destroyed
+[2025.03.14-16.20.35:129][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.20.35:187][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PlayerCharacter" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/BP_PlayerCharacter.uasset" SILENT=true
+[2025.03.14-16.20.35:201][164]LogSavePackage: Moving output files for package: /Game/BP_PlayerCharacter
+[2025.03.14-16.20.35:201][164]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_PlayerCharacterE562B07241AD552D761F6BB7283CBB5B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/BP_PlayerCharacter.uasset'
+[2025.03.14-16.20.35:201][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.14-16.20.35:241][164]LogSavePackage: Moving output files for package: /Game/GMB_2D_CanteenGameMode
+[2025.03.14-16.20.35:241][164]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode5D2AF2E4488ABE4EE52EA0B9E9075731.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/GMB_2D_CanteenGameMode.uasset'
+[2025.03.14-16.20.35:242][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/PC_Player.uasset" SILENT=true
+[2025.03.14-16.20.35:245][164]LogSavePackage: Moving output files for package: /Game/PC_Player
+[2025.03.14-16.20.35:246][164]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_Player9DDA970B40255E566E8449A28350E49A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/PC_Player.uasset'
+[2025.03.14-16.20.35:261][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 673 ms)
+[2025.03.14-16.20.35:272][164]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.14-16.20.35:272][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.14-16.20.35:272][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PC_Player.PC_Player
+[2025.03.14-16.20.35:272][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.14-16.20.43:122][903]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-16.20.43:140][903]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-16.20.43:153][904]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-16.20.44:315][ 28]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.03.14-16.20.44:315][ 28]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-16.20.46:450][241]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.03.14-16.20.46:464][241]LogContentBrowser: Creating deferred item: NewWorld
+[2025.03.14-16.20.46:497][243]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.03.14-16.20.51:574][847]LogContentBrowser: Attempting asset rename: NewWorld -> L_Main
+[2025.03.14-16.20.51:575][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.20.51:993][847]LogContentBrowser: End creating deferred item NewWorld
+[2025.03.14-16.20.53:868][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.03.14-16.20.54:957][ 47]LogSlate: Window 'Save Content' being destroyed
+[2025.03.14-16.20.54:970][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.20.55:048][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Main" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-16.20.55:117][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.14-16.20.55:140][ 47]LogSavePackage: Moving output files for package: /Game/Maps/L_Main
+[2025.03.14-16.20.55:140][ 47]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/L_Main48BA9A644BB7731CCDEDEFBDBB9E7FF7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap'
+[2025.03.14-16.20.55:159][ 47]LogFileHelpers: Saving map 'L_Main' took 0.113
+[2025.03.14-16.20.55:168][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 871 ms)
+[2025.03.14-16.20.55:168][ 47]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L_Main.L_Main
+[2025.03.14-16.20.55:169][ 47]Cmd: MAP LOAD FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.14-16.20.55:169][ 47]LightingResults: New page: Lighting Build
+[2025.03.14-16.20.55:169][ 47]LoadErrors: New page: Loading map: L_Main.umap
+[2025.03.14-16.20.55:243][ 47]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.20.55:256][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.55:299][ 47]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2025.03.14-16.20.55:317][ 47]MapCheck: New page: Map Check
+[2025.03.14-16.20.55:317][ 47]LightingResults: New page: Lighting Build
+[2025.03.14-16.20.55:379][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-16.20.55:402][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.03.14-16.20.55:422][ 47]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.20.55:422][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.20.55:488][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.03.14-16.20.55:561][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.03.14-16.20.55:564][ 47]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Main'.
+[2025.03.14-16.20.55:564][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.20.55:565][ 47]LogAIModule: Creating AISystem for world L_Main
+[2025.03.14-16.20.55:663][ 47]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.14-16.20.55:736][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.03.14-16.20.55:742][ 47]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.14-16.20.55:742][ 47]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2025.03.14-16.20.55:742][ 47]LogFileHelpers: Loading map 'L_Main' took 0.573
+[2025.03.14-16.20.55:762][ 47]AssetCheck: New page: Asset Save: L_Main
+[2025.03.14-16.20.55:762][ 47]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Main.L_Main
+[2025.03.14-16.20.57:540][231]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.14-16.21.00:945][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.14-16.21.00:946][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.14-16.21.00:967][587]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/L_Main.L_Main:PersistentLevel.StaticMeshActor_0
+[2025.03.14-16.21.01:004][587]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/L_Main.L_Main:PersistentLevel.StaticMeshActor_0
+[2025.03.14-16.21.01:089][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.14-16.21.01:089][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.03.14-16.21.01:110][590]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/L_Main.L_Main:PersistentLevel.StaticMeshActor_1
+[2025.03.14-16.21.01:110][590]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/L_Main.L_Main:PersistentLevel.StaticMeshActor_1
+[2025.03.14-16.21.06:685][ 67]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-16.21.11:826][636]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.03.14-16.21.11:826][636]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.03.14-16.21.11:827][636]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/L_Main.L_Main:PersistentLevel.PlayerStart_0
+[2025.03.14-16.21.11:887][636]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-16.21.11:887][636]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/L_Main.L_Main:PersistentLevel.PlayerStart_0
+[2025.03.14-16.21.11:887][636]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-16.21.13:758][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.03.14-16.21.13:758][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.03.14-16.21.13:759][820]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/L_Main.L_Main:PersistentLevel.PlayerStart_1
+[2025.03.14-16.21.13:760][820]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-16.21.13:777][820]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/L_Main.L_Main:PersistentLevel.PlayerStart_1
+[2025.03.14-16.21.13:778][820]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-16.21.16:584][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.03.14-16.21.17:309][105]LogSlate: Window 'Save Content' being destroyed
+[2025.03.14-16.21.17:325][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.21.17:392][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Main" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-16.21.17:457][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.14-16.21.17:462][105]LogSavePackage: Moving output files for package: /Game/Maps/L_Main
+[2025.03.14-16.21.17:462][105]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/L_Main1E33F1F64A3CA70BAF8B5B93BA999C1F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap'
+[2025.03.14-16.21.17:470][105]LogFileHelpers: Saving map 'L_Main' took 0.078
+[2025.03.14-16.21.17:481][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1.02 sec)
+[2025.03.14-16.21.17:490][105]AssetCheck: New page: Asset Save: L_Main
+[2025.03.14-16.21.17:490][105]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Main.L_Main
+[2025.03.14-16.21.18:057][165]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-16.21.18:063][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-16.21.18:063][165]PIE: New page: PIE session: L_Main (14 Mar 2025, 16:21:18)
+[2025.03.14-16.21.18:063][165]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.14-16.21.18:064][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001042s)
+[2025.03.14-16.21.18:064][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001069s)
+[2025.03.14-16.21.18:064][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-16.21.18:064][165]LogAIModule: Creating AISystem for world L_Main
+[2025.03.14-16.21.18:065][165]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2025.03.14-16.21.18:130][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.03.14-16.21.18:131][165]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.14-16.21.18:131][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-16.21.18:131][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-16.21.18:132][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-16.21.18:132][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-16.21.18:132][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-16.21.18:134][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-16.21.18:158][165]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.14-16.21.18:158][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-16.21.18:158][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-16.21.18:158][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-16.21.18:160][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.14-16.21.18:160][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.14-16.21.18:161][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.14-16.21.18:161][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.14-16.21.18:161][165]LogInit: FAudioDevice initialized.
+[2025.03.14-16.21.18:161][165]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Main'.
+[2025.03.14-16.21.18:165][165]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.14-16.21.18:165][165]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.14-16.21.18
+[2025.03.14-16.21.18:165][165]LogWorld: Bringing up level for play took: 0.000434
+[2025.03.14-16.21.18:167][165]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.14-16.21.18:170][165]PIE: Server logged in
+[2025.03.14-16.21.18:170][165]PIE: Play in editor total start time 0.108 seconds.
+[2025.03.14-16.21.19:992][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.21.19:992][361]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.14-16.21.19:992][361]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.19:992][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.19:995][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-16.21.20:006][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.20:066][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-16.21.20:066][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.14-16.21.20:069][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.14-16.21.20:074][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.03.14-16.21.20:120][362]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.14-16.21.20:872][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.03.14-16.21.23:887][755]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.14-16.21.29:867][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.14-16.21.32:033][606]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.32:033][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.32:043][606]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.32:043][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.32:264][621]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.32:265][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.32:907][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-16.21.32:907][662]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.32:907][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.21.33:088][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-16.21.33:088][676]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-16.21.33:089][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
