@@ -2085,3 +2085,109 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.14-16.21.33:088][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2025.03.14-16.21.33:088][676]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2025.03.14-16.21.33:089][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-16.22.30:644][503]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-16.22.30:657][503]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-16.22.30:669][504]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-16.22.32:133][675]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2025.03.14-16.22.32:133][675]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-16.22.42:118][985]LogSlate: Window 'Message' being destroyed
+[2025.03.14-16.22.42:126][985]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+GMB_2D_CanteenGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.BP_PlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:263][985]LogMetaData: Removing '/Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_PlayerCharacter.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.SKEL_GMB_2D_CanteenGameMode_C' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.SKEL_GMB_2D_CanteenGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.SKEL_GMB_2D_CanteenGameMode_C:ReceiveTick' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:411][985]LogMetaData: Removing '/Game/Player/GMB_2D_CanteenGameMode.SKEL_GMB_2D_CanteenGameMode_C:UserConstructionScript' ref from Metadata '/Game/GMB_2D_CanteenGameMode.PackageMetaData'
+[2025.03.14-16.22.42:413][985]LogMetaData: Removing '/Game/Player/PC_Player.PC_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PC_Player.PackageMetaData'
+[2025.03.14-16.22.42:413][985]LogMetaData: Removing '/Game/Player/PC_Player.SKEL_PC_Player_C' ref from Metadata '/Game/PC_Player.PackageMetaData'
+[2025.03.14-16.22.42:413][985]LogMetaData: Removing '/Game/Player/PC_Player.PC_Player_C' ref from Metadata '/Game/PC_Player.PackageMetaData'
+[2025.03.14-16.22.42:413][985]LogMetaData: Removing '/Game/Player/PC_Player.SKEL_PC_Player_C:UserConstructionScript' ref from Metadata '/Game/PC_Player.PackageMetaData'
+[2025.03.14-16.22.42:413][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.22.42:468][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerCharacter" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2025.03.14-16.22.42:474][985]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.03.14-16.22.42:474][985]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_PlayerCharacter613E23DB4CB7D1E8296D29A6FF2BDACA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset'
+[2025.03.14-16.22.42:475][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.14-16.22.42:477][985]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.14-16.22.42:477][985]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode3E975725491484D6B20305A6EAE25679.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.14-16.22.42:479][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.14-16.22.42:479][985]LogSavePackage: Moving output files for package: /Game/GMB_2D_CanteenGameMode
+[2025.03.14-16.22.42:481][985]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode6BD7F13D4A101B94EA36C283CF574ADE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/GMB_2D_CanteenGameMode.uasset'
+[2025.03.14-16.22.42:482][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset" SILENT=true
+[2025.03.14-16.22.42:484][985]LogSavePackage: Moving output files for package: /Game/Player/PC_Player
+[2025.03.14-16.22.42:484][985]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_Player1F93A7DC484042F305458EA9964A2040.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset'
+[2025.03.14-16.22.42:497][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.11 sec)
+[2025.03.14-16.22.42:709][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.03.14-16.22.42:827][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2025.03.14-16.22.42:870][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.14-16.22.42:901][985]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GMB_2D_CanteenGameMode.Default__GMB_2D_CanteenGameMode_C
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/PC_Player.PC_Player
+[2025.03.14-16.22.42:901][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.14-16.22.45:052][176]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-16.22.45:106][176]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-16.22.45:114][177]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-16.22.53:830][218]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.03.14-16.22.53:831][218]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.SKEL_WBP_HUD_C' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.WBP_HUD_C' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.SKEL_WBP_HUD_C:PreConstruct' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.SKEL_WBP_HUD_C:Construct' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_HUD.SKEL_WBP_HUD_C:Tick' ref from Metadata '/Game/WBP_HUD.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_MainMenu.SKEL_WBP_MainMenu_C' ref from Metadata '/Game/WBP_MainMenu.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_MainMenu.WBP_MainMenu_C' ref from Metadata '/Game/WBP_MainMenu.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_MainMenu.WBP_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/WBP_MainMenu.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_MainMenu.WBP_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/WBP_MainMenu.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogMetaData: Removing '/Game/UI/WBP_MainMenu.WBP_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/WBP_MainMenu.PackageMetaData'
+[2025.03.14-16.22.56:670][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.22.56:734][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerCharacter" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2025.03.14-16.22.56:950][507]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.03.14-16.22.56:950][507]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_PlayerCharacter5834979944B8A300D4191091F69C50BD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset'
+[2025.03.14-16.22.56:952][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset" SILENT=true
+[2025.03.14-16.22.56:955][507]LogSavePackage: Moving output files for package: /Game/Player/PC_Player
+[2025.03.14-16.22.56:956][507]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_PlayerF418B1B04364730ACCBDB3B15B28A577.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset'
+[2025.03.14-16.22.56:957][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.03.14-16.22.56:961][507]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.03.14-16.22.56:961][507]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_HUD1D03CA254F2C1598BBC52088135A7700.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset'
+[2025.03.14-16.22.56:962][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2025.03.14-16.22.56:978][507]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2025.03.14-16.22.56:979][507]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_MainMenuCA3F46724EC019D98BA967BB8904C1E8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_MainMenu.uasset'
+[2025.03.14-16.22.56:991][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 320 ms (total: 1.43 sec)
+[2025.03.14-16.22.57:035][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.14-16.22.57:067][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.14-16.22.57:093][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.14-16.22.57:125][507]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.14-16.22.57:125][507]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2025.03.14-16.22.57:125][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/PC_Player.PC_Player
+[2025.03.14-16.22.57:125][507]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.14-16.22.57:125][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.14-16.22.58:279][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.14-16.23.05:005][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-16.23.05:005][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.14-16.23.05:008][334]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.14-16.23.05:008][334]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameModeD36AAD8D4ECC4F6EE3CA099FDD130041.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.14-16.23.05:009][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 4 ms (total: 1.43 sec)
+[2025.03.14-16.23.05:039][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.14-16.23.05:206][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.14-16.23.05:231][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.14-16.23.05:253][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.14-16.23.05:269][334]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.14-16.23.05:269][334]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
