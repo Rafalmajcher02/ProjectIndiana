@@ -2008,3 +2008,28 @@ Script Stack (0 frames) :
 [2025.03.15-18.55.55:082][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.87 sec)
 [2025.03.15-18.55.55:089][593]AssetCheck: New page: Asset Save: BP_TrayInventory
 [2025.03.15-18.55.55:089][593]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-18.57.19:014][823]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-18.57.19:124][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.15-18.57.19:564][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-18.57.19:624][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-18.57.19:665][866]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-18.57.19:666][866]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory9E17137F48F413FF368F82AD3740E4F5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-18.57.19:678][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.98 sec)
+[2025.03.15-18.57.19:686][866]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-18.57.19:686][866]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-18.57.44:050][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.15-18.57.44:052][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.036
+[2025.03.15-18.57.44:053][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrayInventory] ([2] browsable assets)...
+[2025.03.15-18.57.44:053][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrayInventory]
+[2025.03.15-18.57.44:097][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrayInventory_Auto7
+[2025.03.15-18.57.44:097][548]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory_Auto7A0DC6D0942F2B526DA53F9A92360AE9E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/BP_TrayInventory_Auto7.uasset'
+[2025.03.15-18.57.44:099][548]LogFileHelpers: Auto-saving content packages took 0.047
+[2025.03.15-18.58.14:898][907]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-18.58.15:001][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.15-18.58.15:446][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-18.58.15:506][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-18.58.15:549][938]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-18.58.15:550][938]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryB1BE91674AC347B02AE92E9EAC181956.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-18.58.15:560][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.10 sec)
+[2025.03.15-18.58.15:574][938]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-18.58.15:574][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
