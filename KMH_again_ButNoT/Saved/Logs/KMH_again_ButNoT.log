@@ -1232,3 +1232,127 @@ Make sure 'WBP_Canteen_C' has been compiled for  Get TempTomatoProg
 [2025.03.15-16.04.49:816][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 278 ms)
 [2025.03.15-16.04.49:824][314]AssetCheck: New page: Asset Save: BP_PlayerCharacter
 [2025.03.15-16.04.49:824][314]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.15-16.05.11:563][ 54]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.05.11:628][ 54]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.05.11:636][ 55]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.05.18:528][871]LogContentBrowser: Attempting asset rename: NewFolder -> TrayInventory
+[2025.03.15-16.05.18:529][871]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.05.29:047][929]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-16.05.33:088][358]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.05.33:095][358]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.05.33:125][360]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.05.35:053][591]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.03.15-16.05.35:054][591]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.05.37:622][858]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.05.37:627][858]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.05.37:634][859]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.05.43:476][556]LogContentBrowser: Attempting asset rename: NewFolder -> DragAndDrop
+[2025.03.15-16.05.43:477][556]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.05.45:697][783]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.05.45:712][783]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.05.45:719][784]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.05.47:403][984]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.03.15-16.05.47:403][984]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.05.51:140][387]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.05.51:161][387]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.05.51:168][388]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.05.52:441][541]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2025.03.15-16.05.52:442][541]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.06.09:005][381]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.06.09:028][381]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.06.09:034][382]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.06.10:794][585]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.03.15-16.06.10:795][585]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.06.13:238][850]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.06.13:244][850]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.06.13:271][852]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.06.17:551][364]LogContentBrowser: Attempting asset rename: NewFolder -> ItemIcons
+[2025.03.15-16.06.17:552][364]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.06.19:904][598]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.06.19:911][598]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.06.19:918][599]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.06.22:718][934]LogContentBrowser: Attempting asset rename: NewFolder -> OperationsIcons
+[2025.03.15-16.06.22:718][934]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.06.56:089][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.15-16.06.57:239][557]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-16.06.57:247][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.06.57:303][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_Tomato" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_Tomato.uasset" SILENT=true
+[2025.03.15-16.06.57:305][557]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_Tomato
+[2025.03.15-16.06.57:305][557]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Tomato6947D01A49C185B479B75D8DB33F9BA0.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_Tomato.uasset'
+[2025.03.15-16.06.57:307][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_TrayPizza" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayPizza.uasset" SILENT=true
+[2025.03.15-16.06.57:318][557]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_TrayPizza
+[2025.03.15-16.06.57:318][557]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_TrayPizza96C8A2F544D9459BE91669888FEED060.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayPizza.uasset'
+[2025.03.15-16.06.57:321][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_TrayToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayToastie.uasset" SILENT=true
+[2025.03.15-16.06.57:329][557]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_TrayToastie
+[2025.03.15-16.06.57:329][557]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_TrayToastieB427B05F4A6F00406CD18D80B7C202EE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayToastie.uasset'
+[2025.03.15-16.06.57:338][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 368 ms)
+[2025.03.15-16.06.57:345][557]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.15-16.06.57:345][557]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_TrayToastie.I_TrayToastie
+[2025.03.15-16.06.57:345][557]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_TrayPizza.I_TrayPizza
+[2025.03.15-16.06.57:345][557]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_Tomato.I_Tomato
+[2025.03.15-16.07.17:439][869]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/ItemIcons/I_Tomato.I_Tomato
+[2025.03.15-16.07.18:273][869]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.15-16.07.20:894][129]LogViewport: Scene viewport resized to 843x393, mode Windowed.
+[2025.03.15-16.07.20:936][131]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2025.03.15-16.07.21:307][174]LogSlate: Window 'I_Tomato' being destroyed
+[2025.03.15-16.07.30:626][891]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/ItemIcons/I_TrayPizza.I_TrayPizza
+[2025.03.15-16.07.30:721][891]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.15-16.07.33:709][222]LogTexture: Display: Building textures: /Game/Textures/ItemIcons/I_TrayPizza.I_TrayPizza (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.03.15-16.07.47:645][863]LogTexture: Display: Building textures: /Game/Textures/ItemIcons/I_TrayPizza.I_TrayPizza (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.15-16.07.48:598][960]LogSlate: Window 'I_TrayPizza' being destroyed
+[2025.03.15-16.07.48:604][960]LogSlate: Window 'I_TrayPizza' being destroyed
+[2025.03.15-16.07.49:266][ 30]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/ItemIcons/I_TrayToastie.I_TrayToastie
+[2025.03.15-16.07.49:375][ 30]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.15-16.07.55:116][674]LogSlate: Window 'I_TrayToastie' being destroyed
+[2025.03.15-16.07.55:124][674]LogSlate: Window 'I_TrayToastie' being destroyed
+[2025.03.15-16.07.56:148][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.03.15-16.07.57:080][777]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-16.07.57:088][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.07.57:136][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_Tomato" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_Tomato.uasset" SILENT=true
+[2025.03.15-16.07.57:138][777]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_Tomato
+[2025.03.15-16.07.57:139][777]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_TomatoBA50BAE3495AE5C3D7CBBB90276B1C5B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_Tomato.uasset'
+[2025.03.15-16.07.57:141][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_TrayPizza" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayPizza.uasset" SILENT=true
+[2025.03.15-16.07.57:144][777]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_TrayPizza
+[2025.03.15-16.07.57:145][777]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_TrayPizza56D5BA314636CE65D9F91CBFE4F7845F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayPizza.uasset'
+[2025.03.15-16.07.57:149][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/I_TrayToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayToastie.uasset" SILENT=true
+[2025.03.15-16.07.57:154][777]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/I_TrayToastie
+[2025.03.15-16.07.57:155][777]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_TrayToastieE00BBA12495E31FDB4629AAE1ADC48A6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/I_TrayToastie.uasset'
+[2025.03.15-16.07.57:164][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 445 ms)
+[2025.03.15-16.07.57:175][777]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.15-16.07.57:175][777]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_TrayToastie.I_TrayToastie
+[2025.03.15-16.07.57:175][777]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_TrayPizza.I_TrayPizza
+[2025.03.15-16.07.57:175][777]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/I_Tomato.I_Tomato
+[2025.03.15-16.07.59:306][ 23]LogContentBrowser: Attempting asset rename: I_Tomato -> T_Tomato
+[2025.03.15-16.07.59:906][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.07.59:953][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/T_Tomato" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_Tomato.uasset" SILENT=true
+[2025.03.15-16.07.59:954][ 23]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/T_Tomato
+[2025.03.15-16.07.59:954][ 23]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TomatoACD765A44817CFD2FC42FAA4AF555FA8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_Tomato.uasset'
+[2025.03.15-16.07.59:962][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 502 ms)
+[2025.03.15-16.08.00:091][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.03.15-16.08.00:144][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.03.15-16.08.00:190][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.15-16.08.00:199][ 23]AssetCheck: New page: Asset Save: T_Tomato
+[2025.03.15-16.08.00:199][ 23]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/T_Tomato.T_Tomato
+[2025.03.15-16.08.02:915][347]LogContentBrowser: Attempting asset rename: I_TrayToastie -> T_TrayToastie
+[2025.03.15-16.08.02:935][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.08.02:985][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/T_TrayToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_TrayToastie.uasset" SILENT=true
+[2025.03.15-16.08.02:990][347]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/T_TrayToastie
+[2025.03.15-16.08.02:990][347]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TrayToastie306DAC514649BF5A9A87DBBECC10505C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_TrayToastie.uasset'
+[2025.03.15-16.08.02:998][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 565 ms)
+[2025.03.15-16.08.03:059][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.03.15-16.08.03:108][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.03.15-16.08.03:154][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.15-16.08.03:163][347]AssetCheck: New page: Asset Save: T_TrayToastie
+[2025.03.15-16.08.03:163][347]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/T_TrayToastie.T_TrayToastie
+[2025.03.15-16.08.05:773][652]LogContentBrowser: Attempting asset rename: I_TrayPizza -> T_TrayPizza
+[2025.03.15-16.08.05:793][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.08.05:836][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ItemIcons/T_TrayPizza" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_TrayPizza.uasset" SILENT=true
+[2025.03.15-16.08.05:839][652]LogSavePackage: Moving output files for package: /Game/Textures/ItemIcons/T_TrayPizza
+[2025.03.15-16.08.05:839][652]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TrayPizza438896A1413719087292E6B53DC8DE0B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Textures/ItemIcons/T_TrayPizza.uasset'
+[2025.03.15-16.08.05:847][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 618 ms)
+[2025.03.15-16.08.05:906][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.03.15-16.08.05:954][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.03.15-16.08.06:001][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.15-16.08.06:011][652]AssetCheck: New page: Asset Save: T_TrayPizza
+[2025.03.15-16.08.06:011][652]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/T_TrayPizza.T_TrayPizza
+[2025.03.15-16.08.07:209][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
