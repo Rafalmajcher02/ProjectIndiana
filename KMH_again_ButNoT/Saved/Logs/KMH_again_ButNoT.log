@@ -2350,3 +2350,12 @@ Script Stack (0 frames) :
 [2025.03.15-19.08.02:263][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.85 sec)
 [2025.03.15-19.08.02:271][708]AssetCheck: New page: Asset Save: WBP_Canteen
 [2025.03.15-19.08.02:271][708]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.09.13:464][591]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.09.13:531][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.15-19.09.13:958][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.09.14:027][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.09.14:042][631]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.09.14:043][631]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_CanteenC565CB1443199CC4F1317480FF4DF5ED.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.09.14:054][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.95 sec)
+[2025.03.15-19.09.14:062][631]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.09.14:062][631]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
