@@ -1,0 +1,1 @@
+Items not adding to tray because no free slots are found. Likely that slots are invalid or something along these lines
