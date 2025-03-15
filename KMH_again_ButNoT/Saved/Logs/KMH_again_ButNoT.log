@@ -1356,3 +1356,106 @@ Make sure 'WBP_Canteen_C' has been compiled for  Get TempTomatoProg
 [2025.03.15-16.08.06:011][652]AssetCheck: New page: Asset Save: T_TrayPizza
 [2025.03.15-16.08.06:011][652]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/ItemIcons/T_TrayPizza.T_TrayPizza
 [2025.03.15-16.08.07:209][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.15-16.09.28:371][788]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.03.15-16.09.28:371][788]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.03.15-16.09.30:388][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.09.30:436][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Textures/ItemIcons/T_TrayToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_TrayToastie.uasset" SILENT=true
+[2025.03.15-16.09.30:448][  5]LogSavePackage: Moving output files for package: /Game/Images/Textures/ItemIcons/T_TrayToastie
+[2025.03.15-16.09.30:448][  5]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TrayToastieAE951BBC435C2E2F163F71AE2E4789A4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_TrayToastie.uasset'
+[2025.03.15-16.09.30:449][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Textures/ItemIcons/T_TrayPizza" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_TrayPizza.uasset" SILENT=true
+[2025.03.15-16.09.30:452][  5]LogSavePackage: Moving output files for package: /Game/Images/Textures/ItemIcons/T_TrayPizza
+[2025.03.15-16.09.30:452][  5]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TrayPizza16E1433A410F18C82DA2AC9D05250131.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_TrayPizza.uasset'
+[2025.03.15-16.09.30:453][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Textures/ItemIcons/T_Tomato" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_Tomato.uasset" SILENT=true
+[2025.03.15-16.09.30:454][  5]LogSavePackage: Moving output files for package: /Game/Images/Textures/ItemIcons/T_Tomato
+[2025.03.15-16.09.30:454][  5]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TomatoE0F6C5FA43A136D3F24363A3B488637E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_Tomato.uasset'
+[2025.03.15-16.09.30:463][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 693 ms)
+[2025.03.15-16.09.30:552][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.03.15-16.09.30:603][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.03.15-16.09.30:650][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.15-16.09.30:710][  5]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.15-16.09.30:710][  5]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Textures/ItemIcons/T_TrayToastie.T_TrayToastie
+[2025.03.15-16.09.30:710][  5]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Textures/ItemIcons/T_TrayPizza.T_TrayPizza
+[2025.03.15-16.09.30:711][  5]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Textures/ItemIcons/T_Tomato.T_Tomato
+[2025.03.15-16.09.35:733][337]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-16.09.35:769][338]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-16.09.35:773][338]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-16.09.35:774][338]LogTexture: Display: Building textures: /Game/Images/I_Canteen3.I_Canteen3 (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 168.460938 MB), EncodeSpeed: Fast
+[2025.03.15-16.09.35:834][339]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-16.09.38:015][485]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.09.38:031][485]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.09.38:040][486]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.09.39:682][681]LogContentBrowser: Attempting asset rename: NewFolder -> Canteen
+[2025.03.15-16.09.39:682][681]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.09.43:539][121]LogContentBrowser: Attempting asset rename: Canteen -> Rooms
+[2025.03.15-16.09.47:112][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.09.47:172][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-16.09.47:175][494]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-16.09.47:175][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_CanteenD8689AA548ADA6CAB13F42A98E300C18.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-16.09.47:181][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.03.15-16.09.47:185][494]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.03.15-16.09.47:185][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageD2FAA8564505E6CBA6AB51901CA92E3A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.03.15-16.09.47:188][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Rooms/I_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen.uasset" SILENT=true
+[2025.03.15-16.09.47:208][494]LogSavePackage: Moving output files for package: /Game/Images/Rooms/I_Canteen
+[2025.03.15-16.09.47:208][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Canteen2BEB525C4628BEE3449F648DBB550A98.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen.uasset'
+[2025.03.15-16.09.47:209][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Rooms/I_Canteen2" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen2.uasset" SILENT=true
+[2025.03.15-16.09.47:212][494]LogSavePackage: Moving output files for package: /Game/Images/Rooms/I_Canteen2
+[2025.03.15-16.09.47:212][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Canteen25A22901545605BC698F4FCAADEA90EDE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen2.uasset'
+[2025.03.15-16.09.47:215][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Rooms/I_Canteen3" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen3.uasset" SILENT=true
+[2025.03.15-16.09.47:262][494]LogSavePackage: Moving output files for package: /Game/Images/Rooms/I_Canteen3
+[2025.03.15-16.09.47:262][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Canteen31871CB1C4D5723440328C8AB2AC5117E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_Canteen3.uasset'
+[2025.03.15-16.09.47:265][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Rooms/I_MaStorage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_MaStorage.uasset" SILENT=true
+[2025.03.15-16.09.47:293][494]LogSavePackage: Moving output files for package: /Game/Images/Rooms/I_MaStorage
+[2025.03.15-16.09.47:293][494]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_MaStorage211C2C2948BE128F415F019BA4493A2C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Rooms/I_MaStorage.uasset'
+[2025.03.15-16.09.47:302][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 883 ms)
+[2025.03.15-16.09.47:404][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.03.15-16.09.47:460][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.03.15-16.09.47:507][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.15-16.09.47:535][494]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Rooms/I_Canteen.I_Canteen
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Rooms/I_Canteen2.I_Canteen2
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Rooms/I_MaStorage.I_MaStorage
+[2025.03.15-16.09.47:535][494]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Rooms/I_Canteen3.I_Canteen3
+[2025.03.15-16.09.53:135][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.03.15-16.09.54:059][136]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.15-16.09.54:118][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.03.15-16.09.54:165][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.03.15-16.09.54:212][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.15-16.10.18:614][906]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/I_Tray.I_Tray
+[2025.03.15-16.10.18:732][906]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.15-16.10.23:372][416]LogSlate: Window 'I_Tray' being destroyed
+[2025.03.15-16.10.23:379][416]LogSlate: Window 'I_Tray' being destroyed
+[2025.03.15-16.10.25:525][665]LogContentBrowser: Attempting asset rename: I_Tray -> T_Tray
+[2025.03.15-16.10.25:551][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.10.25:604][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/T_Tray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/T_Tray.uasset" SILENT=true
+[2025.03.15-16.10.25:809][665]LogSavePackage: Moving output files for package: /Game/Images/T_Tray
+[2025.03.15-16.10.25:809][665]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_TrayEC6A5C8A48B474539231AFA4A42038A1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/T_Tray.uasset'
+[2025.03.15-16.10.25:817][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 1.14 sec)
+[2025.03.15-16.10.25:881][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.03.15-16.10.25:933][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.03.15-16.10.25:979][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.15-16.10.25:989][665]AssetCheck: New page: Asset Save: T_Tray
+[2025.03.15-16.10.25:989][665]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/T_Tray.T_Tray
+[2025.03.15-16.10.26:017][669]LogHttp: Warning: 00000576B4CCAA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 0 (Found bundle for host: 0x57656160ae0 [serially])
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.7.124.199) port 443 (#1))
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 6 (Closing connection 1)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: 00000576B4CCAA00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.15-16.10.26:018][669]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.15-16.10.29:034][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.10.29:085][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Textures/ItemIcons/T_Tray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_Tray.uasset" SILENT=true
+[2025.03.15-16.10.29:102][986]LogSavePackage: Moving output files for package: /Game/Images/Textures/ItemIcons/T_Tray
+[2025.03.15-16.10.29:102][986]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/T_Tray4C4769BF42C61F71B12D4DB8893E07A4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Textures/ItemIcons/T_Tray.uasset'
+[2025.03.15-16.10.29:112][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.22 sec)
+[2025.03.15-16.10.29:172][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.03.15-16.10.29:221][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.03.15-16.10.29:270][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.15-16.10.29:293][986]AssetCheck: New page: Asset Save: T_Tray
+[2025.03.15-16.10.29:293][986]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Textures/ItemIcons/T_Tray.T_Tray
+[2025.03.15-16.10.35:026][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
