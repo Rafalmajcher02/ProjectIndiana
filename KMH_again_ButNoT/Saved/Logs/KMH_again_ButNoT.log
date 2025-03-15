@@ -2359,3 +2359,483 @@ Script Stack (0 frames) :
 [2025.03.15-19.09.14:054][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.95 sec)
 [2025.03.15-19.09.14:062][631]AssetCheck: New page: Asset Save: WBP_Canteen
 [2025.03.15-19.09.14:062][631]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.11.10:883][254]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-19.11.10:895][254]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-19.11.10:903][255]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-19.11.17:045][990]LogContentBrowser: Attempting asset rename: NewFolder -> PickUps
+[2025.03.15-19.11.17:046][990]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-19.11.23:501][388]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2025.03.15-19.11.23:512][388]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.15-19.11.23:518][388]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.15-19.11.23:561][390]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.15-19.11.53:654][980]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_PickUpToTray
+[2025.03.15-19.11.53:660][980]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.15-19.11.56:557][320]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.11.56:557][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.11.56:568][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.11.56:979][320]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.11.56:979][320]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: ================================================
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: Total job queries 62, among them cache hits 16 (25.81%)
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: Tracking 46 distinct input hashes that result in 30 distinct outputs (65.22%)
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: RAM used: 0.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.15-19.12.23:539][688]LogShaderCompilers: Display: ================================================
+[2025.03.15-19.12.32:418][360]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.12.36:111][797]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.12.36:178][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.15-19.13.51:952][578]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.13.52:016][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.15-19.13.52:511][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.13.52:576][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.13.52:591][623]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.13.52:591][623]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTrayC09383EA4AAFE509B065BB8E0BDF231F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.13.52:603][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.04 sec)
+[2025.03.15-19.13.52:610][623]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.13.52:610][623]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.15.49:832][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.15.49:832][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.15.56:789][650]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.15.56:789][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.15.56:831][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.15.56:831][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.16.36:937][ 91]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.15-19.16.37:030][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.15-19.16.37:430][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.16.37:519][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.15-19.16.37:523][129]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.15-19.16.37:524][129]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode80F02DCF40989DA98FAE1190E93ED2ED.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.15-19.16.37:534][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.15 sec)
+[2025.03.15-19.16.37:543][129]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.15-19.16.37:543][129]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.16.44:515][909]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.15-19.16.44:516][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.16.55:778][ 64]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.16.55:778][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.17.08:160][446]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.15-19.17.08:246][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.15-19.17.08:668][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.17.08:723][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.15-19.17.08:728][477]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.15-19.17.08:729][477]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode905D796344D775C333B9828B3C765067.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.15-19.17.08:739][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.22 sec)
+[2025.03.15-19.17.08:747][477]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.15-19.17.08:747][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.17.29:405][812]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.15-19.17.29:480][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.15-19.17.29:930][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.17.29:989][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.15-19.17.29:994][857]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.15-19.17.29:995][857]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode46360BF64AD2D208AF65918A78A053E1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.15-19.17.30:004][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.29 sec)
+[2025.03.15-19.17.30:012][857]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.15-19.17.30:012][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.19.11:218][836]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.19.12:928][ 30]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.19.12:988][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.15-19.19.13:618][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.19.13:677][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.19.13:694][ 90]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.19.13:694][ 90]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray95E4ECC4445F025CFD69128ACD708FCB.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.19.13:704][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.38 sec)
+[2025.03.15-19.19.13:713][ 90]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.19.13:713][ 90]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.19.26:220][722]LogHttp: Warning: 000005771E035000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 0 (Found bundle for host: 0x57656160e10 [serially])
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 1 (Re-using existing connection #16 with host datarouter.ol.epicgames.com)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.175.16.238) port 443 (#16))
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 6 (Closing connection 16)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: 000005771E035000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.15-19.19.26:221][722]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.15-19.20.11:568][897]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.20.11:654][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.15-19.20.12:048][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.20.12:112][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.20.12:119][933]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.20.12:120][933]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray5A58E68349E73601D6DE9184B292EE90.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.20.12:132][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.46 sec)
+[2025.03.15-19.20.12:139][933]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.20.12:139][933]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.21.23:246][ 57]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.172 and deleted 0 files with total size 0 MiB. Scanned 1765 files in 1758 folders with total size 180 MiB.
+[2025.03.15-19.22.24:346][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.15-19.22.24:349][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.054
+[2025.03.15-19.22.24:350][689]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PickUps/WBP_PickUpToTray] ([2] browsable assets)...
+[2025.03.15-19.22.24:353][689]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray]
+[2025.03.15-19.22.24:353][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PickUps/WBP_PickUpToTray]
+[2025.03.15-19.22.24:367][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto8
+[2025.03.15-19.22.24:367][689]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray_Auto8669B4AAD4A7FF5EBCC0724AEB5593B7D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto8.uasset'
+[2025.03.15-19.22.24:368][689]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.03.15-19.23.42:355][389]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.23.44:891][460]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.23.47:636][566]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.23.48:805][688]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.23.48:884][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.15-19.23.49:343][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.23.49:418][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.23.49:428][720]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.23.49:429][720]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray7EAAB06C4C4CD6A477667D98AAD81AC9.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.23.49:442][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.56 sec)
+[2025.03.15-19.23.49:450][720]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.23.49:450][720]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.23.55:671][422]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.23.55:671][422]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.24.10:417][775]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0 while ResolveName, will return /Engine/Transient.World_15:WBP_Canteen_C_18.WidgetTree_0 but could also be: /Engine/Transient.World_15:WBP_Canteen_C_17.WidgetTree_0 or 122 other object(s)
+[2025.03.15-19.24.10:417][775]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0.Button_37 while FindImportedObject, will return /Engine/Transient.World_23:WBP_PickUpToTray_C_3.WidgetTree_0.Button_37 but could also be: /Engine/Transient.World_23:WBP_PickUpToTray_C_9.WidgetTree_0.Button_37 or 96 other object(s)
+[2025.03.15-19.24.10:428][775]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Button /Engine/Transient.World_23:WBP_PickUpToTray_C_3.WidgetTree_0.Button_37) from referencer (WBP_PickUpToTray_C /Engine/UMG/Editor/Transient.WBP_PickUpToTray).  Import failed...
+[2025.03.15-19.24.10:453][775]LogProperty: Warning: ObjectProperty /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:Button_37: unresolved reference to '/Script/UMG.Button'"WidgetTree_0.Button_37"''
+[2025.03.15-19.24.21:330][805]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.24.21:330][805]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.24.21:330][805]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.24.38:397][663]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.24.39:023][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.15-19.24.44:534][272]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.24.44:535][272]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: ================================================
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Total job queries 84, among them cache hits 18 (21.43%)
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Tracking 63 distinct input hashes that result in 38 distinct outputs (60.32%)
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: RAM used: 0.34 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Shaders Compiled: 13
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Jobs assigned 16, completed 13 (81.25%)
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Average time worker was idle: 368.22 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Time job spent in pending queue: average 1.22 s, longest 4.95 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Job execution time: average 3.26 s, max 5.05 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Job life time (pending + execution): average 4.76 s, max 5.47
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.21 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Average processing rate: 2.09 jobs/sec
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Total thread time: 8.70 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Total thread preprocess time: 0.87 s
+[2025.03.15-19.24.47:526][453]LogShaderCompilers: Display: Percentage time preprocessing: 10.01%
+[2025.03.15-19.24.47:544][453]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.82 sec, max 0.90 sec, min 0.66 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.77 sec, max 0.85 sec, min 0.61 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.70 sec, max 0.78 sec, min 0.57 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.46 sec, max 0.57 sec, min 0.32 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.16% of total time (compiled    3 times, average 0.82 sec, max 0.90 sec, min 0.66 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.48% of total time (compiled    3 times, average 0.77 sec, max 0.85 sec, min 0.61 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.07% of total time (compiled    3 times, average 0.70 sec, max 0.78 sec, min 0.57 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 21.29% of total time (compiled    4 times, average 0.46 sec, max 0.57 sec, min 0.32 sec)
+[2025.03.15-19.24.47:548][453]LogShaderCompilers: Display: ================================================
+[2025.03.15-19.24.52:411][792]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.24.52:513][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.24.53:448][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.24.53:455][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.24.53:455][879]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:24:53)
+[2025.03.15-19.24.53:455][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.24.53:456][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001195s)
+[2025.03.15-19.24.53:456][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001226s)
+[2025.03.15-19.24.53:456][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.24.53:456][879]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.24.53:456][879]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2025.03.15-19.24.53:507][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.15-19.24.53:510][879]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.24.53:510][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.24.53:510][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.24.53:510][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.24.53:510][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.24.53:510][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.24.53:513][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.24.53:536][879]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.24.53:536][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.24.53:536][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.24.53:536][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.24.53:537][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.15-19.24.53:537][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.15-19.24.53:539][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.15-19.24.53:539][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.15-19.24.53:539][879]LogInit: FAudioDevice initialized.
+[2025.03.15-19.24.53:539][879]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_Main'.
+[2025.03.15-19.24.53:542][879]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.24.53:542][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.24.53
+[2025.03.15-19.24.53:543][879]LogWorld: Bringing up level for play took: 0.000558
+[2025.03.15-19.24.53:544][879]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.15-19.24.53:546][879]LogScript: Warning: Accessed None trying to read property HUD_Reference
+	GMB_2D_CanteenGameMode_C /Game/Maps/UEDPIE_0_L_Main.L_Main:PersistentLevel.GMB_2D_CanteenGameMode_C_0
+	Function /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C:ExecuteUbergraph_GMB_2D_CanteenGameMode:00CB
+[2025.03.15-19.24.53:546][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD_Reference". Node:  Set Canteen_Reference Graph:  EventGraph Function:  Execute Ubergraph GMB 2D Canteen Game Mode Blueprint:  GMB_2D_CanteenGameMode
+[2025.03.15-19.24.53:546][879]PIE: Server logged in
+[2025.03.15-19.24.53:547][879]PIE: Play in editor total start time 0.093 seconds.
+[2025.03.15-19.24.55:467][ 97]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.55:467][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.55:467][ 97]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.24.56:642][237]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.56:642][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.56:642][237]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.24.57:436][332]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_1
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.57:436][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.57:436][332]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick up item. There is no tray out
+[2025.03.15-19.24.57:822][378]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.57:822][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.57:822][378]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick up item. There is no tray out
+[2025.03.15-19.24.58:506][460]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.24.59:033][523]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.59:033][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.59:033][523]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.24.59:654][596]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.24.59:654][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.24.59:654][596]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.25.00:557][703]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.25.00:928][747]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.25.01:170][776]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.25.01:345][797]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.25.01:520][818]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.25.02:411][923]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.25.03:081][  3]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.25.03:943][106]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.03:943][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.03:943][106]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.25.04:201][137]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_2
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.04:201][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.04:201][137]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.25.04:727][199]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_1
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.04:727][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.04:727][199]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick up item. There is no tray out
+[2025.03.15-19.25.05:020][234]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.05:020][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.05:020][234]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick up item. There is no tray out
+[2025.03.15-19.25.05:228][259]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.05:228][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.05:228][259]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick up item. There is no tray out
+[2025.03.15-19.25.05:553][298]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_1
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.05:554][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.05:554][298]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick up item. There is no tray out
+[2025.03.15-19.25.05:736][320]LogScript: Warning: Accessed None trying to read property Canteen_Reference
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray_1
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:0117
+[2025.03.15-19.25.05:736][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Canteen_Reference". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.15-19.25.05:736][320]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick up item. There is no tray out
+[2025.03.15-19.25.07:646][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.25.07:646][535]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.25.07:646][535]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.25.07:646][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.25.07:651][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.25.07:656][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.25.07:708][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.15-19.25.07:708][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.15-19.25.07:710][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.15-19.25.07:713][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.25.07:716][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.15-19.25.07:787][536]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.15-19.25.13:419][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2025.03.15-19.25.13:419][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.25.27:617][705]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.25.27:617][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.26.28:941][551]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.15-19.26.29:053][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.26.29:500][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.26.29:560][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.15-19.26.29:565][591]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.15-19.26.29:565][591]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode96FA5B5F4240AF034DF2C9A5F970305D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.15-19.26.29:577][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 5.64 sec)
+[2025.03.15-19.26.29:585][591]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.15-19.26.29:585][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.27.05:002][447]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.27.05:085][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.15-19.27.05:651][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.27.05:734][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.27.05:756][483]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.27.05:757][483]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen911DFCAC476B9CD768C9EEB57656BBF1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.27.05:771][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 5.76 sec)
+[2025.03.15-19.27.05:781][483]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.27.05:781][483]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.27.15:867][639]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.27.15:964][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.27.16:352][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.27.16:395][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.27.16:413][665]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.27.16:413][665]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTrayF232B2904857174C657E9D80E1507DD7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.27.16:426][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.83 sec)
+[2025.03.15-19.27.16:432][665]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.27.16:433][665]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.27.25:979][776]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.03.15-19.27.26:075][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.15-19.27.26:431][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.27.26:492][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.03.15-19.27.26:496][806]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.03.15-19.27.26:496][806]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameModeC48CE46C4B741074D226EBB0FC990CAE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.03.15-19.27.26:507][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.91 sec)
+[2025.03.15-19.27.26:516][806]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.03.15-19.27.26:516][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.03.15-19.27.41:523][487]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.27.41:604][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.15-19.27.42:096][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.27.42:160][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.27.42:173][524]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.27.42:174][524]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen3EE2E93A42FABB5703BB8BB9D2A1E0C4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.27.42:185][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.00 sec)
+[2025.03.15-19.27.42:193][524]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.27.42:193][524]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.27.43:160][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.27.43:166][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.27.43:166][621]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:27:43)
+[2025.03.15-19.27.43:166][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.27.43:167][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2025.03.15-19.27.43:167][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001099s)
+[2025.03.15-19.27.43:167][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.27.43:167][621]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.27.43:167][621]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2025.03.15-19.27.43:220][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.27.43:222][621]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.27.43:222][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.27.43:222][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.27.43:223][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.27.43:223][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.27.43:223][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.27.43:225][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.27.43:250][621]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.27.43:251][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.27.43:251][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.27.43:251][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.27.43:251][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.15-19.27.43:251][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.15-19.27.43:253][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.15-19.27.43:253][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.15-19.27.43:253][621]LogInit: FAudioDevice initialized.
+[2025.03.15-19.27.43:253][621]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Main'.
+[2025.03.15-19.27.43:257][621]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.27.43:257][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.27.43
+[2025.03.15-19.27.43:258][621]LogWorld: Bringing up level for play took: 0.000674
+[2025.03.15-19.27.43:260][621]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.15-19.27.43:262][621]PIE: Server logged in
+[2025.03.15-19.27.43:262][621]PIE: Play in editor total start time 0.097 seconds.
+[2025.03.15-19.27.44:434][751]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.27.45:524][880]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.27.50:246][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.27.50:246][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.27.50:246][429]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.27.50:246][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.27.50:250][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.27.50:255][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.27.50:303][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.27.50:304][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.15-19.27.50:305][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.15-19.27.50:310][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.15-19.27.50:334][430]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.15-19.28.22:231][684]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.28.23:424][813]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.15-19.28.23:518][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-19.28.24:388][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.28.24:394][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.28.24:394][889]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:28:24)
+[2025.03.15-19.28.24:394][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.28.24:395][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001012s)
+[2025.03.15-19.28.24:395][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001039s)
+[2025.03.15-19.28.24:395][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.28.24:396][889]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.28.24:396][889]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2025.03.15-19.28.24:443][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-19.28.24:447][889]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.28.24:447][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.28.24:447][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.28.24:447][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.28.24:447][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.28.24:447][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.28.24:450][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.28.24:471][889]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.28.24:472][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.28.24:472][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.28.24:472][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.28.24:472][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.15-19.28.24:472][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.15-19.28.24:474][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.15-19.28.24:474][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.15-19.28.24:474][889]LogInit: FAudioDevice initialized.
+[2025.03.15-19.28.24:474][889]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Main'.
+[2025.03.15-19.28.24:478][889]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.28.24:478][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.28.24
+[2025.03.15-19.28.24:478][889]LogWorld: Bringing up level for play took: 0.000424
+[2025.03.15-19.28.24:480][889]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.15-19.28.24:482][889]PIE: Server logged in
+[2025.03.15-19.28.24:483][889]PIE: Play in editor total start time 0.089 seconds.
+[2025.03.15-19.28.25:439][994]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.28.26:259][ 92]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.28.26:919][171]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons
+[2025.03.15-19.28.27:892][282]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons
+[2025.03.15-19.28.28:093][306]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons
+[2025.03.15-19.28.28:244][324]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons
+[2025.03.15-19.28.28:584][365]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons
+[2025.03.15-19.28.28:977][412]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons
+[2025.03.15-19.28.29:112][428]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons
+[2025.03.15-19.28.29:744][503]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.28.29:936][526]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.28.30:084][543]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.28.30:226][560]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.28.31:590][714]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.28.32:502][823]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.28.32:671][843]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick up item. There is no tray out
+[2025.03.15-19.28.33:188][905]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.28.35:226][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.28.35:226][130]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.28.35:226][130]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.28.35:226][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.28.35:230][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.28.35:236][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.28.35:288][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.15-19.28.35:288][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.15-19.28.35:290][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.15-19.28.35:295][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.28.35:298][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.15-19.28.35:322][131]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.15-19.28.44:867][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.15-19.28.45:939][254]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-19.28.45:952][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.28.46:013][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.15-19.28.46:022][254]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.15-19.28.46:023][254]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray4AD66BAE41DBDD70B9DE6C9CB5005DDF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.15-19.28.46:036][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.08 sec)
+[2025.03.15-19.28.46:042][254]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.15-19.28.46:042][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
