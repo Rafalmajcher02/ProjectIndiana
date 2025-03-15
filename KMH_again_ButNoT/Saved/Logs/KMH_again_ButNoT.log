@@ -1169,3 +1169,66 @@ Make sure 'WBP_Canteen_C' has been compiled for  Get TempTomatoProg
 [2025.03.15-16.02.27:606][762]AssetCheck: New page: Asset Save: multiple assets
 [2025.03.15-16.02.27:606][762]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
 [2025.03.15-16.02.27:606][762]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/I_Canteen2.I_Canteen2
+[2025.03.15-16.04.00:030][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.03.15-16.04.00:031][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.04.38:029][346]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.03.15-16.04.38:094][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.15-16.04.42:562][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-16.04.42:568][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-16.04.42:568][864]PIE: New page: PIE session: L_Main (15 Mar 2025, 16:04:42)
+[2025.03.15-16.04.42:568][864]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-16.04.42:569][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001177s)
+[2025.03.15-16.04.42:569][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001207s)
+[2025.03.15-16.04.42:569][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.04.42:570][864]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-16.04.42:570][864]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2025.03.15-16.04.42:614][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.15-16.04.42:616][864]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-16.04.42:616][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-16.04.42:616][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-16.04.42:616][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-16.04.42:617][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-16.04.42:617][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-16.04.42:618][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-16.04.42:641][864]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-16.04.42:641][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-16.04.42:642][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-16.04.42:642][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-16.04.42:642][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.15-16.04.42:643][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.15-16.04.42:644][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.15-16.04.42:644][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.15-16.04.42:644][864]LogInit: FAudioDevice initialized.
+[2025.03.15-16.04.42:644][864]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Main'.
+[2025.03.15-16.04.42:647][864]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-16.04.42:648][864]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-16.04.42
+[2025.03.15-16.04.42:648][864]LogWorld: Bringing up level for play took: 0.000415
+[2025.03.15-16.04.42:650][864]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.03.15-16.04.42:651][864]PIE: Server logged in
+[2025.03.15-16.04.42:652][864]PIE: Play in editor total start time 0.083 seconds.
+[2025.03.15-16.04.44:198][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-16.04.44:198][ 31]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-16.04.44:198][ 31]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.04.44:198][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.04.44:201][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-16.04.44:207][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.04.44:248][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-16.04.44:248][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.15-16.04.44:250][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.15-16.04.44:255][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.03.15-16.04.44:273][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.03.15-16.04.49:097][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.15-16.04.49:743][314]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-16.04.49:752][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.04.49:803][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerCharacter" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2025.03.15-16.04.49:808][314]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.03.15-16.04.49:808][314]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_PlayerCharacter7CB8B3C94375281E9D37FBAEFCB3EB21.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/BP_PlayerCharacter.uasset'
+[2025.03.15-16.04.49:816][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 278 ms)
+[2025.03.15-16.04.49:824][314]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.03.15-16.04.49:824][314]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
