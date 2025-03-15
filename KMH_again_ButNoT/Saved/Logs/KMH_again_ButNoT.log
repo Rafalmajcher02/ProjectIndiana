@@ -1081,3 +1081,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.15-15.08.35:347][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms
 [2025.03.15-15.08.35:356][397]AssetCheck: New page: Asset Save: WBP_Canteen
 [2025.03.15-15.08.35:357][397]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA809CBA2-437C-4715-29AB-53AF17809D5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 0 (Found bundle for host: 0xb477b9601b0 [serially])
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.67.90) port 443 (#1))
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 6 (Closing connection 1)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: 00000B47CEAD7300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.15-15.09.33:629][698]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA809CBA2-437C-4715-29AB-53AF17809D5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA809CBA2-437C-4715-29AB-53AF17809D5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 0 (Found bundle for host: 0xb477b960b40 [serially])
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.67.90) port 443 (#2))
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 6 (Closing connection 2)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: 00000B47CEADF500: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.15-15.11.39:989][ 77]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA809CBA2-437C-4715-29AB-53AF17809D5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.15-15.12.50:959][566]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-15.12.50:959][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-15.12.50:966][566]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-15.12.50:966][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-15.12.53:895][898]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.03.15-15.12.53:895][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-15.12.53:904][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-15.12.54:374][898]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-15.12.54:374][898]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-15.13.17:658][509]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-15.13.17:683][510]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-15.13.17:797][512]LogTexture: Display: Building textures: /Game/Images/I_MaStorage.I_MaStorage (BGRA8, 1899x980 x1x1x1) (Required Memory Estimate: 54.489914 MB), EncodeSpeed: Fast
+[2025.03.15-15.13.17:821][512]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-15.13.17:889][513]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-15.13.34:133][338]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: ================================================
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: Total job queries 41, among them cache hits 4 (9.76%)
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 27 distinct outputs (72.97%)
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.15-15.13.34:471][347]LogShaderCompilers: Display: ================================================
+[2025.03.15-15.16.02:073][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.15-15.16.02:077][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.104
+[2025.03.15-15.16.02:078][434]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Storage] ([2] browsable assets)...
+[2025.03.15-15.16.02:083][434]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage]
+[2025.03.15-15.16.02:083][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Storage]
+[2025.03.15-15.16.02:083][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Storage_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.15-15.16.02:086][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Storage_Auto1
+[2025.03.15-15.16.02:086][434]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Storage_Auto1000E704F42112E19649110BB937DF874.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Storage_Auto1.uasset'
+[2025.03.15-15.16.02:087][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/I_MaStorage] ([1] browsable assets)...
+[2025.03.15-15.16.02:090][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/I_MaStorage.I_MaStorage]
+[2025.03.15-15.16.02:090][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/I_MaStorage]
+[2025.03.15-15.16.02:090][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/I_MaStorage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/I_MaStorage_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.15-15.16.02:109][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/I_MaStorage_Auto1
+[2025.03.15-15.16.02:109][434]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_MaStorage_Auto1167587E7428C550AF394D38D9C2DE1BA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/I_MaStorage_Auto1.uasset'
+[2025.03.15-15.16.02:110][434]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.03.15-15.17.10:887][949]BlueprintLog: New page: Compile WBP_Storage
+[2025.03.15-15.17.10:998][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.15-15.17.11:575][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-15.17.11:638][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.03.15-15.17.11:642][  8]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.03.15-15.17.11:643][  8]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Storage99ABFCD1484A0B36F56F4C9F4C8630E6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.03.15-15.17.11:650][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 330 ms)
+[2025.03.15-15.17.11:655][  8]AssetCheck: New page: Asset Save: WBP_Storage
+[2025.03.15-15.17.11:655][  8]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.03.15-15.17.13:604][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.15-15.17.14:465][208]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-15.17.14:472][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-15.17.14:517][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/I_MaStorage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/I_MaStorage.uasset" SILENT=true
+[2025.03.15-15.17.14:636][208]LogSavePackage: Moving output files for package: /Game/Images/I_MaStorage
+[2025.03.15-15.17.14:637][208]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_MaStorageEBAE7E014A51C9886AF00E852E8DE2C4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/I_MaStorage.uasset'
+[2025.03.15-15.17.14:647][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 505 ms)
+[2025.03.15-15.17.14:652][208]AssetCheck: New page: Asset Save: I_MaStorage
+[2025.03.15-15.17.14:652][208]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/I_MaStorage.I_MaStorage
