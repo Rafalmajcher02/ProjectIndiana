@@ -1549,3 +1549,129 @@ Make sure 'WBP_Canteen_C' has been compiled for  Get TempTomatoProg
 [2025.03.15-16.28.16:962][604]BlueprintLog: New page: Compile WBP_Canteen
 [2025.03.15-16.28.17:039][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
 [2025.03.15-16.28.18:633][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.03.15-16.29.56:271][450]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.15-16.29.56:277][450]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.15-16.29.56:284][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.15-16.29.58:033][660]LogContentBrowser: Attempting asset rename: NewFolder -> Items
+[2025.03.15-16.29.58:033][660]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.15-16.30.01:202][996]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-16.30.01:203][996]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-16.30.01:203][996]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-16.30.03:120][996]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.15-16.30.03:127][996]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.15-16.30.03:132][996]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.15-16.30.03:155][998]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.15-16.30.07:353][486]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MasterItem
+[2025.03.15-16.30.07:358][486]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.15-16.30.07:704][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_MasterItem.BP_MasterItem
+[2025.03.15-16.30.07:705][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.30.08:366][526]LogViewport: Scene viewport resized to 732x270, mode Windowed.
+[2025.03.15-16.30.09:593][616]LogViewport: Scene viewport resized to 729x289, mode Windowed.
+[2025.03.15-16.30.09:679][618]LogViewport: Scene viewport resized to 545x188, mode Windowed.
+[2025.03.15-16.30.09:724][619]LogViewport: Scene viewport resized to 502x164, mode Windowed.
+[2025.03.15-16.30.09:747][620]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.15-16.30.10:129][663]LogSlate: Window 'BP_MasterItem' being destroyed
+[2025.03.15-16.30.31:422][168]BlueprintLog: New page: Compile BP_MasterItem
+[2025.03.15-16.30.31:479][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.15-16.30.32:221][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.30.32:270][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_MasterItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BP_MasterItem.uasset" SILENT=true
+[2025.03.15-16.30.32:274][241]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_MasterItem
+[2025.03.15-16.30.32:274][241]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_MasterItem3AF7A7E24D1707F8E6DAACB9639AAFCD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BP_MasterItem.uasset'
+[2025.03.15-16.30.32:281][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.65 sec)
+[2025.03.15-16.30.32:289][241]AssetCheck: New page: Asset Save: BP_MasterItem
+[2025.03.15-16.30.32:289][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BP_MasterItem.BP_MasterItem
+[2025.03.15-16.30.56:152][992]BlueprintLog: New page: Compile BP_MasterItem
+[2025.03.15-16.30.56:211][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.03.15-16.30.56:570][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.30.56:603][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_MasterItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BP_MasterItem.uasset" SILENT=true
+[2025.03.15-16.30.56:605][ 24]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_MasterItem
+[2025.03.15-16.30.56:606][ 24]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_MasterItem289546EB40EF172925FF99A2C9960641.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BP_MasterItem.uasset'
+[2025.03.15-16.30.56:615][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.69 sec)
+[2025.03.15-16.30.56:621][ 24]AssetCheck: New page: Asset Save: BP_MasterItem
+[2025.03.15-16.30.56:621][ 24]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BP_MasterItem.BP_MasterItem
+[2025.03.15-16.31.04:048][889]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.31.04:048][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.31.05:573][ 54]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.31.05:574][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.31.05:583][ 54]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.31.05:583][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.31.09:433][464]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2025.03.15-16.31.09:462][464]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2025.03.15-16.31.09:468][465]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2025.03.15-16.31.15:471][178]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> BPC_Pizza
+[2025.03.15-16.31.15:476][178]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2025.03.15-16.31.17:017][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Pizza.BPC_Pizza
+[2025.03.15-16.31.17:018][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.31.17:539][363]LogViewport: Scene viewport resized to 732x270, mode Windowed.
+[2025.03.15-16.31.18:711][453]LogViewport: Scene viewport resized to 729x289, mode Windowed.
+[2025.03.15-16.31.18:796][455]LogViewport: Scene viewport resized to 552x191, mode Windowed.
+[2025.03.15-16.31.18:822][456]LogViewport: Scene viewport resized to 502x164, mode Windowed.
+[2025.03.15-16.31.18:894][463]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.15-16.31.19:199][498]LogSlate: Window 'BPC_Pizza' being destroyed
+[2025.03.15-16.32.57:615][117]BlueprintLog: New page: Compile BPC_Pizza
+[2025.03.15-16.32.57:735][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2025.03.15-16.32.58:433][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.32.58:487][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Pizza" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Pizza.uasset" SILENT=true
+[2025.03.15-16.32.58:490][192]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Pizza
+[2025.03.15-16.32.58:490][192]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Pizza7E900C624C48B2F39ED2C19B09C60BBD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Pizza.uasset'
+[2025.03.15-16.32.58:497][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.76 sec)
+[2025.03.15-16.32.58:504][192]AssetCheck: New page: Asset Save: BPC_Pizza
+[2025.03.15-16.32.58:504][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Pizza.BPC_Pizza
+[2025.03.15-16.33.03:004][574]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2025.03.15-16.33.03:028][574]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2025.03.15-16.33.03:036][575]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2025.03.15-16.33.06:488][987]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> BPC_Tomato
+[2025.03.15-16.33.06:494][987]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2025.03.15-16.33.06:652][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Tomato.BPC_Tomato
+[2025.03.15-16.33.06:652][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.33.07:164][  6]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.15-16.33.24:888][ 34]BlueprintLog: New page: Compile BPC_Tomato
+[2025.03.15-16.33.24:966][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.15-16.33.25:467][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.33.25:519][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Tomato" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Tomato.uasset" SILENT=true
+[2025.03.15-16.33.25:542][ 83]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Tomato
+[2025.03.15-16.33.25:542][ 83]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Tomato1173A8A2490E59A8C4E770A4EBC8562A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Tomato.uasset'
+[2025.03.15-16.33.25:550][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.84 sec)
+[2025.03.15-16.33.25:556][ 83]AssetCheck: New page: Asset Save: BPC_Tomato
+[2025.03.15-16.33.25:556][ 83]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Tomato.BPC_Tomato
+[2025.03.15-16.33.29:682][509]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2025.03.15-16.33.29:711][509]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2025.03.15-16.33.29:720][510]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2025.03.15-16.33.32:049][790]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> BPC_Cola
+[2025.03.15-16.33.32:054][790]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2025.03.15-16.33.32:204][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Cola.BPC_Cola
+[2025.03.15-16.33.32:205][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-16.33.32:675][808]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.15-16.34.43:388][692]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-16.34.43:418][693]LogInterchangeEngine: [Pending] Importing
+[2025.03.15-16.34.43:430][693]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.03.15-16.34.43:456][694]LogTexture: Display: Building textures: /Game/Images/I_Cola.I_Cola (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.03.15-16.34.43:570][694]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-16.34.43:635][695]LogInterchangeEngine: [Success] Import Done
+[2025.03.15-16.34.51:830][528]BlueprintLog: New page: Compile BPC_Cola
+[2025.03.15-16.34.51:895][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.15-16.34.54:572][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.34.54:620][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Cola" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Cola.uasset" SILENT=true
+[2025.03.15-16.34.54:777][841]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Cola
+[2025.03.15-16.34.54:777][841]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Cola77642462466AB303605ED5A7FF1CD1AE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Cola.uasset'
+[2025.03.15-16.34.54:785][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 2.05 sec)
+[2025.03.15-16.34.54:791][841]AssetCheck: New page: Asset Save: BPC_Cola
+[2025.03.15-16.34.54:791][841]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Cola.BPC_Cola
+[2025.03.15-16.36.03:562][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-16.36.03:564][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.044
+[2025.03.15-16.36.03:564][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/I_Cola] ([1] browsable assets)...
+[2025.03.15-16.36.03:565][184]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/I_Cola.I_Cola]
+[2025.03.15-16.36.03:565][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/I_Cola]
+[2025.03.15-16.36.03:566][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/I_Cola" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/I_Cola_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.15-16.36.03:568][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/I_Cola_Auto3
+[2025.03.15-16.36.03:568][184]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Cola_Auto38AD720F24A88C516577624BB11FD21FF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/I_Cola_Auto3.uasset'
+[2025.03.15-16.36.03:568][184]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.03.15-16.36.05:469][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.15-16.36.06:573][390]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-16.36.06:583][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-16.36.06:636][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/I_Cola" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/I_Cola.uasset" SILENT=true
+[2025.03.15-16.36.06:642][390]LogSavePackage: Moving output files for package: /Game/Images/I_Cola
+[2025.03.15-16.36.06:642][390]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Cola2ABED6A949002A51CD72C9A33A62A83F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/I_Cola.uasset'
+[2025.03.15-16.36.06:653][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.12 sec)
+[2025.03.15-16.36.06:658][390]AssetCheck: New page: Asset Save: I_Cola
+[2025.03.15-16.36.06:658][390]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/I_Cola.I_Cola
