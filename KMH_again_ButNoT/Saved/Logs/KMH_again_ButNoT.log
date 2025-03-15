@@ -2839,3 +2839,204 @@ Script Stack (0 frames) :
 [2025.03.15-19.28.46:036][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.08 sec)
 [2025.03.15-19.28.46:042][254]AssetCheck: New page: Asset Save: WBP_PickUpToTray
 [2025.03.15-19.28.46:042][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.15-19.30.03:172][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.30.03:177][461]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.15-19.30.03:214][461]LogPlayLevel: [PlayLevel] Compiling BP_TrayInventory before play...
+[2025.03.15-19.30.03:369][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.15-19.30.03:371][461]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2025.03.15-19.30.03:371][461]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:30:03)
+[2025.03.15-19.30.03:371][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.30.03:372][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001094s)
+[2025.03.15-19.30.03:373][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001122s)
+[2025.03.15-19.30.03:373][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.30.03:373][461]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.30.03:373][461]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2025.03.15-19.30.03:423][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.30.03:425][461]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.30.03:425][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.30.03:425][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.30.03:425][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.30.03:425][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.30.03:425][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.30.03:427][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.30.03:451][461]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.30.03:451][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.30.03:451][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.30.03:451][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.30.03:452][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.15-19.30.03:453][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.15-19.30.03:454][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.15-19.30.03:454][461]LogInit: FAudioDevice initialized.
+[2025.03.15-19.30.03:454][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.15-19.30.03:454][461]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Main'.
+[2025.03.15-19.30.03:456][461]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.30.03:457][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.30.03
+[2025.03.15-19.30.03:457][461]LogWorld: Bringing up level for play took: 0.000484
+[2025.03.15-19.30.03:459][461]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.03.15-19.30.03:460][461]PIE: Server logged in
+[2025.03.15-19.30.03:462][461]PIE: Play in editor total start time 0.285 seconds.
+[2025.03.15-19.30.05:078][588]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.30.10:158][947]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons
+[2025.03.15-19.30.19:216][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.30.19:216][712]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.30.19:216][712]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.30.19:217][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.30.19:268][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.30.19:273][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.30.19:323][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.30.19:324][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.15-19.30.19:325][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.15-19.30.19:332][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.15-19.30.19:423][713]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.03.15-19.30.21:374][873]LogSlate: Window 'BP_TrayInventory' being destroyed
+[2025.03.15-19.30.22:294][971]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-19.30.22:433][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.30.23:452][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.30.23:509][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-19.30.23:551][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-19.30.23:552][ 65]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryF39D7BC44504003623D59183D035DEDF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-19.30.23:565][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 6.19 sec)
+[2025.03.15-19.30.23:573][ 65]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-19.30.23:573][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-19.30.58:578][995]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-19.30.58:691][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.15-19.31.00:377][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.31.00:383][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.31.00:383][149]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:31:00)
+[2025.03.15-19.31.00:383][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.31.00:384][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001065s)
+[2025.03.15-19.31.00:384][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001093s)
+[2025.03.15-19.31.00:384][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.31.00:384][149]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.31.00:385][149]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2025.03.15-19.31.00:433][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.15-19.31.00:436][149]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.31.00:436][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.31.00:436][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.31.00:437][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.31.00:437][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.31.00:437][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.31.00:439][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.31.00:461][149]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.31.00:461][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.31.00:461][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.31.00:461][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.31.00:462][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.15-19.31.00:462][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.15-19.31.00:463][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.15-19.31.00:463][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.15-19.31.00:463][149]LogInit: FAudioDevice initialized.
+[2025.03.15-19.31.00:463][149]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_Main'.
+[2025.03.15-19.31.00:467][149]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.31.00:468][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.31.00
+[2025.03.15-19.31.00:468][149]LogWorld: Bringing up level for play took: 0.000424
+[2025.03.15-19.31.00:470][149]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.03.15-19.31.00:471][149]PIE: Server logged in
+[2025.03.15-19.31.00:472][149]PIE: Play in editor total start time 0.089 seconds.
+[2025.03.15-19.31.01:259][235]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.31.01:727][291]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons
+[2025.03.15-19.31.03:595][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.31.03:597][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.31.03:597][502]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.31.03:597][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.31.03:602][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.31.03:608][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.31.03:658][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.31.03:658][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.15-19.31.03:660][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.15-19.31.03:665][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.15-19.31.03:690][503]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 0 (Found bundle for host: 0x57656160fc0 [serially])
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 1 (Re-using existing connection #18 with host datarouter.ol.epicgames.com)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.65.202) port 443 (#18))
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 6 (Closing connection 18)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: 0000057710B8D200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.15-19.32.28:020][585]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73147E2C-4838-E2B4-3A9A-78853A97F735%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.15-19.33.16:141][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.15-19.33.16:146][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.056
+[2025.03.15-19.33.16:146][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrayInventory] ([2] browsable assets)...
+[2025.03.15-19.33.16:146][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrayInventory]
+[2025.03.15-19.33.16:188][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrayInventory_Auto9
+[2025.03.15-19.33.16:188][728]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory_Auto9441501074FC28A1578646CB67893F8E9.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/BP_TrayInventory_Auto9.uasset'
+[2025.03.15-19.33.16:189][728]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.03.15-19.52.29:391][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.15-19.52.30:139][416]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-19.52.30:153][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.52.30:205][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-19.52.30:263][416]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-19.52.30:264][416]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory027F7A194DF6FC9A32D92785E7E5AC83.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-19.52.30:276][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 6.32 sec)
+[2025.03.15-19.52.30:285][416]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-19.52.30:287][416]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-19.52.32:260][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.15-19.52.32:279][640]LogStall: Shutdown...
+[2025.03.15-19.52.32:298][640]LogStall: Shutdown complete.
+[2025.03.15-19.52.32:365][640]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:365][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.32:371][640]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:371][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.32:523][640]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:523][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.32:530][640]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:530][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.32:661][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.15-19.52.32:661][640]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:661][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.32:773][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.15-19.52.32:773][640]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.32:773][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.33:184][640]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.03.15-19.52.33:886][641]Cmd: QUIT_EDITOR
+[2025.03.15-19.52.33:886][641]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.15-19.52.34:065][641]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.15-19.52.34:123][641]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.15-19.52.34:137][641]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.15-19.52.34:265][641]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.52.34:296][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.52.34:634][641]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.15-19.52.34:814][641]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.15-19.52.36:136][641]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.15-19.52.36:136][641]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.15-19.52.36:136][641]LogAudio: Display: Audio Device unregistered from world 'L_Main'.
+[2025.03.15-19.52.36:156][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.15-19.52.36:157][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.15-19.52.36:174][641]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.15-19.52.36:227][641]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.15-19.52.36:248][641]LogExit: Preparing to exit.
+[2025.03.15-19.52.37:010][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.15-19.52.37:038][641]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:039][641]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:052][641]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:052][641]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.15-19.52.37:053][641]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
