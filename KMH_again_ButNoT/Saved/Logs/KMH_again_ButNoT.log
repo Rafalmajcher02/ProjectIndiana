@@ -2033,3 +2033,320 @@ Script Stack (0 frames) :
 [2025.03.15-18.58.15:560][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.10 sec)
 [2025.03.15-18.58.15:574][938]AssetCheck: New page: Asset Save: BP_TrayInventory
 [2025.03.15-18.58.15:574][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-19.00.40:639][265]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.00.40:640][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.00.40:653][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.00.41:121][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.00.41:121][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.01.47:086][133]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.01.47:087][133]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.01.47:087][133]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.15-19.03.44:661][599]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.03.44:676][599]LogBlueprint: Error: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\UI\WBP_Canteen.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.03.15-19.03.44:677][599]LogBlueprint: Error: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\UI\WBP_Canteen.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.03.15-19.03.44:736][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.15-19.04.18:970][546]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.04.19:039][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.15-19.04.19:452][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.04.19:509][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.04.19:528][581]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.04.19:529][581]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen93B6047D4E3ED4E961E632BCDC63A5F6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.04.19:541][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.19 sec)
+[2025.03.15-19.04.19:548][581]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.04.19:548][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.04.32:733][888]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.04.32:796][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-19.04.33:190][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.04.33:259][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.04.33:265][929]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.04.33:266][929]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_CanteenCBD3C5A241D9418C68C25CAE06C448F3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.04.33:278][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.27 sec)
+[2025.03.15-19.04.33:285][929]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.04.33:285][929]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.04.34:044][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.04.34:044][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.15-19.05.14:687][310]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.05.15:124][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.15-19.05.15:281][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.05.15:342][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.05.15:351][320]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.05.15:351][320]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen5B32C4FD47C9496DC8F87FA5FBD8268E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.05.15:365][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.36 sec)
+[2025.03.15-19.05.15:372][320]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.05.15:372][320]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.05.44:946][835]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.05.45:005][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.15-19.05.45:382][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.05.45:443][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.05.45:784][872]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.05.45:785][872]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen5F5030D4432615E62D97D1A962DD9E75.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.05.45:798][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 415 ms (total: 4.77 sec)
+[2025.03.15-19.05.45:805][872]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.05.45:805][872]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.15-19.05.47:118][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.05.47:129][ 13]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.15-19.05.47:130][ 13]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2025.03.15-19.05.47:215][ 13]LogPlayLevel: [PlayLevel] Compiling WBP_Storage before play...
+[2025.03.15-19.05.47:311][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.15-19.05.47:313][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (2 blueprints)
+[2025.03.15-19.05.47:314][ 13]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:05:47)
+[2025.03.15-19.05.47:314][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.05.47:315][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001538s)
+[2025.03.15-19.05.47:315][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001572s)
+[2025.03.15-19.05.47:315][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.05.47:316][ 13]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.05.47:316][ 13]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2025.03.15-19.05.47:354][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.15-19.05.47:356][ 13]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.05.47:356][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.05.47:356][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.05.47:356][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.05.47:356][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.05.47:357][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.05.47:375][ 13]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.05.47:400][ 13]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.05.47:401][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.05.47:401][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.05.47:401][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.05.47:402][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.15-19.05.47:402][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.15-19.05.47:404][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.15-19.05.47:404][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.15-19.05.47:404][ 13]LogInit: FAudioDevice initialized.
+[2025.03.15-19.05.47:404][ 13]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Main'.
+[2025.03.15-19.05.47:411][ 13]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.05.47:411][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.05.47
+[2025.03.15-19.05.47:412][ 13]LogWorld: Bringing up level for play took: 0.000719
+[2025.03.15-19.05.47:414][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.15-19.05.47:416][ 13]PIE: Server logged in
+[2025.03.15-19.05.47:417][ 13]PIE: Play in editor total start time 0.288 seconds.
+[2025.03.15-19.05.55:357][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.05.55:357][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.05.55:357][923]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.05.55:357][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.05.55:360][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.05.55:365][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.05.55:401][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.05.55:401][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.15-19.05.55:404][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.15-19.05.55:410][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-19.05.55:433][924]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.15-19.06.13:381][653]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.06.31:616][386]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.06.36:705][989]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.06.36:767][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.15-19.06.37:951][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.06.37:958][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.06.37:958][104]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:06:37)
+[2025.03.15-19.06.37:959][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.06.37:960][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2025.03.15-19.06.37:960][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001249s)
+[2025.03.15-19.06.37:960][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.06.37:960][104]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.06.37:961][104]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2025.03.15-19.06.38:001][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.15-19.06.38:004][104]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.06.38:004][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.06.38:005][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.06.38:005][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.06.38:005][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.06.38:005][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.06.38:005][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.06.38:007][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.06.38:029][104]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.06.38:030][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.06.38:030][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.06.38:030][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.06.38:031][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.15-19.06.38:031][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.15-19.06.38:032][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.15-19.06.38:032][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.15-19.06.38:032][104]LogInit: FAudioDevice initialized.
+[2025.03.15-19.06.38:032][104]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Main'.
+[2025.03.15-19.06.38:034][104]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.06.38:034][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.06.38
+[2025.03.15-19.06.38:036][104]LogWorld: Bringing up level for play took: 0.000429
+[2025.03.15-19.06.38:038][104]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.15-19.06.38:039][104]PIE: Server logged in
+[2025.03.15-19.06.38:040][104]PIE: Play in editor total start time 0.082 seconds.
+[2025.03.15-19.06.39:665][287]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.06.40:847][426]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.06.41:856][547]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.06.42:548][630]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.06.43:377][728]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.06.43:895][790]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.06.44:815][900]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.06.45:449][976]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.06.46:008][ 43]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.06.46:987][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.06.46:987][156]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.06.46:987][156]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.06.46:987][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.06.46:990][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.06.46:995][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.06.47:032][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.15-19.06.47:033][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.15-19.06.47:034][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.15-19.06.47:038][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.06.47:040][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.15-19.06.47:070][158]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.15-19.07.00:315][241]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.07.01:395][357]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.07.01:457][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.07.02:888][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.07.02:894][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.07.02:894][510]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:07:02)
+[2025.03.15-19.07.02:894][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.07.02:896][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001563s)
+[2025.03.15-19.07.02:896][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001619s)
+[2025.03.15-19.07.02:896][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.07.02:897][510]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.07.02:897][510]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2025.03.15-19.07.02:933][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.15-19.07.02:936][510]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.07.02:936][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.07.02:936][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.07.02:937][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.07.02:937][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.07.02:937][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.07.02:939][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.07.02:962][510]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.07.02:962][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.07.02:962][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.07.02:962][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.07.02:963][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.15-19.07.02:963][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.15-19.07.02:964][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.15-19.07.02:964][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.15-19.07.02:964][510]LogInit: FAudioDevice initialized.
+[2025.03.15-19.07.02:964][510]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Main'.
+[2025.03.15-19.07.02:968][510]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.07.02:968][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.07.02
+[2025.03.15-19.07.02:968][510]LogWorld: Bringing up level for play took: 0.000454
+[2025.03.15-19.07.02:970][510]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.03.15-19.07.02:972][510]PIE: Server logged in
+[2025.03.15-19.07.02:972][510]PIE: Play in editor total start time 0.078 seconds.
+[2025.03.15-19.07.03:778][599]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.07.04:187][648]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.04:465][681]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.05:032][749]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.05:665][825]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.07.05:865][849]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.06:023][868]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.06:516][927]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.06:713][947]LogScript: Warning: Attempted to access BP_TrayInventory_C_1 via property trayInventoryRef, but BP_TrayInventory_C_1 is not valid (pending kill or garbage)
+	WBP_Canteen_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen
+	Function /Game/UI/WBP_Canteen.WBP_Canteen_C:ExecuteUbergraph_WBP_Canteen:029B
+[2025.03.15-19.07.06:713][947]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TrayInventory_C_1 via property trayInventoryRef, but BP_TrayInventory_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Canteen Blueprint:  WBP_Canteen
+[2025.03.15-19.07.06:713][947]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.06:829][961]LogScript: Warning: Attempted to access BP_TrayInventory_C_1 via property trayInventoryRef, but BP_TrayInventory_C_1 is not valid (pending kill or garbage)
+	WBP_Canteen_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen
+	Function /Game/UI/WBP_Canteen.WBP_Canteen_C:ExecuteUbergraph_WBP_Canteen:029B
+[2025.03.15-19.07.06:830][961]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TrayInventory_C_1 via property trayInventoryRef, but BP_TrayInventory_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Canteen Blueprint:  WBP_Canteen
+[2025.03.15-19.07.06:830][961]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.07:507][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.07.07:507][ 36]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.07.07:507][ 36]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.07.07:507][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.07.07:510][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.07.07:516][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.07.07:551][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.15-19.07.07:551][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.15-19.07.07:553][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.15-19.07.07:556][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.07.07:559][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.15-19.07.07:644][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.03.15-19.07.50:592][528]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.15-19.07.51:563][636]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.15-19.07.51:622][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-19.07.52:634][740]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.15-19.07.52:638][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.15-19.07.52:639][740]PIE: New page: PIE session: L_Main (15 Mar 2025, 19:07:52)
+[2025.03.15-19.07.52:639][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.07.52:640][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001046s)
+[2025.03.15-19.07.52:640][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001077s)
+[2025.03.15-19.07.52:640][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-19.07.52:640][740]LogAIModule: Creating AISystem for world L_Main
+[2025.03.15-19.07.52:640][740]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2025.03.15-19.07.52:677][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.15-19.07.52:680][740]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.15-19.07.52:680][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.15-19.07.52:680][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.15-19.07.52:680][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.15-19.07.52:680][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.15-19.07.52:680][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.15-19.07.52:683][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.15-19.07.52:706][740]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.15-19.07.52:706][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.15-19.07.52:706][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.15-19.07.52:706][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.15-19.07.52:707][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.15-19.07.52:707][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.15-19.07.52:709][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.15-19.07.52:709][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.15-19.07.52:709][740]LogInit: FAudioDevice initialized.
+[2025.03.15-19.07.52:709][740]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Main'.
+[2025.03.15-19.07.52:712][740]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.15-19.07.52:712][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.15-19.07.52
+[2025.03.15-19.07.52:713][740]LogWorld: Bringing up level for play took: 0.000447
+[2025.03.15-19.07.52:715][740]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.03.15-19.07.52:715][740]PIE: Server logged in
+[2025.03.15-19.07.52:716][740]PIE: Play in editor total start time 0.078 seconds.
+[2025.03.15-19.07.53:464][821]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.53:972][882]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.54:685][967]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.07.54:894][992]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.55:070][ 13]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.55:587][ 75]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.55:762][ 96]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.55:913][114]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.56:639][201]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.15-19.07.56:796][220]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.56:947][238]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.15-19.07.57:940][355]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.15-19.07.58:099][374]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.58:261][393]LogBlueprintUserMessages: [WBP_Canteen] There is no tray to hand out | destroy
+[2025.03.15-19.07.59:046][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.07.59:046][478]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.15-19.07.59:046][478]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-19.07.59:048][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.07.59:050][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.15-19.07.59:055][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-19.07.59:097][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.15-19.07.59:098][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.15-19.07.59:099][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.15-19.07.59:102][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.15-19.07.59:105][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.15-19.07.59:131][479]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.03.15-19.08.01:386][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.15-19.08.02:170][708]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-19.08.02:183][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-19.08.02:241][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.15-19.08.02:251][708]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.15-19.08.02:252][708]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_CanteenBD69B64745CE78D82190719E802DCEE5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.15-19.08.02:263][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.85 sec)
+[2025.03.15-19.08.02:271][708]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.15-19.08.02:271][708]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
