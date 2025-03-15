@@ -1675,3 +1675,116 @@ Make sure 'WBP_Canteen_C' has been compiled for  Get TempTomatoProg
 [2025.03.15-16.36.06:653][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.12 sec)
 [2025.03.15-16.36.06:658][390]AssetCheck: New page: Asset Save: I_Cola
 [2025.03.15-16.36.06:658][390]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/I_Cola.I_Cola
+[2025.03.15-16.49.15:765][580]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.49.15:765][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.49.16:458][650]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.15-16.49.16:458][650]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.49.16:458][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.49.17:201][731]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.15-16.49.17:201][731]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-16.49.17:201][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-16.49.35:573][848]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/I_Polmidor.I_Polmidor
+[2025.03.15-16.49.35:673][848]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.15-16.49.48:531][337]LogSlate: Window 'I_Polmidor' being destroyed
+[2025.03.15-16.49.48:538][337]LogSlate: Window 'I_Polmidor' being destroyed
+[2025.03.15-16.59.56:682][600]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2025.03.15-16.59.56:688][600]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2025.03.15-16.59.56:695][601]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2025.03.15-17.00.00:404][ 32]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_IventorySlot
+[2025.03.15-17.00.00:425][ 32]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2025.03.15-17.00.10:372][171]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/S_IventorySlot.S_IventorySlot
+[2025.03.15-17.00.12:826][405]LogSlate: Window 'S_IventorySlot' being destroyed
+[2025.03.15-17.00.35:576][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-17.00.35:637][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structures/S_IventorySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Structures/S_IventorySlot.uasset" SILENT=true
+[2025.03.15-17.00.35:638][ 86]LogSavePackage: Moving output files for package: /Game/Blueprints/Structures/S_IventorySlot
+[2025.03.15-17.00.35:638][ 86]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/S_IventorySlot51C2E23A47998F7B7F2007A35605F539.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Structures/S_IventorySlot.uasset'
+[2025.03.15-17.00.35:648][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.20 sec)
+[2025.03.15-17.00.35:655][ 86]AssetCheck: New page: Asset Save: S_IventorySlot
+[2025.03.15-17.00.35:655][ 86]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structures/S_IventorySlot.S_IventorySlot
+[2025.03.15-17.00.48:650][329]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.15-17.00.48:658][329]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.15-17.00.48:663][329]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.15-17.00.48:672][330]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.15-17.00.53:006][836]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Inventory
+[2025.03.15-17.00.53:012][836]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.15-17.00.53:378][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Inventory.BP_Inventory
+[2025.03.15-17.00.53:379][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-17.00.53:920][880]LogViewport: Scene viewport resized to 732x270, mode Windowed.
+[2025.03.15-17.00.55:946][ 56]LogSlate: Window 'BP_Inventory' being destroyed
+[2025.03.15-17.00.55:953][ 56]LogSlate: Window 'BP_Inventory' being destroyed
+[2025.03.15-17.00.55:969][ 56]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.15-17.00.55:969][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.15-17.00.57:336][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.15-17.00.58:118][128]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.15-17.00.58:230][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-17.00.58:255][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.15-17.00.58:281][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.15-17.01.00:169][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.15-17.01.00:203][215]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.15-17.01.00:207][215]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.15-17.01.00:215][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.15-17.01.03:526][606]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TrayInventory
+[2025.03.15-17.01.03:531][606]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.15-17.01.03:739][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-17.01.03:740][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.15-17.01.04:252][631]LogViewport: Scene viewport resized to 732x270, mode Windowed.
+[2025.03.15-17.01.06:147][674]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.03.15-17.01.06:475][712]LogSlate: Window 'BP_TrayInventory' being destroyed
+[2025.03.15-17.02.16:596][692]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-17.02.16:639][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.15-17.02.25:510][ 24]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-17.02.25:552][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.15-17.03.31:804][516]LogContentBrowser: Attempting asset rename: S_IventorySlot -> S_InventorySlot
+[2025.03.15-17.03.31:873][516]LogMetaData: Removing '/Game/Blueprints/Structures/S_InventorySlot.S_InventorySlot' ref from Metadata '/Game/Blueprints/Structures/S_IventorySlot.PackageMetaData'
+[2025.03.15-17.03.31:874][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-17.03.31:939][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structures/S_InventorySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Structures/S_InventorySlot.uasset" SILENT=true
+[2025.03.15-17.03.31:940][516]LogSavePackage: Moving output files for package: /Game/Blueprints/Structures/S_InventorySlot
+[2025.03.15-17.03.31:940][516]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/S_InventorySlot86DFACB94802E809C1044ABBAE634566.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Structures/S_InventorySlot.uasset'
+[2025.03.15-17.03.31:949][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.27 sec)
+[2025.03.15-17.03.31:996][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.15-17.03.32:032][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.15-17.03.32:063][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.15-17.03.32:070][516]AssetCheck: New page: Asset Save: S_InventorySlot
+[2025.03.15-17.03.32:070][516]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structures/S_InventorySlot.S_InventorySlot
+[2025.03.15-17.03.33:315][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.15-17.03.34:331][654]LogSlate: Window 'Save Content' being destroyed
+[2025.03.15-17.03.34:339][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-17.03.34:404][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-17.03.34:408][654]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-17.03.34:408][654]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory4116BC7448FF9DB859C0B2B0AFEF5D2F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-17.03.34:417][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.35 sec)
+[2025.03.15-17.03.34:423][654]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-17.03.34:423][654]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-17.03.39:494][219]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-17.03.39:536][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.15-17.04.04:671][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.15-17.04.04:673][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.032
+[2025.03.15-17.04.04:673][434]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrayInventory] ([2] browsable assets)...
+[2025.03.15-17.04.04:673][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrayInventory]
+[2025.03.15-17.04.04:677][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrayInventory_Auto4
+[2025.03.15-17.04.04:677][434]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory_Auto43EF2AFEC4D695094B2BF23962090C224.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/BP_TrayInventory_Auto4.uasset'
+[2025.03.15-17.04.04:678][434]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.03.15-17.21.23:458][551]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.386 and deleted 0 files with total size 0 MiB. Scanned 1753 files in 1746 folders with total size 180 MiB.
+[2025.03.15-17.36.55:698][956]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.03.15-17.37.00:048][427]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.15-17.37.00:054][427]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.15-17.37.21:962][874]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-17.37.21:975][874]LogClass: Warning: Type mismatch in Slots of BP_TrayInventory_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2025.03.15-17.37.22:021][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.15-17.37.22:477][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-17.37.22:544][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-17.37.22:549][915]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-17.37.22:550][915]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryDA519F74477D650A24B813A4E1D93247.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-17.37.22:559][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.43 sec)
+[2025.03.15-17.37.22:573][915]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-17.37.22:573][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-17.38.05:538][939]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.15-17.38.05:585][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.15-17.38.06:029][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.15-17.38.06:088][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.15-17.38.06:093][979]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.15-17.38.06:094][979]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryD99D80FB4006DFF801F928A5E5DF2587.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.15-17.38.06:105][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.51 sec)
+[2025.03.15-17.38.06:110][979]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.15-17.38.06:110][979]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.15-17.40.38:894][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
