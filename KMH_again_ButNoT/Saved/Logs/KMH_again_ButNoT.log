@@ -1241,3 +1241,33 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.17-12.19.34:356][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 824 ms)
 [2025.03.17-12.19.34:363][913]AssetCheck: New page: Asset Save: WBP_TraySlot
 [2025.03.17-12.19.34:363][913]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.20.02:939][ 57]LogSlate: Took 0.011684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.17-12.20.38:023][148]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.20.38:101][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.17-12.20.38:754][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.20.38:809][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.17-12.20.38:828][217]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.17-12.20.38:828][217]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot45BBA01E4A81E8425A488A8E66E2D55F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.17-12.20.38:836][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 906 ms)
+[2025.03.17-12.20.38:843][217]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.17-12.20.38:843][217]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.21.20:097][113]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.21.20:147][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.17-12.21.20:699][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.21.20:761][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.17-12.21.20:766][172]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.17-12.21.20:767][172]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot67AA606A468A709B60CA099A9A552879.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.17-12.21.20:775][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 981 ms)
+[2025.03.17-12.21.20:782][172]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.17-12.21.20:782][172]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.23.55:654][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.17-12.23.55:976][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-12.24.02:181][476]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.17-12.24.02:304][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.03.17-12.24.02:867][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.24.02:924][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.17-12.24.03:031][477]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.17-12.24.03:032][477]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryB3FC098844F7DCAE9F78AC826040CC1E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.17-12.24.03:282][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 415 ms (total: 1.39 sec)
+[2025.03.17-12.24.03:291][477]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.17-12.24.03:291][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
