@@ -1304,3 +1304,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.17-12.35.19:475][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.48 sec)
 [2025.03.17-12.35.19:482][486]AssetCheck: New page: Asset Save: WBP_TraySlot
 [2025.03.17-12.35.19:482][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.36.06:638][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.17-12.36.06:638][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.17-12.36.59:482][357]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.36.59:576][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.03.17-12.37.00:064][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.37.00:127][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.17-12.37.00:153][401]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.17-12.37.00:154][401]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot578B615C493C6B84FEA711888FA114EE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.17-12.37.00:162][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.57 sec)
+[2025.03.17-12.37.00:172][401]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.17-12.37.00:172][401]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.37.10:390][604]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.17-12.37.10:390][604]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.17-12.43.05:386][ 63]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.43.29:140][901]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.43.29:203][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.03.17-12.43.29:814][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.43.29:877][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.17-12.43.29:893][960]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.17-12.43.29:894][960]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlotBAB53609410828D138D3AC976A1909FE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.17-12.43.29:903][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.66 sec)
+[2025.03.17-12.43.29:912][960]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.17-12.43.29:912][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.17-12.43.43:713][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
