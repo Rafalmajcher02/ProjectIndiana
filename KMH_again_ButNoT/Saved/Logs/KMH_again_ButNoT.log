@@ -1271,3 +1271,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.17-12.24.03:282][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 415 ms (total: 1.39 sec)
 [2025.03.17-12.24.03:291][477]AssetCheck: New page: Asset Save: BP_TrayInventory
 [2025.03.17-12.24.03:291][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.17-12.24.29:987][156]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-12.24.29:987][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-12.24.31:514][291]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.24.31:602][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.03.17-12.27.10:129][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.03.17-12.27.10:135][998]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.042
+[2025.03.17-12.27.10:135][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.03.17-12.27.10:139][998]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.03.17-12.27.10:139][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.03.17-12.27.10:139][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.17-12.27.10:150][998]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3
+[2025.03.17-12.27.10:150][998]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto3DF14FED043F4DCD6E9C17D959B9AAB70.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3.uasset'
+[2025.03.17-12.27.10:151][998]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.03.17-12.32.45:629][470]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.32.53:553][379]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.32.58:648][962]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.03:736][551]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.14:560][812]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.19:985][426]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.25:268][ 37]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.35:488][221]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.39:494][662]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.33.43:236][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.03.17-12.33.43:245][ 93]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-12.35.18:783][433]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.17-12.35.18:839][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.03.17-12.35.19:390][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-12.35.19:443][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.17-12.35.19:466][486]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.17-12.35.19:467][486]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlotED4BB2EB429152C7C2C57DA75187F89D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.17-12.35.19:475][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.48 sec)
+[2025.03.17-12.35.19:482][486]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.17-12.35.19:482][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
