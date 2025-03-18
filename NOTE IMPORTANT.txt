@@ -1,1 +1,2 @@
-Items not adding to tray because no free slots are found. Likely that slots are invalid or something along these lines
+In player, hud ref and inventory ref need to be done at same time
+Need to rework/redesign to make them work around it 
