@@ -2327,3 +2327,409 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.19-12.55.32:923][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2025.03.19-12.55.32:960][466]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2025.03.19-12.55.34:304][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.19-12.56.07:426][503]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-12.56.07:432][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-12.56.07:432][503]PIE: New page: PIE session: L_Main (19 Mar 2025, 12:56:07)
+[2025.03.19-12.56.07:433][503]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.56.07:434][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001310s)
+[2025.03.19-12.56.07:434][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001342s)
+[2025.03.19-12.56.07:434][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.56.07:434][503]LogAIModule: Creating AISystem for world L_Main
+[2025.03.19-12.56.07:435][503]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2025.03.19-12.56.07:483][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.19-12.56.07:485][503]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.19-12.56.07:485][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-12.56.07:486][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-12.56.07:486][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-12.56.07:486][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-12.56.07:486][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-12.56.07:489][503]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-12.56.07:511][503]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.19-12.56.07:512][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-12.56.07:512][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-12.56.07:512][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-12.56.07:512][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.19-12.56.07:512][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.19-12.56.07:514][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.19-12.56.07:514][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.19-12.56.07:514][503]LogInit: FAudioDevice initialized.
+[2025.03.19-12.56.07:514][503]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_Main'.
+[2025.03.19-12.56.07:517][503]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.19-12.56.07:518][503]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.19-12.56.07
+[2025.03.19-12.56.07:518][503]LogWorld: Bringing up level for play took: 0.000562
+[2025.03.19-12.56.07:520][503]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.03.19-12.56.07:522][503]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.19-12.56.07:522][503]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The tray has 3 slots
+[2025.03.19-12.56.07:523][503]PIE: Server logged in
+[2025.03.19-12.56.07:524][503]PIE: Play in editor total start time 0.091 seconds.
+[2025.03.19-12.56.10:510][779]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.56.11:223][846]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.56.11:982][919]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The Tray BeginPlay
+[2025.03.19-12.56.11:982][919]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The tray has 3 slots
+[2025.03.19-12.56.11:983][919]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.56.16:922][419]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.56.17:877][507]LogBlueprintUserMessages: [BP_TrayInventory_C_2] The Tray BeginPlay
+[2025.03.19-12.56.17:877][507]LogBlueprintUserMessages: [BP_TrayInventory_C_2] The tray has 3 slots
+[2025.03.19-12.56.17:878][507]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.56.19:922][687]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.56.21:585][842]LogBlueprintUserMessages: [BP_TrayInventory_C_3] The Tray BeginPlay
+[2025.03.19-12.56.21:585][842]LogBlueprintUserMessages: [BP_TrayInventory_C_3] The tray has 3 slots
+[2025.03.19-12.56.21:586][842]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.56.24:696][134]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.25:245][185]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.25:665][223]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.26:068][260]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.26:429][294]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.30:616][692]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.31:536][780]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.31:822][807]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.32:041][828]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.33:258][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.56.33:258][938]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.56.33:258][938]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-12.56.33:258][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.56.33:277][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-12.56.33:283][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.56.33:335][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-12.56.33:335][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.19-12.56.33:337][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.19-12.56.33:339][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.56.33:342][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.19-12.56.33:384][939]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.03.19-12.56.38:953][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.19-12.56.38:953][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.56.38:959][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.56.39:399][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.19-12.56.39:399][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.19-12.56.50:341][476]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-12.56.50:348][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-12.56.50:348][476]PIE: New page: PIE session: L_Main (19 Mar 2025, 12:56:50)
+[2025.03.19-12.56.50:348][476]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.56.50:349][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2025.03.19-12.56.50:349][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001167s)
+[2025.03.19-12.56.50:349][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.56.50:349][476]LogAIModule: Creating AISystem for world L_Main
+[2025.03.19-12.56.50:350][476]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2025.03.19-12.56.50:405][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.19-12.56.50:406][476]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.19-12.56.50:406][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-12.56.50:406][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-12.56.50:406][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-12.56.50:406][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-12.56.50:406][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-12.56.50:409][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-12.56.50:433][476]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.19-12.56.50:433][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-12.56.50:433][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-12.56.50:433][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-12.56.50:434][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.19-12.56.50:434][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.03.19-12.56.50:436][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.19-12.56.50:436][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.19-12.56.50:436][476]LogInit: FAudioDevice initialized.
+[2025.03.19-12.56.50:436][476]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_Main'.
+[2025.03.19-12.56.50:438][476]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.19-12.56.50:439][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.19-12.56.50
+[2025.03.19-12.56.50:439][476]LogWorld: Bringing up level for play took: 0.000429
+[2025.03.19-12.56.50:441][476]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.03.19-12.56.50:443][476]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.19-12.56.50:443][476]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The tray has 3 slots
+[2025.03.19-12.56.50:444][476]PIE: Server logged in
+[2025.03.19-12.56.50:444][476]PIE: Play in editor total start time 0.097 seconds.
+[2025.03.19-12.56.51:470][564]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.51:843][598]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.52:660][673]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.53:679][768]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.56.54:504][843]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.54:879][877]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.55:759][956]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.56.59:004][232]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.00:497][370]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The Tray BeginPlay
+[2025.03.19-12.57.00:498][370]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The tray has 3 slots
+[2025.03.19-12.57.00:499][370]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.57.02:630][554]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.02:889][576]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.03:063][592]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.12:018][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.57.12:018][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.57.12:018][365]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-12.57.12:018][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.57.12:034][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-12.57.12:040][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.57.12:101][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-12.57.12:101][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.19-12.57.12:104][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.19-12.57.12:108][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.57.12:111][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.19-12.57.12:176][366]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.03.19-12.57.32:833][396]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.200 and deleted 0 files with total size 0 MiB. Scanned 1805 files in 1798 folders with total size 180 MiB.
+[2025.03.19-12.57.41:632][231]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.19-12.57.41:742][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.19-12.57.42:155][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-12.57.42:212][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.19-12.57.42:223][257]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.19-12.57.42:223][257]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray0096A7CC4044443F0A3F14AEC691637D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.19-12.57.42:235][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.62 sec)
+[2025.03.19-12.57.42:242][257]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.19-12.57.42:242][257]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.19-12.57.42:943][311]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-12.57.42:950][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-12.57.42:950][311]PIE: New page: PIE session: L_Main (19 Mar 2025, 12:57:42)
+[2025.03.19-12.57.42:950][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.57.42:951][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001319s)
+[2025.03.19-12.57.42:951][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001353s)
+[2025.03.19-12.57.42:952][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.57.42:952][311]LogAIModule: Creating AISystem for world L_Main
+[2025.03.19-12.57.42:952][311]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2025.03.19-12.57.43:012][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.19-12.57.43:014][311]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.19-12.57.43:014][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-12.57.43:014][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-12.57.43:014][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-12.57.43:014][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-12.57.43:014][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-12.57.43:017][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-12.57.43:042][311]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.19-12.57.43:042][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-12.57.43:042][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-12.57.43:042][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-12.57.43:043][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.03.19-12.57.43:043][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.03.19-12.57.43:044][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.03.19-12.57.43:044][311]LogInit: FAudioDevice initialized.
+[2025.03.19-12.57.43:044][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.03.19-12.57.43:044][311]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_Main'.
+[2025.03.19-12.57.43:047][311]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.19-12.57.43:047][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.19-12.57.43
+[2025.03.19-12.57.43:047][311]LogWorld: Bringing up level for play took: 0.000447
+[2025.03.19-12.57.43:049][311]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.03.19-12.57.43:051][311]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.19-12.57.43:051][311]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The tray has 3 slots
+[2025.03.19-12.57.43:052][311]PIE: Server logged in
+[2025.03.19-12.57.43:053][311]PIE: Play in editor total start time 0.104 seconds.
+[2025.03.19-12.57.47:089][638]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.47:089][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.47:089][638]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.48:265][741]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.57.48:848][791]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.48:848][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.48:848][791]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.49:564][852]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.49:564][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.49:564][852]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.49:753][868]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.49:753][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.49:753][868]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.50:496][926]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.57.51:177][979]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The Tray BeginPlay
+[2025.03.19-12.57.51:177][979]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The tray has 3 slots
+[2025.03.19-12.57.51:178][979]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.57.51:853][ 34]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.51:853][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.51:853][ 34]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.52:013][ 48]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.52:013][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.52:013][ 48]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.52:192][ 63]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.52:192][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.52:192][ 63]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.52:385][ 80]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.52:385][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.52:386][ 80]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.52:566][ 96]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.52:567][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.52:567][ 96]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.57.56:687][465]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.57.56:687][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.57.56:687][465]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.00:352][805]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.00:353][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.00:353][805]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.00:984][865]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.00:984][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.00:984][865]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.01:520][916]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.01:520][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.01:520][916]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.02:007][963]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.02:007][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.02:007][963]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.02:484][  9]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.02:484][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.02:484][  9]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.02:987][ 57]LogScript: Warning: Accessed None trying to read property PlayerRef
+	WBP_PickUpToTray_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.WBP_HUD_C_0.WidgetTree_0.WBP_Canteen.WidgetTree_0.WBP_PickUpToTray
+	Function /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray_C:ExecuteUbergraph_WBP_PickUpToTray:002D
+[2025.03.19-12.58.02:987][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.02:987][ 57]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.03:375][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.03:375][ 94]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.03:802][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.03:802][134]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.04:303][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.04:304][182]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.04:755][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.04:755][226]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.05:195][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.05:195][268]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.05:637][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.05:637][310]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.06:158][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.06:158][360]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.06:662][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerRef". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph WBP Pick Up to Tray Blueprint:  WBP_PickUpToTray
+[2025.03.19-12.58.06:662][400]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.19-12.58.08:368][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.58.08:368][542]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.58.08:368][542]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-12.58.08:368][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.58.08:385][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-12.58.08:391][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.58.08:453][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-12.58.08:453][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.19-12.58.08:455][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.19-12.58.08:459][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.58.08:461][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.19-12.58.08:564][543]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.03.19-12.58.33:927][127]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.19-12.58.34:028][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.19-12.58.34:403][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-12.58.34:464][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.19-12.58.34:497][152]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.19-12.58.34:497][152]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray526454AB45C06AB6C5A2B9BD80D2ED6F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.19-12.58.34:509][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.73 sec)
+[2025.03.19-12.58.34:515][152]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.03.19-12.58.34:515][152]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.19-12.58.37:807][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-12.58.37:813][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-12.58.37:813][438]PIE: New page: PIE session: L_Main (19 Mar 2025, 12:58:37)
+[2025.03.19-12.58.37:813][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.58.37:815][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2025.03.19-12.58.37:815][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001181s)
+[2025.03.19-12.58.37:815][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.19-12.58.37:815][438]LogAIModule: Creating AISystem for world L_Main
+[2025.03.19-12.58.37:815][438]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2025.03.19-12.58.37:885][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.19-12.58.37:887][438]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.19-12.58.37:887][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-12.58.37:887][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-12.58.37:888][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-12.58.37:888][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-12.58.37:888][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-12.58.37:890][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-12.58.37:920][438]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.19-12.58.37:920][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-12.58.37:920][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-12.58.37:920][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-12.58.37:921][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.03.19-12.58.37:921][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.03.19-12.58.37:923][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.03.19-12.58.37:923][438]LogInit: FAudioDevice initialized.
+[2025.03.19-12.58.37:923][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.03.19-12.58.37:923][438]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_Main'.
+[2025.03.19-12.58.37:925][438]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.19-12.58.37:925][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.19-12.58.37
+[2025.03.19-12.58.37:927][438]LogWorld: Bringing up level for play took: 0.000477
+[2025.03.19-12.58.37:928][438]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.03.19-12.58.37:930][438]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.19-12.58.37:930][438]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The tray has 3 slots
+[2025.03.19-12.58.37:931][438]PIE: Server logged in
+[2025.03.19-12.58.37:932][438]PIE: Play in editor total start time 0.119 seconds.
+[2025.03.19-12.58.42:067][759]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.58.42:707][809]LogBlueprintUserMessages: [WBP_PickUpToTray] Item added to tray. There is still 4 left in the box
+[2025.03.19-12.58.44:660][976]LogBlueprintUserMessages: [WBP_PickUpToTray] Item added to tray. There is still 2 left in the box
+[2025.03.19-12.58.45:157][ 18]LogBlueprintUserMessages: [WBP_PickUpToTray] Item added to tray. There is still 1 left in the box
+[2025.03.19-12.58.45:811][ 72]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.46:358][109]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.46:962][153]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.47:489][194]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.47:683][209]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.47:848][221]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.49:865][375]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.58.50:462][427]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The Tray BeginPlay
+[2025.03.19-12.58.50:462][427]LogBlueprintUserMessages: [BP_TrayInventory_C_1] The tray has 3 slots
+[2025.03.19-12.58.50:463][427]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.58.51:234][492]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.51:600][522]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.51:793][539]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.52:066][562]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.52:623][610]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.52:812][627]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.53:020][644]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.53:786][709]LogBlueprintUserMessages: [WBP_Canteen] Tray is already out
+[2025.03.19-12.58.54:309][753]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.54:494][769]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.54:670][784]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.55:194][828]LogBlueprintUserMessages: [WBP_Canteen] Tray is Handed Out | Destroyer
+[2025.03.19-12.58.56:120][903]LogBlueprintUserMessages: [BP_TrayInventory_C_2] The Tray BeginPlay
+[2025.03.19-12.58.56:120][903]LogBlueprintUserMessages: [BP_TrayInventory_C_2] The tray has 3 slots
+[2025.03.19-12.58.56:122][903]LogBlueprintUserMessages: [WBP_Canteen] Tray is Present
+[2025.03.19-12.58.56:535][935]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.56:686][948]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything was added to the tray. There is nothing left here to pick up now
+[2025.03.19-12.58.56:845][962]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.03.19-12.58.57:758][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.58.57:758][ 34]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.19-12.58.57:758][ 34]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-12.58.57:758][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.58.57:775][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-12.58.57:781][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-12.58.57:837][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-12.58.57:839][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.19-12.58.57:840][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.19-12.58.57:843][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-12.58.57:845][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.19-12.58.57:906][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.03.19-12.59.01:253][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
