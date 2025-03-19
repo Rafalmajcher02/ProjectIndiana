@@ -1,2 +1,0 @@
-In player, hud ref and inventory ref need to be done at same time
-Need to rework/redesign to make them work around it 
