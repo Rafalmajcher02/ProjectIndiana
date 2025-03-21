@@ -6733,3 +6733,25 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.21-14.30.04:775][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 534 ms (total: 1.87 sec)
 [2025.03.21-14.30.04:781][414]AssetCheck: New page: Asset Save: WBP_Canteen
 [2025.03.21-14.30.04:782][414]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.03.21-14.30.38:459][232]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.30.38:460][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.30.38:467][232]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.30.38:467][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.30.42:724][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.21-14.30.42:746][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.31.25:647][578]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.33.03:265][950]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.33.13:593][116]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.33.16:794][462]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.33.24:355][329]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.33.33:768][449]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.21-14.33.33:861][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.21-14.33.34:373][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.33.34:424][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.21-14.33.34:482][495]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.21-14.33.34:483][495]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory1FE55C0C4A634F392AA4048466913E9A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.21-14.33.34:511][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.01 sec)
+[2025.03.21-14.33.34:518][495]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.21-14.33.34:518][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.21-14.33.35:463][598]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.33.35:463][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
