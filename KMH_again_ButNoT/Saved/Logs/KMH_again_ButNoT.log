@@ -6703,3 +6703,33 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.21-14.20.26:617][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.03.21-14.20.26:620][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2025.03.21-14.20.26:649][517]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.03.21-14.23.44:091][ 99]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.03.21-14.26.04:479][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.21-14.26.04:485][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.040
+[2025.03.21-14.26.04:486][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Canteen] ([2] browsable assets)...
+[2025.03.21-14.26.04:491][686]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen]
+[2025.03.21-14.26.04:491][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Canteen]
+[2025.03.21-14.26.04:491][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Canteen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.21-14.26.04:515][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Canteen_Auto3
+[2025.03.21-14.26.04:516][686]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen_Auto3C932D3D44C95652EBF707DA71CE40259.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Canteen_Auto3.uasset'
+[2025.03.21-14.26.04:517][686]LogFileHelpers: Auto-saving content packages took 0.031
+[2025.03.21-14.28.11:713][682]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.28.14:936][ 36]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.28.47:399][831]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.28.55:285][739]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.13:820][801]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.23:671][925]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.34:145][ 79]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.37:313][414]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.43:843][146]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.51:114][933]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.29.59:735][908]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-14.30.03:708][375]BlueprintLog: New page: Compile WBP_Canteen
+[2025.03.21-14.30.03:767][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.21-14.30.04:241][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.30.04:295][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.03.21-14.30.04:770][414]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.03.21-14.30.04:770][414]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen676B3B2D469C7ABE597E1F996576645C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.03.21-14.30.04:775][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 534 ms (total: 1.87 sec)
+[2025.03.21-14.30.04:781][414]AssetCheck: New page: Asset Save: WBP_Canteen
+[2025.03.21-14.30.04:782][414]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
