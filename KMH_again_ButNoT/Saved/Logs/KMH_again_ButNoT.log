@@ -6755,3 +6755,2021 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.21-14.33.34:518][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
 [2025.03.21-14.33.35:463][598]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2025.03.21-14.33.35:463][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.36.41:886][ 76]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/Icons/I_Pizza.I_Pizza
+[2025.03.21-14.36.42:892][ 76]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.21-14.36.45:242][324]LogSlate: Window 'I_Pizza' being destroyed
+[2025.03.21-14.36.45:251][324]LogSlate: Window 'I_Pizza' being destroyed
+[2025.03.21-14.36.46:418][452]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/Icons/I_Toastie.I_Toastie
+[2025.03.21-14.36.46:543][452]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.21-14.36.49:277][765]LogSlate: Window 'I_Toastie' being destroyed
+[2025.03.21-14.36.49:285][765]LogSlate: Window 'I_Toastie' being destroyed
+[2025.03.21-14.36.51:605][ 18]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/Icons/I_Polmidor.I_Polmidor
+[2025.03.21-14.36.51:709][ 18]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.03.21-14.36.53:929][260]LogSlate: Window 'I_Polmidor' being destroyed
+[2025.03.21-14.36.53:939][260]LogSlate: Window 'I_Polmidor' being destroyed
+[2025.03.21-14.44.51:883][307]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.21-14.44.51:897][307]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.21-14.44.51:904][308]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.21-14.44.55:121][694]LogContentBrowser: Attempting asset rename: NewFolder -> DragAndDrop
+[2025.03.21-14.44.55:121][694]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.21-14.44.58:532][ 37]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.44.58:532][ 37]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.44.58:532][ 37]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.45.03:349][ 37]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.21-14.45.03:427][ 37]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.21-14.45.03:432][ 37]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.21-14.45.03:454][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.21-14.45.06:172][337]LogContentBrowser: Attempting asset rename: NewBlueprint -> DAD
+[2025.03.21-14.45.06:186][337]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.21-14.45.15:251][304]LogContentBrowser: Attempting asset rename: DAD -> DAD_TrayDrag
+[2025.03.21-14.45.15:491][304]LogMetaData: Removing '/Game/DragAndDrop/DAD_TrayDrag.SKEL_DAD_TrayDrag_C' ref from Metadata '/Game/DragAndDrop/DAD.PackageMetaData'
+[2025.03.21-14.45.15:491][304]LogMetaData: Removing '/Game/DragAndDrop/DAD_TrayDrag.DAD_TrayDrag_C' ref from Metadata '/Game/DragAndDrop/DAD.PackageMetaData'
+[2025.03.21-14.45.15:491][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.45.15:559][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragAndDrop/DAD_TrayDrag" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset" SILENT=true
+[2025.03.21-14.45.15:560][304]LogSavePackage: Moving output files for package: /Game/DragAndDrop/DAD_TrayDrag
+[2025.03.21-14.45.15:560][304]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/DAD_TrayDrag32D4BC6D40AC13A5419A52ABA3D2E3C7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset'
+[2025.03.21-14.45.15:572][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.09 sec)
+[2025.03.21-14.45.15:693][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.03.21-14.45.15:774][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.03.21-14.45.15:810][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.21-14.45.15:818][304]AssetCheck: New page: Asset Save: DAD_TrayDrag
+[2025.03.21-14.45.15:818][304]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_TrayDrag.DAD_TrayDrag
+[2025.03.21-14.45.46:823][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DragAndDrop/DAD_TrayDrag.DAD_TrayDrag
+[2025.03.21-14.45.46:824][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.45.49:647][ 62]LogSlate: Window 'DAD_TrayDrag' being destroyed
+[2025.03.21-14.45.56:211][718]BlueprintLog: New page: Compile DAD_TrayDrag
+[2025.03.21-14.45.56:249][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.21-14.45.56:829][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.45.56:889][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragAndDrop/DAD_TrayDrag" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset" SILENT=true
+[2025.03.21-14.45.56:891][779]LogSavePackage: Moving output files for package: /Game/DragAndDrop/DAD_TrayDrag
+[2025.03.21-14.45.56:891][779]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/DAD_TrayDrag84A9BA174E0D20F8C4B92D8E66AD4B44.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset'
+[2025.03.21-14.45.56:899][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.16 sec)
+[2025.03.21-14.45.56:907][779]AssetCheck: New page: Asset Save: DAD_TrayDrag
+[2025.03.21-14.45.56:907][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_TrayDrag.DAD_TrayDrag
+[2025.03.21-14.46.11:483][671]LogSlate: Took 0.014119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.21-14.46.57:304][796]BlueprintLog: New page: Compile DAD_TrayDrag
+[2025.03.21-14.46.57:338][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.21-14.47.03:931][545]BlueprintLog: New page: Compile DAD_TrayDrag
+[2025.03.21-14.47.03:933][545]LogClass: Warning: SerializeFromMismatchedTag failed: Type mismatch in MouseOffset of MouseOffset - Previous (StructProperty) Current(StructProperty) for package:  FObjectReader
+[2025.03.21-14.47.03:966][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.21-14.47.07:222][658]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.47.07:222][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.47.08:678][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.21-14.47.09:368][796]LogSlate: Window 'Save Content' being destroyed
+[2025.03.21-14.47.09:377][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.47.09:439][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragAndDrop/DAD_TrayDrag" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset" SILENT=true
+[2025.03.21-14.47.09:441][796]LogSavePackage: Moving output files for package: /Game/DragAndDrop/DAD_TrayDrag
+[2025.03.21-14.47.09:441][796]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/DAD_TrayDrag9700B8684C608B090186F286CF77100F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_TrayDrag.uasset'
+[2025.03.21-14.47.09:451][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.24 sec)
+[2025.03.21-14.47.09:459][796]AssetCheck: New page: Asset Save: DAD_TrayDrag
+[2025.03.21-14.47.09:459][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_TrayDrag.DAD_TrayDrag
+[2025.03.21-14.47.15:770][531]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.47.15:770][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.47.15:780][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.47.16:261][531]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.47.16:261][531]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.47.18:318][718]LogSlate: Window 'WBP_TrayInventory' being destroyed
+[2025.03.21-14.48.03:430][813]BlueprintLog: New page: Compile WBP_TrayInventory
+[2025.03.21-14.48.03:490][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.21-14.48.03:888][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.48.03:941][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset" SILENT=true
+[2025.03.21-14.48.03:953][846]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TrayInventory
+[2025.03.21-14.48.03:953][846]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TrayInventoryCF997A594CE3428C6D94B0BD7A942482.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset'
+[2025.03.21-14.48.03:962][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.31 sec)
+[2025.03.21-14.48.03:970][846]AssetCheck: New page: Asset Save: WBP_TrayInventory
+[2025.03.21-14.48.03:970][846]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.48.24:986][202]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.48.24:986][202]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.48.24:986][202]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.21-14.49.48:972][981]LogEditorTransaction: Undo Align Right
+[2025.03.21-14.49.57:064][644]BlueprintLog: New page: Compile WBP_TrayInventory
+[2025.03.21-14.49.57:126][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.21-14.49.57:520][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.49.57:575][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset" SILENT=true
+[2025.03.21-14.49.57:590][677]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TrayInventory
+[2025.03.21-14.49.57:590][677]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TrayInventoryE45236C14B78819DE57F4C915D382BE9.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset'
+[2025.03.21-14.49.57:601][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.39 sec)
+[2025.03.21-14.49.57:607][677]AssetCheck: New page: Asset Save: WBP_TrayInventory
+[2025.03.21-14.49.57:607][677]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.50.41:289][742]BlueprintLog: New page: Compile WBP_TrayInventory
+[2025.03.21-14.50.41:350][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.21-14.50.41:763][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.50.41:826][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset" SILENT=true
+[2025.03.21-14.50.41:841][776]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TrayInventory
+[2025.03.21-14.50.41:842][776]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TrayInventory590C585841681EB665142AA2002B6372.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset'
+[2025.03.21-14.50.41:851][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.48 sec)
+[2025.03.21-14.50.41:858][776]AssetCheck: New page: Asset Save: WBP_TrayInventory
+[2025.03.21-14.50.41:858][776]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.50.44:191][ 42]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.50.44:192][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.50.44:202][ 42]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.50.44:202][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.50.47:457][244]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.03.21-14.50.47:457][244]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.03.21-14.50.50:632][583]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.21-14.50.50:633][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.50.50:645][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.50.51:063][583]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.50.51:063][583]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.51.02:246][811]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.51.02:246][811]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.53.09:698][689]BlueprintLog: New page: Compile WBP_HUD
+[2025.03.21-14.53.09:771][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.03.21-14.53.10:056][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.53.10:124][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.03.21-14.53.10:141][716]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.03.21-14.53.10:142][716]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_HUD8ABE6936459D233CCAF7EC87C91BCF92.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset'
+[2025.03.21-14.53.10:150][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.57 sec)
+[2025.03.21-14.53.10:157][716]AssetCheck: New page: Asset Save: WBP_HUD
+[2025.03.21-14.53.10:157][716]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.21-14.53.47:538][ 84]LogEditorTransaction: Undo Move Nodes
+[2025.03.21-14.54.01:946][728]BlueprintLog: New page: Compile WBP_HUD
+[2025.03.21-14.54.02:013][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.21-14.54.02:307][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.54.02:373][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.03.21-14.54.02:396][755]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.03.21-14.54.02:396][755]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_HUD6FEDCAED41B71FE433E2FBBCAEFEAC02.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset'
+[2025.03.21-14.54.02:408][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.68 sec)
+[2025.03.21-14.54.02:416][755]AssetCheck: New page: Asset Save: WBP_HUD
+[2025.03.21-14.54.02:416][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.21-14.54.04:540][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-14.54.04:546][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-14.54.04:546][876]PIE: New page: PIE session: L_Main (21 Mar 2025, 14:54:04)
+[2025.03.21-14.54.04:546][876]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.21-14.54.04:548][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001305s)
+[2025.03.21-14.54.04:548][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001386s)
+[2025.03.21-14.54.04:548][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.54.04:548][876]LogAIModule: Creating AISystem for world L_Main
+[2025.03.21-14.54.04:549][876]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2025.03.21-14.54.04:588][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.21-14.54.04:591][876]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.21-14.54.04:591][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-14.54.04:591][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-14.54.04:591][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-14.54.04:591][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-14.54.04:591][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-14.54.04:594][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-14.54.04:619][876]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.03.21-14.54.04:619][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-14.54.04:619][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-14.54.04:619][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-14.54.04:620][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.21-14.54.04:620][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.21-14.54.04:622][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.21-14.54.04:622][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.21-14.54.04:622][876]LogInit: FAudioDevice initialized.
+[2025.03.21-14.54.04:622][876]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Main'.
+[2025.03.21-14.54.04:625][876]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.21-14.54.04:626][876]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.21-14.54.04
+[2025.03.21-14.54.04:626][876]LogWorld: Bringing up level for play took: 0.000499
+[2025.03.21-14.54.04:629][876]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.03.21-14.54.04:630][876]PIE: Server logged in
+[2025.03.21-14.54.04:631][876]PIE: Play in editor total start time 0.085 seconds.
+[2025.03.21-14.54.04:650][876]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:664][877]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:712][878]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:726][879]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:736][880]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:746][881]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:753][882]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:761][883]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:771][884]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:778][885]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:786][886]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:795][887]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:803][888]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:812][889]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:820][890]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:829][891]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:836][892]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:846][893]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:853][894]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:862][895]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:869][896]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:879][897]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:886][898]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:895][899]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:903][900]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:911][901]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:920][902]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:928][903]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:936][904]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:946][905]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:954][906]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:963][907]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:970][908]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:979][909]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:986][910]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.04:995][911]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:003][912]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:012][913]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:019][914]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:028][915]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:038][916]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:046][917]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:054][918]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:062][919]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:071][920]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:079][921]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:086][922]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:098][923]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:105][924]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:112][925]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:121][926]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:131][927]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:138][928]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:147][929]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:155][930]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:163][931]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:171][932]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:181][933]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:188][934]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:197][935]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:205][936]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:213][937]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:221][938]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:229][939]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:238][940]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:248][941]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:254][942]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:264][943]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:271][944]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:280][945]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:288][946]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:298][947]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:305][948]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:314][949]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:321][950]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:329][951]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:338][952]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:346][953]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:357][954]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:364][955]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:372][956]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:380][957]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:388][958]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:396][959]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:406][960]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:414][961]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:422][962]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:431][963]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:438][964]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:448][965]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:454][966]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:463][967]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:471][968]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:480][969]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:488][970]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:497][971]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:504][972]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:514][973]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:521][974]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:529][975]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:538][976]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:547][977]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:554][978]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:563][979]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:571][980]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:580][981]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:588][982]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:598][983]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:605][984]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:614][985]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:622][986]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:630][987]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:638][988]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:647][989]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:650][990]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.21-14.54.05:656][990]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:666][991]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:673][992]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:683][993]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:691][994]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:699][995]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:707][996]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:717][997]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:723][998]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:732][999]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:741][  0]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:750][  1]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:757][  2]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:765][  3]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:775][  4]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:782][  5]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:791][  6]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:798][  7]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:806][  8]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:815][  9]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:825][ 10]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:832][ 11]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:840][ 12]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:848][ 13]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:856][ 14]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:866][ 15]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:873][ 16]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:883][ 17]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:891][ 18]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:899][ 19]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:907][ 20]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:915][ 21]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:924][ 22]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:933][ 23]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:940][ 24]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:949][ 25]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:957][ 26]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:965][ 27]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:974][ 28]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:982][ 29]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:990][ 30]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.05:999][ 31]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:006][ 32]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:016][ 33]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:024][ 34]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:032][ 35]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:041][ 36]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:048][ 37]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:056][ 38]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:065][ 39]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:073][ 40]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:082][ 41]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:091][ 42]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:099][ 43]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:107][ 44]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:115][ 45]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:124][ 46]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:132][ 47]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:140][ 48]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:150][ 49]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:158][ 50]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:165][ 51]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:174][ 52]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:182][ 53]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:191][ 54]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:198][ 55]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:207][ 56]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:215][ 57]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:224][ 58]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:234][ 59]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:241][ 60]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:249][ 61]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:257][ 62]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:265][ 63]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:274][ 64]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:282][ 65]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:290][ 66]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:299][ 67]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:308][ 68]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:331][ 69]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:339][ 70]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:347][ 71]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:356][ 72]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:364][ 73]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:371][ 74]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:408][ 75]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:418][ 76]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:425][ 77]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:433][ 78]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:441][ 79]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:451][ 80]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:457][ 81]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:466][ 82]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:475][ 83]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:482][ 84]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:491][ 85]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:499][ 86]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:508][ 87]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:517][ 88]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:525][ 89]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:533][ 90]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:541][ 91]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:549][ 92]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:558][ 93]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:566][ 94]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:575][ 95]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:582][ 96]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:591][ 97]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:600][ 98]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:608][ 99]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:618][100]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:625][101]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:633][102]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:641][103]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:649][104]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:658][105]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:666][106]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:675][107]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:684][108]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:692][109]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:699][110]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:708][111]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:716][112]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:725][113]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:733][114]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:741][115]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:750][116]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:758][117]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:766][118]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:775][119]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:783][120]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:791][121]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:800][122]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:808][123]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:817][124]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:824][125]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:834][126]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:842][127]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:850][128]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:858][129]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:866][130]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:875][131]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:884][132]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:891][133]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:899][134]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:906][135]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:916][136]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:924][137]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:933][138]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:943][139]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:951][140]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:960][141]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:966][142]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:974][143]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:984][144]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.06:992][145]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:000][146]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:008][147]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:016][148]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:024][149]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:033][150]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:041][151]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:050][152]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:058][153]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:066][154]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:074][155]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:083][156]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:092][157]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:100][158]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:108][159]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:116][160]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:125][161]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:134][162]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:142][163]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:150][164]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:158][165]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:166][166]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:175][167]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:184][168]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:192][169]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:201][170]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:209][171]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:218][172]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:225][173]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:233][174]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:241][175]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:250][176]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:258][177]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:268][178]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:275][179]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:283][180]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:292][181]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:300][182]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:308][183]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:317][184]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:326][185]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:334][186]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:342][187]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:351][188]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:359][189]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:368][190]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:377][191]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:385][192]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:392][193]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:402][194]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:413][195]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:421][196]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:429][197]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:437][198]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:446][199]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:453][200]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:462][201]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:470][202]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:479][203]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:486][204]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:495][205]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:503][206]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:512][207]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:522][208]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:530][209]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:539][210]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:548][211]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:555][212]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:564][213]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:571][214]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:580][215]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:588][216]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:596][217]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:605][218]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:613][219]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:622][220]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:630][221]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:638][222]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:648][223]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:656][224]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:663][225]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:673][226]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:681][227]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:689][228]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:696][229]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:706][230]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:713][231]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:722][232]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:730][233]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:739][234]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:746][235]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:755][236]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:764][237]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:771][238]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:781][239]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:789][240]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:801][241]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:808][242]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:816][243]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:824][244]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:834][245]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:842][246]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:849][247]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:858][248]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:867][249]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:876][250]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:884][251]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:893][252]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:902][253]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:909][254]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:920][255]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:927][256]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:937][257]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:945][258]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:953][259]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:960][260]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:971][261]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:978][262]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:986][263]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.07:995][264]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:004][265]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:010][266]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:019][267]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:027][268]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:035][269]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:046][270]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:054][271]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:062][272]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:070][273]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:078][274]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:085][275]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:094][276]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:102][277]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:111][278]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:120][279]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:128][280]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:136][281]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:145][282]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:153][283]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:162][284]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:169][285]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:178][286]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:186][287]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:194][288]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:205][289]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:213][290]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:221][291]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:230][292]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:236][293]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:246][294]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:254][295]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:263][296]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:271][297]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:279][298]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:286][299]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:296][300]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:304][301]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:312][302]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:320][303]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:330][304]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:337][305]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:346][306]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:354][307]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:362][308]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:371][309]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:380][310]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:387][311]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:396][312]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:404][313]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:412][314]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:421][315]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:429][316]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:437][317]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:446][318]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:453][319]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:463][320]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:470][321]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:480][322]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:487][323]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:497][324]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:504][325]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:513][326]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:520][327]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:531][328]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:538][329]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:546][330]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:554][331]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:563][332]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:570][333]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:579][334]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:588][335]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:596][336]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:604][337]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:613][338]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:621][339]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:630][340]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:637][341]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:646][342]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:654][343]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:663][344]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:670][345]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:680][346]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:687][347]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:696][348]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:704][349]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:712][350]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:721][351]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:732][352]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:738][353]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:747][354]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:755][355]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:764][356]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:772][357]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:780][358]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:788][359]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:796][360]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:805][361]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:814][362]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:822][363]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:830][364]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:840][365]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:847][366]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:855][367]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:863][368]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:872][369]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:881][370]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:888][371]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:897][372]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:905][373]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:914][374]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:922][375]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:930][376]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:938][377]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:946][378]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:955][379]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:964][380]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:972][381]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:980][382]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:988][383]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.08:998][384]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:005][385]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:014][386]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:023][387]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:035][388]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:042][389]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:050][390]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:060][391]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:068][392]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:074][393]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:084][394]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:092][395]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:101][396]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:109][397]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:117][398]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:125][399]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:133][400]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:142][401]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:150][402]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:159][403]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:167][404]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:175][405]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:184][406]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:192][407]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:200][408]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:209][409]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:217][410]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:226][411]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:234][412]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:241][413]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:250][414]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:259][415]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:267][416]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:275][417]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:285][418]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:292][419]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:300][420]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:308][421]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:318][422]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:325][423]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:334][424]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:342][425]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:350][426]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:358][427]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:366][428]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:375][429]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:383][430]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:392][431]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:400][432]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:408][433]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:416][434]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:425][435]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:433][436]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:442][437]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:450][438]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:458][439]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:466][440]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:475][441]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:483][442]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:492][443]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:500][444]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:508][445]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:518][446]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:525][447]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:534][448]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:541][449]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:550][450]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:559][451]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:567][452]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:574][453]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:586][454]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:592][455]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:600][456]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:608][457]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:616][458]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:625][459]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:633][460]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:642][461]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:650][462]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:658][463]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:666][464]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:676][465]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:683][466]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:692][467]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:700][468]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:708][469]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:716][470]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:725][471]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:733][472]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:742][473]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:751][474]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:758][475]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:766][476]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:775][477]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:786][478]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:792][479]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:800][480]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:808][481]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:816][482]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:825][483]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:834][484]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:843][485]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:851][486]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:858][487]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:866][488]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:875][489]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:883][490]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:892][491]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:900][492]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:908][493]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:916][494]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:924][495]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:933][496]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:942][497]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:950][498]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:958][499]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:967][500]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:975][501]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:983][502]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.09:991][503]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:000][504]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:008][505]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:016][506]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:025][507]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:034][508]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:044][509]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:052][510]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:062][511]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:068][512]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:077][513]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:085][514]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:093][515]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:102][516]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:111][517]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:119][518]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:126][519]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:136][520]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:144][521]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:152][522]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:161][523]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:168][524]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:176][525]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:185][526]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:194][527]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:201][528]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:211][529]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:219][530]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:226][531]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:236][532]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:243][533]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:252][534]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:260][535]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:269][536]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:277][537]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:285][538]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:295][539]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:302][540]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:312][541]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:319][542]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:326][543]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:335][544]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:344][545]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:351][546]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:360][547]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:369][548]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:378][549]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:385][550]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:394][551]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:403][552]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:411][553]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:420][554]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:427][555]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:435][556]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:444][557]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:453][558]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:460][559]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:469][560]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:477][561]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:485][562]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:495][563]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:502][564]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:511][565]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:518][566]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:528][567]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:535][568]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:544][569]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:552][570]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:561][571]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:569][572]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:579][573]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:586][574]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:594][575]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:603][576]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:613][577]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:618][578]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:627][579]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:636][580]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:645][581]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:652][582]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:661][583]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:668][584]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:678][585]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:685][586]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:694][587]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:703][588]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:711][589]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:719][590]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:728][591]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:736][592]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:744][593]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:753][594]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:761][595]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:769][596]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:778][597]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:786][598]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:795][599]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:803][600]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:810][601]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:819][602]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:827][603]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:837][604]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:844][605]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:852][606]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:862][607]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:869][608]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:878][609]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:886][610]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:898][611]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:905][612]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:914][613]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:921][614]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:931][615]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:938][616]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:947][617]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:954][618]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:964][619]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:971][620]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:980][621]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:988][622]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.10:997][623]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:004][624]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:014][625]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:021][626]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:030][627]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:038][628]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:046][629]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:055][630]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:064][631]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:071][632]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:081][633]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:088][634]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:099][635]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:105][636]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:113][637]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:122][638]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:130][639]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:138][640]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:146][641]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:157][642]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:164][643]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:172][644]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:180][645]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:188][646]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:196][647]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:206][648]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:212][649]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:221][650]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:230][651]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:238][652]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:246][653]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:255][654]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:264][655]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:271][656]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:279][657]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:288][658]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:296][659]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:305][660]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:314][661]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:322][662]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:330][663]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:338][664]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:346][665]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:357][666]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:365][667]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:372][668]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:381][669]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:388][670]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:397][671]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:405][672]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:416][673]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:423][674]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:432][675]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:440][676]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:449][677]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:456][678]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:465][679]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:473][680]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:481][681]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:489][682]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:499][683]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:506][684]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:515][685]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:523][686]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:531][687]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:539][688]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:548][689]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:557][690]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:565][691]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:573][692]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:581][693]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:589][694]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:598][695]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:606][696]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:615][697]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:625][698]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:631][699]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:640][700]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:648][701]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:656][702]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:665][703]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:673][704]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:683][705]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:690][706]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:699][707]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:706][708]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:715][709]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:723][710]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:732][711]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:740][712]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:748][713]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:756][714]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:765][715]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:773][716]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:781][717]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:790][718]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:798][719]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:807][720]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:815][721]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:823][722]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:832][723]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:840][724]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:848][725]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:856][726]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:865][727]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:873][728]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:883][729]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:890][730]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:899][731]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:907][732]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:915][733]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:924][734]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:933][735]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:940][736]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:949][737]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:956][738]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:965][739]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:973][740]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:982][741]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:990][742]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.11:998][743]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:006][744]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:015][745]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:023][746]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:032][747]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:040][748]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:048][749]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:056][750]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:065][751]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:073][752]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:082][753]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:089][754]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:099][755]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:106][756]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:115][757]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:122][758]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:132][759]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:140][760]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:150][761]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:156][762]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:165][763]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:173][764]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:182][765]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:190][766]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:199][767]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:208][768]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:217][769]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:223][770]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:232][771]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:240][772]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:249][773]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:256][774]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:266][775]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:273][776]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:282][777]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:289][778]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:298][779]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:306][780]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:315][781]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:324][782]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:331][783]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:339][784]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:349][785]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:357][786]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:365][787]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:373][788]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:382][789]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:390][790]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:399][791]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:408][792]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:416][793]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:424][794]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:432][795]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:440][796]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:449][797]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:457][798]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:465][799]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:475][800]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:482][801]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:490][802]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:499][803]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:506][804]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:516][805]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:524][806]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:532][807]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:540][808]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:550][809]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:557][810]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:566][811]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:575][812]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:583][813]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:591][814]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:599][815]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:606][816]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:616][817]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:624][818]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:632][819]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:641][820]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:649][821]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:656][822]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:666][823]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:676][824]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:684][825]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:691][826]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:701][827]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:708][828]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:718][829]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:725][830]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:735][831]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:741][832]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:750][833]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:758][834]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:767][835]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:774][836]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:783][837]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:791][838]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:800][839]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:808][840]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:817][841]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:825][842]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:833][843]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:841][844]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:850][845]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:858][846]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:866][847]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:875][848]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:883][849]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:891][850]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:900][851]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:908][852]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:917][853]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:925][854]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:934][855]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:942][856]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:950][857]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:958][858]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:967][859]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:973][860]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:984][861]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.12:991][862]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:001][863]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:008][864]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:017][865]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:025][866]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:034][867]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:041][868]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:049][869]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:058][870]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:067][871]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:075][872]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:083][873]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:091][874]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:100][875]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:108][876]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:116][877]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:125][878]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:134][879]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:141][880]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:150][881]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:158][882]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:166][883]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:175][884]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:182][885]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:191][886]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:203][887]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:209][888]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:216][889]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:225][890]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:234][891]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:242][892]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:251][893]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:259][894]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:268][895]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:275][896]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:284][897]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:292][898]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:301][899]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:308][900]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:316][901]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:325][902]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:332][903]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:341][904]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:350][905]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:358][906]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:366][907]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:375][908]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:384][909]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:392][910]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:401][911]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:408][912]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:416][913]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:425][914]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:434][915]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:442][916]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:450][917]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:458][918]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:468][919]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:476][920]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:484][921]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:493][922]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:501][923]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:509][924]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:518][925]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:528][926]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:534][927]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:542][928]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:550][929]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:559][930]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:567][931]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:575][932]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:584][933]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:592][934]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:601][935]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:608][936]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:618][937]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:625][938]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:634][939]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:643][940]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:650][941]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:659][942]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:668][943]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:676][944]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:684][945]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:692][946]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:701][947]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:709][948]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:718][949]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:728][950]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:735][951]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:744][952]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:752][953]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:760][954]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:768][955]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:777][956]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:785][957]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:795][958]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:802][959]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:810][960]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:818][961]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:826][962]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:835][963]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:844][964]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:852][965]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:860][966]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:869][967]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:877][968]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:885][969]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:894][970]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:901][971]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:910][972]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:918][973]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:926][974]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:934][975]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:943][976]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:952][977]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:960][978]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:968][979]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:977][980]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:985][981]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.13:994][982]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:002][983]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:010][984]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:019][985]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:026][986]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:035][987]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:044][988]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:053][989]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:060][990]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:068][991]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:078][992]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:085][993]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:094][994]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:102][995]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:111][996]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:118][997]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:127][998]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:135][999]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:144][  0]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:152][  1]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:161][  2]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:168][  3]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:178][  4]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:185][  5]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:193][  6]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:203][  7]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:210][  8]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:219][  9]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:226][ 10]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:235][ 11]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:244][ 12]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:254][ 13]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:262][ 14]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:268][ 15]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:276][ 16]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:285][ 17]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:293][ 18]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:302][ 19]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:311][ 20]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:320][ 21]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:328][ 22]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:335][ 23]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:344][ 24]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:352][ 25]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:360][ 26]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:368][ 27]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:378][ 28]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:385][ 29]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:394][ 30]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:402][ 31]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:410][ 32]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:418][ 33]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:427][ 34]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:436][ 35]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:444][ 36]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:452][ 37]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:461][ 38]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:470][ 39]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:478][ 40]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:486][ 41]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:494][ 42]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:502][ 43]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:511][ 44]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:520][ 45]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:528][ 46]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:536][ 47]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:545][ 48]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:553][ 49]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:561][ 50]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:568][ 51]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:579][ 52]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:586][ 53]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:594][ 54]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:603][ 55]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:611][ 56]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:619][ 57]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:627][ 58]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:635][ 59]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:644][ 60]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:652][ 61]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:660][ 62]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:670][ 63]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:678][ 64]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:686][ 65]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:694][ 66]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:702][ 67]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:711][ 68]LogBlueprintUserMessages: [WBP_HUD_C_0] 
+[2025.03.21-14.54.14:759][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-14.54.14:759][ 69]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.21-14.54.14:759][ 69]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.54.14:759][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.54.14:762][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-14.54.14:768][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.54.14:799][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.21-14.54.14:800][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.21-14.54.14:801][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.21-14.54.14:804][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-14.54.14:806][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.21-14.54.14:828][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.03.21-14.54.18:423][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.21-14.55.04:801][865]BlueprintLog: New page: Compile WBP_HUD
+[2025.03.21-14.55.04:871][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.21-14.55.05:344][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.55.05:409][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.03.21-14.55.05:431][908]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.03.21-14.55.05:432][908]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_HUD6BC01B784A58922195317592A9DFD057.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset'
+[2025.03.21-14.55.05:441][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.77 sec)
+[2025.03.21-14.55.05:449][908]AssetCheck: New page: Asset Save: WBP_HUD
+[2025.03.21-14.55.05:449][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.21-14.55.25:181][213]BlueprintLog: New page: Compile WBP_HUD
+[2025.03.21-14.55.25:246][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.21-14.55.25:682][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.55.25:743][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.03.21-14.55.25:758][251]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.03.21-14.55.25:758][251]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_HUD93D08EB54D95277647415783CE9DA201.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_HUD.uasset'
+[2025.03.21-14.55.25:768][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.86 sec)
+[2025.03.21-14.55.25:774][251]AssetCheck: New page: Asset Save: WBP_HUD
+[2025.03.21-14.55.25:774][251]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.03.21-14.56.30:573][823]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.56.30:574][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.56.30:582][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-14.56.31:013][823]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.56.31:013][823]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.21-14.57.12:172][620]BlueprintLog: New page: Compile WBP_TrayInventory
+[2025.03.21-14.57.12:240][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.21-14.57.12:674][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-14.57.12:739][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset" SILENT=true
+[2025.03.21-14.57.12:755][663]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TrayInventory
+[2025.03.21-14.57.12:756][663]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TrayInventory19919208425A3E312F206288D771404A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset'
+[2025.03.21-14.57.12:766][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.95 sec)
+[2025.03.21-14.57.12:773][663]AssetCheck: New page: Asset Save: WBP_TrayInventory
+[2025.03.21-14.57.12:773][663]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.21-14.57.14:247][821]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.03.21-14.57.14:293][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.21-14.58.36:095][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.21-14.59.22:454][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.21-14.59.22:455][838]LogStall: Shutdown...
+[2025.03.21-14.59.22:537][838]LogStall: Shutdown complete.
+[2025.03.21-14.59.22:627][838]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.22:627][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.59.22:635][838]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.22:635][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.59.22:733][838]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.22:733][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.59.22:740][838]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.22:740][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.59.22:814][838]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.03.21-14.59.22:998][839]Cmd: QUIT_EDITOR
+[2025.03.21-14.59.22:998][839]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.21-14.59.23:002][839]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.21-14.59.23:002][839]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.21-14.59.23:002][839]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.21-14.59.23:010][839]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.23:011][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-14.59.23:011][839]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.21-14.59.23:013][839]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.21-14.59.24:100][839]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.21-14.59.24:100][839]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.21-14.59.24:100][839]LogAudio: Display: Audio Device unregistered from world 'L_Main'.
+[2025.03.21-14.59.24:117][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.21-14.59.24:120][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.21-14.59.24:125][839]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.21-14.59.24:130][839]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.21-14.59.24:130][839]LogExit: Preparing to exit.
+[2025.03.21-14.59.24:168][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.21-14.59.24:180][839]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:180][839]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:183][839]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:184][839]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.21-14.59.24:846][839]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.24:848][839]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-14.59.24:892][839]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.21-14.59.24:932][839]LogExit: Editor shut down
+[2025.03.21-14.59.24:935][839]LogExit: Transaction tracking system shut down
+[2025.03.21-14.59.25:167][839]LogExit: Object subsystem successfully closed.
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: ================================================
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Total job queries 182, among them cache hits 0 (0.00%)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Tracking 182 distinct input hashes that result in 102 distinct outputs (56.04%)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: RAM used: 1.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Shaders Compiled: 182
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Jobs assigned 182, completed 182 (100.00%)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Average time worker was idle: 196.29 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.84 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 2.28 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 2.69
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.12 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Jobs were issued in 182 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Average processing rate: 5.49 jobs/sec
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Total thread time: 100.39 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Total thread preprocess time: 6.15 s
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Percentage time preprocessing: 6.13%
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   42 times, average 0.71 sec, max 0.95 sec, min 0.54 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    7 times, average 0.71 sec, max 0.84 sec, min 0.61 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   42 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   32 times, average 0.61 sec, max 0.78 sec, min 0.49 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.91% of total time (compiled   42 times, average 0.71 sec, max 0.95 sec, min 0.54 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.37% of total time (compiled   42 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.45% of total time (compiled   32 times, average 0.61 sec, max 0.78 sec, min 0.49 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.65% of total time (compiled   32 times, average 0.40 sec, max 0.52 sec, min 0.32 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.93% of total time (compiled    7 times, average 0.71 sec, max 0.84 sec, min 0.61 sec)
+[2025.03.21-14.59.25:183][839]LogShaderCompilers: Display: ================================================
+[2025.03.21-14.59.25:202][839]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.21-14.59.25:231][839]LogVirtualization: UE::Virtualization was shutdown
+[2025.03.21-14.59.25:242][839]LogModuleManager: Shutting down and abandoning module TextureEditor (1001)
+[2025.03.21-14.59.25:242][839]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (999)
+[2025.03.21-14.59.25:242][839]LogModuleManager: Shutting down and abandoning module Voice (997)
+[2025.03.21-14.59.25:242][839]LogModuleManager: Shutting down and abandoning module SequencerWidgets (995)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (991)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (989)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module SubobjectEditor (987)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module SceneOutliner (985)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module AddContentDialog (983)
+[2025.03.21-14.59.25:243][839]LogModuleManager: Shutting down and abandoning module WidgetCarousel (982)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module PlanarCut (969)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module CharacterAI (967)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (965)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (963)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module TakesCore (961)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module SmartSnapping (959)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module TextureAlignMode (957)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module BspMode (955)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module GeometryMode (953)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (951)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (949)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WebMMedia (947)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (945)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (943)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (941)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (939)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (937)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (935)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (933)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (931)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (929)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (927)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (925)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (923)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module WaveTableEditor (921)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (919)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module GooglePADEditor (917)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (915)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module SequenceRecorder (914)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (911)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module IKRigEditor (909)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module ControlRigEditor (907)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (905)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (903)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (901)
+[2025.03.21-14.59.25:244][839]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2025.03.21-14.59.25:246][839]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2025.03.21-14.59.25:251][839]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2025.03.21-14.59.26:005][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2025.03.21-14.59.26:006][839]MemoryProfiler: Shutdown
+[2025.03.21-14.59.26:006][839]NetworkingProfiler: Shutdown
+[2025.03.21-14.59.26:006][839]LoadingProfiler: Shutdown
+[2025.03.21-14.59.26:006][839]TimingProfiler: Shutdown
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2025.03.21-14.59.26:006][839]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2025.03.21-14.59.26:007][839]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2025.03.21-14.59.26:024][839]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2025.03.21-14.59.26:024][839]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2025.03.21-14.59.26:024][839]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2025.03.21-14.59.26:024][839]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2025.03.21-14.59.26:028][839]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2025.03.21-14.59.26:028][839]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2025.03.21-14.59.26:028][839]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2025.03.21-14.59.26:028][839]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2025.03.21-14.59.26:028][839]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2025.03.21-14.59.26:030][839]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2025.03.21-14.59.26:030][839]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2025.03.21-14.59.26:049][839]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (699)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module LightMixer (697)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (695)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (693)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2025.03.21-14.59.26:163][839]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (687)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module UVEditorTools (685)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module UVEditor (683)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (681)
+[2025.03.21-14.59.26:164][839]LogOpenImageDenoise: OIDN shutting down
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (679)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (677)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (675)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (673)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module MeshLODToolset (671)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module Iris (669)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (667)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (665)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (664)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (662)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (659)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (657)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (655)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (653)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module DataflowNodes (651)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module DataflowEditor (649)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (647)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (645)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ChaosNiagara (643)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module FractureEditor (641)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (639)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module BackChannel (637)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (635)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module AutomationUtils (633)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module TakeSequencer (631)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module TakeMovieScene (629)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (627)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (625)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module Paper2DEditor (623)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (621)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module StylusInput (619)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (617)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (615)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module PluginBrowser (613)
+[2025.03.21-14.59.26:164][839]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (611)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (609)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (607)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GLTFImporter (605)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GLTFCore (603)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (601)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module EditorDebugTools (599)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module CurveEditorTools (597)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (595)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module CryptoKeys (593)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (591)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (589)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MediaPlate (587)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MediaCompositing (585)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ImgMedia (583)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (581)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (579)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (577)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangePipelines (575)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeExport (573)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeMessages (571)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeImport (569)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (567)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeNodes (565)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (563)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (561)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (559)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeEditor (557)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module SynthesisEditor (555)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ResonanceAudio (553)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (551)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (549)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (547)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ModelingOperators (545)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (543)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ModelingComponents (541)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryFramework (540)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (537)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MeshModelingTools (535)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InputDebugging (533)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GooglePAD (531)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module DynamicMesh (529)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (527)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (525)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (523)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (521)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AudioCapture (519)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (518)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AssetTags (515)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (513)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (511)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AppleImageUtils (509)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AndroidPermission (507)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (505)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (503)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AlembicImporter (501)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AlembicLibrary (500)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryCache (499)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (498)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (493)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module ControlRigSpline (491)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (489)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (487)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module TemplateSequence (485)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (483)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module SequencerScripting (481)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (479)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (475)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InterchangeTests (473)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (471)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (469)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module UObjectPlugin (467)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (465)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (463)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module PluginUtils (461)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (459)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (457)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (455)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module VariantManager (453)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (452)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (449)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module GitSourceControl (447)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module DumpGPUServices (445)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (443)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (441)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (429)
+[2025.03.21-14.59.26:165][839]LogModuleManager: Shutting down and abandoning module PBIK (427)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module FullBodyIK (425)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (423)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module TakeRecorder (422)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module ChaosCaching (419)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module Paper2D (417)
+[2025.03.21-14.59.26:166][839]LogModuleManager: Shutting down and abandoning module UdpMessaging (415)
+[2025.03.21-14.59.26:267][839]LogModuleManager: Shutting down and abandoning module TcpMessaging (413)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (411)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (409)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module FacialAnimation (407)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module DataValidation (405)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (403)
+[2025.03.21-14.59.26:368][839]LogModuleManager: Shutting down and abandoning module LevelEditor (402)
+[2025.03.21-14.59.26:377][839]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (401)
+[2025.03.21-14.59.26:377][839]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (399)
+[2025.03.21-14.59.26:377][839]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (397)
+[2025.03.21-14.59.26:377][839]LogModuleManager: Shutting down and abandoning module MainFrame (395)
+[2025.03.21-14.59.26:377][839]LogModuleManager: Shutting down and abandoning module HotReload (394)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module TreeMap (390)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (387)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module GameplayCameras (385)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module Synthesis (383)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module SoundFields (381)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module SignificanceManager (379)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (377)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (375)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundEditor (373)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AudioWidgets (372)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (371)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (367)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundEngine (365)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module WaveTable (364)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (362)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (359)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (357)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (355)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (353)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (351)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (349)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module CableComponent (347)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (345)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (344)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (341)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (339)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module IKRig (337)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (335)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module Niagara (333)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module SignalProcessing (332)
+[2025.03.21-14.59.26:378][839]LogModuleManager: Shutting down and abandoning module NiagaraEditor (330)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ContentBrowser (329)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ToolMenus (328)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module NiagaraCore (321)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (319)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ControlRig (317)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module LevelSequence (316)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ActorSequence (313)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (311)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (309)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (307)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module AnimationSharing (305)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2025.03.21-14.59.26:379][839]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2025.03.21-14.59.26:380][839]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2025.03.21-14.59.26:380][839]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module Core (231)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2025.03.21-14.59.26:381][839]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2025.03.21-14.59.26:382][839]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2025.03.21-14.59.26:393][839]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2025.03.21-14.59.26:393][839]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2025.03.21-14.59.26:417][839]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2025.03.21-14.59.26:418][839]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2025.03.21-14.59.26:419][839]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module ChaosCloth (110)
+[2025.03.21-14.59.26:420][839]LogModuleManager: Shutting down and abandoning module WmfMedia (108)
+[2025.03.21-14.59.26:422][839]LogModuleManager: Shutting down and abandoning module Media (107)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (104)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2025.03.21-14.59.26:424][839]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2025.03.21-14.59.26:425][839]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2025.03.21-14.59.26:425][839]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2025.03.21-14.59.26:445][839]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2025.03.21-14.59.26:445][839]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.21-14.59.26:445][839]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0A899382-47FF-294B-C092-B99D53312F12%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.03.21-14.59.26:462][839]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (74)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (72)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (70)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PixWinPlugin (66)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module GLTFExporter (62)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2025.03.21-14.59.26:464][839]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2025.03.21-14.59.26:464][839]LogXGEController: Cleaning working directory: C:/Users/rafal/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.21-14.59.26:465][839]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2025.03.21-14.59.26:465][839]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2025.03.21-14.59.26:465][839]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.03.21-14.59.26:466][839]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.03.21-14.59.26:468][839]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.03.21-14.59.26:667][839]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.21-14.59.26:701][839]LogExit: Exiting.
+[2025.03.21-14.59.26:746][839]Log file closed, 03/21/25 14:59:26
