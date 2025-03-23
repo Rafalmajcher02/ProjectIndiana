@@ -2476,3 +2476,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.23-14.32.25:535][983]AssetCheck: New page: Asset Save: BP_TrayInventory
 [2025.03.23-14.32.25:535][983]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
 [2025.03.23-14.32.28:818][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.23-14.35.21:138][882]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.265 and deleted 0 files with total size 0 MiB. Scanned 1896 files in 1889 folders with total size 196 MiB.
+[2025.03.23-15.35.21:083][675]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.210 and deleted 0 files with total size 0 MiB. Scanned 1896 files in 1889 folders with total size 196 MiB.
