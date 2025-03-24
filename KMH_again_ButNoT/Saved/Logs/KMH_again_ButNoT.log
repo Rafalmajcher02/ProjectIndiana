@@ -1096,3 +1096,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.24-11.56.54:228][973]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2025.03.24-11.56.54:228][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.03.24-11.56.58:899][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.24-11.58.01:489][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.24-11.58.01:495][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-11.58.25:100][873]LogSlate: Took 0.013497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.24-12.05.56:402][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.03.24-12.05.56:407][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.126
+[2025.03.24-12.05.56:435][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrayInventory] ([2] browsable assets)...
+[2025.03.24-12.05.56:435][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrayInventory]
+[2025.03.24-12.05.56:559][338]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrayInventory_Auto1
+[2025.03.24-12.05.56:560][338]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory_Auto1D8272BE440EBA69A678CE891131215DC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/BP_TrayInventory_Auto1.uasset'
+[2025.03.24-12.05.56:578][338]LogFileHelpers: Auto-saving content packages took 0.157
+[2025.03.24-12.06.04:514][239]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.07.26:025][671]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.07.40:436][356]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.07.51:378][630]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.08.18:479][755]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.11.21:225][918]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.183 and deleted 0 files with total size 0 MiB. Scanned 1903 files in 1896 folders with total size 197 MiB.
+[2025.03.24-12.13.42:757][817]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.14.02:267][ 95]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.14.27:518][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.16.02:329][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.16.17:002][761]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.17.58:954][626]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.18.03:237][104]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.18.21:634][181]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.18.38:735][160]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.19.23:826][441]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.20.11:485][ 35]BlueprintLog: New page: Compile BP_TrayInventory
+[2025.03.24-12.20.12:385][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.24-12.20.12:866][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.20.12:930][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.03.24-12.20.13:043][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.03.24-12.20.13:043][ 74]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryDF495D2140697D272ABB4294F3994F8D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.03.24-12.20.13:075][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 692 ms)
+[2025.03.24-12.20.13:083][ 74]AssetCheck: New page: Asset Save: BP_TrayInventory
+[2025.03.24-12.20.13:083][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
