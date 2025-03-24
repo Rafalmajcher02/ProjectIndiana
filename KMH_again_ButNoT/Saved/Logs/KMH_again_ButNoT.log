@@ -1204,3 +1204,60 @@ Script Stack (0 frames) :
 [2025.03.24-12.32.24:364][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.04 sec)
 [2025.03.24-12.32.24:372][993]AssetCheck: New page: Asset Save: BP_TrayInventory
 [2025.03.24-12.32.24:373][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
+[2025.03.24-12.33.08:481][388]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.33.08:482][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: ================================================
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 11 distinct outputs (91.67%)
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.24-12.33.10:464][563]LogShaderCompilers: Display: ================================================
+[2025.03.24-12.33.19:188][196]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.33.19:188][196]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.33.19:188][196]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.33.21:083][196]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2025.03.24-12.33.21:150][196]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.24-12.33.21:153][196]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.24-12.33.21:163][197]LogAutomationController: Ignoring very large delta of 2.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.24-12.33.21:224][197]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.24-12.33.24:330][563]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_DraggedItem
+[2025.03.24-12.33.24:383][563]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.24-12.33.24:491][572]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Tray/WBP_DraggedItem.WBP_DraggedItem
+[2025.03.24-12.33.24:492][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.33.24:499][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.33.25:000][572]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.33.25:000][572]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.33.27:070][768]LogSlate: Window 'WBP_DraggedItem' being destroyed
+[2025.03.24-12.33.39:530][ 85]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.33.39:531][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.33.39:542][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.33.39:982][ 85]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.33.39:982][ 85]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.37.38:545][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.37.38:594][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_DraggedItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset" SILENT=true
+[2025.03.24-12.37.38:599][870]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_DraggedItem
+[2025.03.24-12.37.38:599][870]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_DraggedItemD8737E0B4611553026D44DA1C11E1C8F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset'
+[2025.03.24-12.37.38:610][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.10 sec)
+[2025.03.24-12.37.38:635][870]AssetCheck: New page: Asset Save: WBP_DraggedItem
+[2025.03.24-12.37.38:635][870]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_DraggedItem.WBP_DraggedItem
+[2025.03.24-12.37.39:786][997]BlueprintLog: New page: Compile WBP_DraggedItem
+[2025.03.24-12.37.39:982][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.24-12.37.40:601][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.37.40:663][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_DraggedItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset" SILENT=true
+[2025.03.24-12.37.40:677][ 56]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_DraggedItem
+[2025.03.24-12.37.40:677][ 56]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_DraggedItem1CF603EC4767AB1405E7F98245522A15.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset'
+[2025.03.24-12.37.40:685][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.19 sec)
+[2025.03.24-12.37.40:692][ 56]AssetCheck: New page: Asset Save: WBP_DraggedItem
+[2025.03.24-12.37.40:692][ 56]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_DraggedItem.WBP_DraggedItem
+[2025.03.24-12.37.42:253][207]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.37.42:253][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.37.42:259][207]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.37.42:259][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.37.42:777][259]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.37.42:777][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.37.42:784][259]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.37.42:784][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
