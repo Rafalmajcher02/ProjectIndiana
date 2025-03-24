@@ -1186,21 +1186,3 @@ Script Stack (0 frames) :
 [2025.03.24-12.29.28:748][751]LogOutputDevice: Error: [Callstack] 0x00007fff7c79259d KERNEL32.DLL!UnknownFunction []
 [2025.03.24-12.29.28:748][751]LogOutputDevice: Error: [Callstack] 0x00007fff7dfcaf38 ntdll.dll!UnknownFunction []
 [2025.03.24-12.29.28:748][751]LogOutputDevice: Error: 
-[2025.03.24-12.29.28:752][751]LogStats:                SubmitErrorReport -  0.000 s
-[2025.03.24-12.29.30:111][751]LogStats:                    SendNewReport -  1.359 s
-[2025.03.24-12.29.30:111][751]LogStats:             FDebug::EnsureFailed -  1.523 s
-[2025.03.24-12.29.58:600][995]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.30.10:590][385]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.30.54:468][531]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.31.32:967][ 34]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.31.56:759][819]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.32.21:447][701]LogSlate: Window 'Color Picker' being destroyed
-[2025.03.24-12.32.23:732][962]BlueprintLog: New page: Compile BP_TrayInventory
-[2025.03.24-12.32.23:854][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
-[2025.03.24-12.32.24:185][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2025.03.24-12.32.24:247][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
-[2025.03.24-12.32.24:355][993]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
-[2025.03.24-12.32.24:356][993]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory1FE3C5124AC02C3F7CC80BB6AC031548.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
-[2025.03.24-12.32.24:364][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.04 sec)
-[2025.03.24-12.32.24:372][993]AssetCheck: New page: Asset Save: BP_TrayInventory
-[2025.03.24-12.32.24:373][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TrayInventory.BP_TrayInventory
