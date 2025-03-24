@@ -1285,3 +1285,554 @@ Script Stack (0 frames) :
 [2025.03.24-12.40.27:474][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_ItemDrag.DAD_ItemDrag
 [2025.03.24-12.40.28:682][442]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2025.03.24-12.40.28:682][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.40.47:549][311]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.40.47:549][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.40.47:558][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.40.47:968][311]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.40.47:968][311]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.41.57:529][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.24-12.41.57:532][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.036
+[2025.03.24-12.41.57:859][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.03.24-12.41.57:866][124]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.03.24-12.41.57:866][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.03.24-12.41.57:866][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.03.24-12.41.57:909][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto2
+[2025.03.24-12.41.57:910][124]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto257E00E2D4B5AC642FED9FDAD52602C1D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto2.uasset'
+[2025.03.24-12.41.57:927][124]LogFileHelpers: Auto-saving content packages took 0.395
+[2025.03.24-12.43.08:202][961]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.43.08:202][961]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.43.08:202][961]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.44.07:089][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DragAndDrop/DAD_ItemDrag.DAD_ItemDrag
+[2025.03.24-12.44.07:090][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.44.24:444][243]BlueprintLog: New page: Compile DAD_ItemDrag
+[2025.03.24-12.44.24:454][243]LogClass: Warning: Type mismatch in DraggedSlot of DAD_ItemDrag_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2025.03.24-12.44.24:494][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.24-12.44.25:319][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.44.25:377][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragAndDrop/DAD_ItemDrag" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_ItemDrag.uasset" SILENT=true
+[2025.03.24-12.44.25:379][328]LogSavePackage: Moving output files for package: /Game/DragAndDrop/DAD_ItemDrag
+[2025.03.24-12.44.25:379][328]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/DAD_ItemDrag23F5919B479C7951B7E54586343B409C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_ItemDrag.uasset'
+[2025.03.24-12.44.25:387][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.32 sec)
+[2025.03.24-12.44.25:393][328]AssetCheck: New page: Asset Save: DAD_ItemDrag
+[2025.03.24-12.44.25:393][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_ItemDrag.DAD_ItemDrag
+[2025.03.24-12.44.27:676][585]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.44.27:747][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.24-12.45.51:902][ 38]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.45.51:978][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.24-12.45.52:684][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.45.52:745][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-12.45.52:781][ 67]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-12.45.52:782][ 67]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot9A9815BF448A3A1FF6C344BD544ED258.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-12.45.52:791][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.43 sec)
+[2025.03.24-12.45.52:796][ 67]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.24-12.45.52:796][ 67]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.46.00:084][807]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.46.00:084][807]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.46.21:046][ 12]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.46.21:046][ 12]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.46.36:519][639]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.46.36:618][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.24-12.46.37:126][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.46.37:178][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-12.46.37:216][683]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-12.46.37:216][683]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot535A5B784EC58125F57AAEA4EFF7F85C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-12.46.37:225][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.53 sec)
+[2025.03.24-12.46.37:233][683]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.24-12.46.37:233][683]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.46.55:569][782]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.47.00:597][362]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.24-12.48.13:901][611]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.48.13:997][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.24-12.48.14:329][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.48.14:377][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-12.48.14:418][644]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-12.48.14:419][644]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlotD24107334E25F0E88ADC1C8FDBFC1580.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-12.48.14:427][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.63 sec)
+[2025.03.24-12.48.14:433][644]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.24-12.48.14:433][644]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.49.16:319][629]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.49.16:415][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.24-12.49.16:926][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.49.16:982][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-12.49.17:026][671]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-12.49.17:026][671]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot2E0251714DF4C77D1B752FBEAB17AC12.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-12.49.17:035][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.74 sec)
+[2025.03.24-12.49.17:042][671]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.24-12.49.17:042][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.49.18:489][821]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-12.49.18:683][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-12.49.18:753][821]PIE: New page: PIE session: L_Main (24 Mar 2025, 12:49:18)
+[2025.03.24-12.49.18:845][821]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.24-12.49.18:846][821]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.03.24-12.49.18:896][821]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.49.19:003][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107051s)
+[2025.03.24-12.49.19:003][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.107166s)
+[2025.03.24-12.49.19:033][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.49.19:033][821]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-12.49.19:034][821]LogPlayLevel: PIE: World Init took: (0.030145s)
+[2025.03.24-12.49.19:098][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.24-12.49.19:123][821]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-12.49.19:123][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-12.49.19:123][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-12.49.19:123][821]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-12.49.19:123][821]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-12.49.19:123][821]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-12.49.19:125][821]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-12.49.19:154][821]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-12.49.19:155][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-12.49.19:155][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-12.49.19:155][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-12.49.19:156][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.24-12.49.19:156][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.24-12.49.19:158][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.24-12.49.19:158][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.24-12.49.19:158][821]LogInit: FAudioDevice initialized.
+[2025.03.24-12.49.19:158][821]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Main'.
+[2025.03.24-12.49.19:253][821]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-12.49.19:265][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-12.49.19
+[2025.03.24-12.49.19:290][821]LogWorld: Bringing up level for play took: 0.036206
+[2025.03.24-12.49.19:357][821]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.03.24-12.49.20:129][821]PIE: Server logged in
+[2025.03.24-12.49.20:130][821]PIE: Play in editor total start time 1.628 seconds.
+[2025.03.24-12.49.20:527][822]LogAutomationController: Ignoring very large delta of 2.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.24-12.49.21:636][827]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-12.49.22:430][905]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.49.30:027][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.49.30:143][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.49.30:291][785]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.49.30:292][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.49.30:297][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-12.49.30:303][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.49.30:347][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-12.49.30:447][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.24-12.49.30:449][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.24-12.49.30:452][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.49.30:597][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.24-12.49.30:619][786]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.03.24-12.49.34:285][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.24-12.49.35:902][175]LogSlate: Window 'Save Content' being destroyed
+[2025.03.24-12.49.35:912][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.49.36:001][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset" SILENT=true
+[2025.03.24-12.49.36:019][175]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TrayInventory
+[2025.03.24-12.49.36:020][175]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TrayInventoryAA1A8144448F06F5A27FB3B59DBB6557.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TrayInventory.uasset'
+[2025.03.24-12.49.36:049][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.87 sec)
+[2025.03.24-12.49.36:076][176]AssetCheck: New page: Asset Save: WBP_TrayInventory
+[2025.03.24-12.49.36:076][176]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TrayInventory.WBP_TrayInventory
+[2025.03.24-12.50.13:839][540]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.50.13:839][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.53.30:982][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.24-12.53.30:985][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.052
+[2025.03.24-12.53.30:985][557]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.03.24-12.53.30:990][557]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.03.24-12.53.30:990][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.03.24-12.53.30:990][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.24-12.53.31:052][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3
+[2025.03.24-12.53.31:052][557]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto331AF86D944EBA911629144ABB44237DE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto3.uasset'
+[2025.03.24-12.53.31:071][557]LogFileHelpers: Auto-saving content packages took 0.086
+[2025.03.24-12.54.47:285][463]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.54.47:381][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.24-12.54.47:862][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.54.47:927][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-12.54.48:007][512]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-12.54.48:008][512]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot0F427BA1413BF0698CBA3FB991D20B80.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-12.54.48:016][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 2.03 sec)
+[2025.03.24-12.54.48:024][512]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.03.24-12.54.48:024][512]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-12.56.14:846][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-12.56.14:846][886]PIE: New page: PIE session: L_Main (24 Mar 2025, 12:56:14)
+[2025.03.24-12.56.14:846][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.56.14:847][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001168s)
+[2025.03.24-12.56.14:847][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001203s)
+[2025.03.24-12.56.14:847][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.56.14:848][886]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-12.56.14:848][886]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2025.03.24-12.56.15:093][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.03.24-12.56.15:096][886]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-12.56.15:096][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-12.56.15:096][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-12.56.15:096][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-12.56.15:096][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-12.56.15:096][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-12.56.15:100][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-12.56.15:126][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-12.56.15:126][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-12.56.15:126][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-12.56.15:126][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-12.56.15:127][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.24-12.56.15:127][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.24-12.56.15:129][886]LogInit: FAudioDevice initialized.
+[2025.03.24-12.56.15:129][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.24-12.56.15:129][886]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Main'.
+[2025.03.24-12.56.15:129][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.24-12.56.15:132][886]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-12.56.15:133][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-12.56.15
+[2025.03.24-12.56.15:133][886]LogWorld: Bringing up level for play took: 0.000464
+[2025.03.24-12.56.15:135][886]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.03.24-12.56.15:137][886]PIE: Server logged in
+[2025.03.24-12.56.15:138][886]PIE: Play in editor total start time 0.292 seconds.
+[2025.03.24-12.56.17:162][112]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-12.56.19:751][422]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Everything requested was added to tray
+[2025.03.24-12.56.28:568][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.56.28:568][473]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.56.28:568][473]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.56.28:570][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.56.28:573][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-12.56.28:580][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.56.28:618][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-12.56.28:618][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.24-12.56.28:620][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.24-12.56.28:623][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.56.28:625][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.24-12.56.28:648][474]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.03.24-12.57.40:206][736]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.57.40:301][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.03.24-12.57.41:434][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-12.57.41:440][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-12.57.41:440][849]PIE: New page: PIE session: L_Main (24 Mar 2025, 12:57:41)
+[2025.03.24-12.57.41:440][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.57.41:441][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001179s)
+[2025.03.24-12.57.41:441][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001213s)
+[2025.03.24-12.57.41:441][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.57.41:442][849]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-12.57.41:442][849]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2025.03.24-12.57.41:480][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.24-12.57.41:484][849]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-12.57.41:485][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-12.57.41:485][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-12.57.41:485][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-12.57.41:485][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-12.57.41:485][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-12.57.41:487][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-12.57.41:513][849]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-12.57.41:514][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-12.57.41:514][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-12.57.41:514][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-12.57.41:515][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.24-12.57.41:515][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.24-12.57.41:518][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.24-12.57.41:518][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.24-12.57.41:518][849]LogInit: FAudioDevice initialized.
+[2025.03.24-12.57.41:518][849]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Main'.
+[2025.03.24-12.57.41:520][849]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-12.57.41:521][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-12.57.41
+[2025.03.24-12.57.41:521][849]LogWorld: Bringing up level for play took: 0.000417
+[2025.03.24-12.57.41:523][849]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.24-12.57.41:524][849]PIE: Server logged in
+[2025.03.24-12.57.41:525][849]PIE: Play in editor total start time 0.085 seconds.
+[2025.03.24-12.57.42:288][933]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-12.57.42:925][  9]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.45:944][369]LogBlueprintUserMessages: [WBP_TraySlot_C_0] LeftMouseDetectedDrag
+[2025.03.24-12.57.49:973][851]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.52:292][129]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.56:228][600]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.56:429][624]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.56:605][645]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.57.56:772][665]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.58.05:769][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.58.05:769][727]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.58.05:769][727]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.58.05:769][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.58.05:772][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-12.58.05:781][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.58.05:828][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-12.58.05:829][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.24-12.58.05:830][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.24-12.58.05:833][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.58.05:836][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.24-12.58.05:862][728]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.24-12.58.19:250][253]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-12.58.19:346][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.24-12.58.20:475][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-12.58.20:481][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-12.58.20:481][365]PIE: New page: PIE session: L_Main (24 Mar 2025, 12:58:20)
+[2025.03.24-12.58.20:481][365]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.58.20:482][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001236s)
+[2025.03.24-12.58.20:482][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001282s)
+[2025.03.24-12.58.20:482][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.58.20:483][365]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-12.58.20:483][365]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2025.03.24-12.58.20:520][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.24-12.58.20:524][365]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-12.58.20:524][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-12.58.20:525][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-12.58.20:525][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-12.58.20:525][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-12.58.20:525][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-12.58.20:528][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-12.58.20:553][365]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-12.58.20:553][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-12.58.20:553][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-12.58.20:553][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-12.58.20:555][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.24-12.58.20:555][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.24-12.58.20:556][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.24-12.58.20:556][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.24-12.58.20:556][365]LogInit: FAudioDevice initialized.
+[2025.03.24-12.58.20:556][365]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Main'.
+[2025.03.24-12.58.20:558][365]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-12.58.20:559][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-12.58.20
+[2025.03.24-12.58.20:559][365]LogWorld: Bringing up level for play took: 0.000421
+[2025.03.24-12.58.20:561][365]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.24-12.58.20:562][365]PIE: Server logged in
+[2025.03.24-12.58.20:563][365]PIE: Play in editor total start time 0.083 seconds.
+[2025.03.24-12.58.21:595][481]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-12.58.22:473][586]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-12.59.03:308][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.59.03:308][674]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-12.59.03:308][674]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.59.03:309][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.59.03:312][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-12.59.03:320][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.59.03:357][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-12.59.03:357][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.24-12.59.03:360][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.24-12.59.03:368][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.24-12.59.03:392][675]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.24-12.59.21:101][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-12.59.21:101][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-13.00.48:850][790]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.03.24-13.00.48:944][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.24-13.00.49:767][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-13.00.49:772][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-13.00.49:772][865]PIE: New page: PIE session: L_Main (24 Mar 2025, 13:00:49)
+[2025.03.24-13.00.49:773][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-13.00.49:774][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001051s)
+[2025.03.24-13.00.49:774][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001080s)
+[2025.03.24-13.00.49:774][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-13.00.49:774][865]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-13.00.49:774][865]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2025.03.24-13.00.49:827][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.24-13.00.49:832][865]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-13.00.49:832][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-13.00.49:832][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-13.00.49:832][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-13.00.49:832][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-13.00.49:832][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-13.00.49:835][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-13.00.49:868][865]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-13.00.49:869][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-13.00.49:869][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-13.00.49:869][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-13.00.49:869][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.24-13.00.49:870][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.24-13.00.49:871][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.24-13.00.49:871][865]LogInit: FAudioDevice initialized.
+[2025.03.24-13.00.49:871][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.24-13.00.49:871][865]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Main'.
+[2025.03.24-13.00.49:874][865]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-13.00.49:874][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-13.00.49
+[2025.03.24-13.00.49:874][865]LogWorld: Bringing up level for play took: 0.000443
+[2025.03.24-13.00.49:876][865]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.24-13.00.49:877][865]PIE: Server logged in
+[2025.03.24-13.00.49:878][865]PIE: Play in editor total start time 0.106 seconds.
+[2025.03.24-13.00.50:686][948]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-13.00.52:065][112]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.00.53:358][266]LogBlueprintUserMessages: [WBP_TraySlot_C_0] OnMouseButtonDown
+[2025.03.24-13.00.54:818][430]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.01.00:348][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-13.01.00:348][ 75]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-13.01.00:348][ 75]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.01.00:348][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.01.00:351][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-13.01.00:359][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.01.00:395][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-13.01.00:395][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.24-13.01.00:397][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.24-13.01.00:401][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-13.01.00:403][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.24-13.01.00:437][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.24-13.01.09:542][ 50]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.24-13.01.09:542][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-13.01.09:549][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-13.01.10:076][ 50]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-13.01.10:076][ 50]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-13.01.13:392][362]LogSlate: Window 'WBP_PickUpToTray' being destroyed
+[2025.03.24-13.02.26:934][565]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.24-13.02.26:968][565]LogBlueprint: Warning: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\UI\PickUps\WBP_PickUpToTray.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.03.24-13.02.27:060][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.03.24-13.02.50:029][195]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.03.24-13.02.50:128][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.24-13.02.51:415][320]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-13.02.51:424][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-13.02.51:424][320]PIE: New page: PIE session: L_Main (24 Mar 2025, 13:02:51)
+[2025.03.24-13.02.51:449][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-13.02.51:451][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002336s)
+[2025.03.24-13.02.51:451][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.002474s)
+[2025.03.24-13.02.51:451][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-13.02.51:452][320]LogAIModule: Creating AISystem for world L_Main
+[2025.03.24-13.02.51:453][320]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2025.03.24-13.02.51:511][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.24-13.02.51:513][320]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.24-13.02.51:513][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-13.02.51:513][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-13.02.51:514][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-13.02.51:514][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-13.02.51:514][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-13.02.51:516][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-13.02.51:542][320]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.24-13.02.51:543][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-13.02.51:543][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-13.02.51:543][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-13.02.51:544][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.24-13.02.51:544][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.24-13.02.51:545][320]LogInit: FAudioDevice initialized.
+[2025.03.24-13.02.51:545][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.24-13.02.51:545][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.24-13.02.51:545][320]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Main'.
+[2025.03.24-13.02.51:549][320]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.03.24-13.02.51:550][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.03.24-13.02.51
+[2025.03.24-13.02.51:550][320]LogWorld: Bringing up level for play took: 0.000485
+[2025.03.24-13.02.51:552][320]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.03.24-13.02.51:554][320]PIE: Server logged in
+[2025.03.24-13.02.51:554][320]PIE: Play in editor total start time 0.13 seconds.
+[2025.03.24-13.02.52:828][465]LogBlueprintUserMessages: [WBP_PickUpToTray] Can't pick item up. No tray reference detected (could be missing tray or missing reference)
+[2025.03.24-13.02.53:539][550]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.03.24-13.02.54:019][607]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.02.54:528][668]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.02.54:795][700]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.02.55:095][736]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.03.24-13.02.55:163][744]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.55:422][775]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.55:456][779]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.55:705][809]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.55:724][811]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.55:983][842]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.56:249][874]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.56:267][876]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.56:508][905]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.56:525][907]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.56:801][940]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.57:103][976]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.57:411][ 12]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.57:412][ 12]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.57:720][ 48]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.58:013][ 83]LogBlueprintUserMessages: [WBP_PickUpToTray] Nothing left to add. Please restock your supplies
+[2025.03.24-13.02.59:118][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-13.02.59:118][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.03.24-13.02.59:119][208]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.02.59:119][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.02.59:121][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-13.02.59:129][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.02.59:175][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-13.02.59:175][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.24-13.02.59:178][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.24-13.02.59:181][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-13.02.59:184][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.24-13.02.59:208][209]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.03.24-13.03.17:732][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-13.03.17:732][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.24-13.05.10:057][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.24-13.05.10:060][437]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.051
+[2025.03.24-13.05.10:061][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.03.24-13.05.10:063][437]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.03.24-13.05.10:063][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.03.24-13.05.10:063][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.03.24-13.05.10:143][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto4
+[2025.03.24-13.05.10:143][437]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto43C05BF384F3D74D88F5A8EB463D1D6E6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto4.uasset'
+[2025.03.24-13.05.10:150][437]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PickUps/WBP_PickUpToTray] ([2] browsable assets)...
+[2025.03.24-13.05.10:152][437]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray]
+[2025.03.24-13.05.10:152][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PickUps/WBP_PickUpToTray]
+[2025.03.24-13.05.10:190][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto4
+[2025.03.24-13.05.10:191][437]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray_Auto4FD21E30048824B26E6D49FB03D0824D2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto4.uasset'
+[2025.03.24-13.05.10:192][437]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.03.24-13.11.21:233][945]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.191 and deleted 0 files with total size 0 MiB. Scanned 1903 files in 1896 folders with total size 197 MiB.
+[2025.03.24-13.26.29:885][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.24-13.26.31:290][828]LogSlate: Window 'Save Content' being destroyed
+[2025.03.24-13.26.31:298][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-13.26.31:357][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.03.24-13.26.31:391][828]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.03.24-13.26.31:392][828]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray9020A82B433E8CC53E3D889B24470833.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.03.24-13.26.31:406][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.03.24-13.26.31:452][828]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.03.24-13.26.31:453][828]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlotAD6C3CC546BC09D1BECF9A9B594A04A2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.03.24-13.26.31:463][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 2.19 sec)
+[2025.03.24-13.26.31:463][828]LogStall: Shutdown...
+[2025.03.24-13.26.31:471][828]LogStall: Shutdown complete.
+[2025.03.24-13.26.31:554][828]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.26.31:554][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.26.31:563][828]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.26.31:564][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.26.31:712][828]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.26.31:712][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.26.31:721][828]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.26.31:721][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.26.32:017][828]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.03.24-13.26.32:581][828]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.24-13.26.32:581][828]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.03.24-13.26.32:582][828]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.03.24-13.26.32:583][829]LogAutomationController: Ignoring very large delta of 2.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.24-13.26.32:583][829]Cmd: QUIT_EDITOR
+[2025.03.24-13.26.32:583][829]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.24-13.26.32:621][829]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.24-13.26.32:621][829]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.24-13.26.32:621][829]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.24-13.26.32:635][829]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-13.26.32:635][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-13.26.32:750][829]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.24-13.26.32:821][829]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.24-13.26.33:799][829]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.24-13.26.33:799][829]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.24-13.26.33:799][829]LogAudio: Display: Audio Device unregistered from world 'L_Main'.
+[2025.03.24-13.26.33:806][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.24-13.26.33:808][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.24-13.26.33:815][829]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.24-13.26.33:828][829]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.24-13.26.33:828][829]LogExit: Preparing to exit.
+[2025.03.24-13.26.34:164][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.03.24-13.26.34:195][829]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:195][829]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:198][829]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:199][829]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:199][829]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:199][829]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:199][829]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.34:199][829]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.24-13.26.35:475][829]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.24-13.26.36:523][829]LogExit: Editor shut down
+[2025.03.24-13.26.36:528][829]LogExit: Transaction tracking system shut down
