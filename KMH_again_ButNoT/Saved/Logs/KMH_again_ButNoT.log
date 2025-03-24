@@ -1261,3 +1261,27 @@ Script Stack (0 frames) :
 [2025.03.24-12.37.42:777][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.03.24-12.37.42:784][259]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2025.03.24-12.37.42:784][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-12.39.11:440][ 22]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.39.11:440][ 22]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.39.11:440][ 22]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.24-12.39.18:351][ 22]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.24-12.39.18:359][ 22]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.24-12.39.18:364][ 22]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.24-12.39.18:375][ 23]LogAutomationController: Ignoring very large delta of 7.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.24-12.39.18:383][ 23]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.24-12.39.21:759][410]LogContentBrowser: Attempting asset rename: NewBlueprint -> DAD_ItemDrag
+[2025.03.24-12.39.21:791][410]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.24-12.39.21:963][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DragAndDrop/DAD_ItemDrag.DAD_ItemDrag
+[2025.03.24-12.39.21:963][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-12.39.24:365][633]LogSlate: Window 'DAD_ItemDrag' being destroyed
+[2025.03.24-12.40.26:785][255]BlueprintLog: New page: Compile DAD_ItemDrag
+[2025.03.24-12.40.26:829][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.24-12.40.27:402][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-12.40.27:460][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragAndDrop/DAD_ItemDrag" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_ItemDrag.uasset" SILENT=true
+[2025.03.24-12.40.27:461][312]LogSavePackage: Moving output files for package: /Game/DragAndDrop/DAD_ItemDrag
+[2025.03.24-12.40.27:461][312]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/DAD_ItemDrag8268763B41C51A920C9CDBA6833C75E5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/DragAndDrop/DAD_ItemDrag.uasset'
+[2025.03.24-12.40.27:468][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.25 sec)
+[2025.03.24-12.40.27:474][312]AssetCheck: New page: Asset Save: DAD_ItemDrag
+[2025.03.24-12.40.27:474][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragAndDrop/DAD_ItemDrag.DAD_ItemDrag
+[2025.03.24-12.40.28:682][442]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-12.40.28:682][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
