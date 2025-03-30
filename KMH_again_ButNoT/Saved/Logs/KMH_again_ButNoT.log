@@ -1172,3 +1172,225 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.30-17.01.31:350][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
 [2025.03.30-17.02.00:206][848]LogSlate: Window 'Editor Preferences' being destroyed
 [2025.03.30-17.02.10:534][185]LogSlate: Took 0.013691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.30-17.03.48:892][282]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2025.03.30-17.03.48:893][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.03.48:916][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.03.49:784][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.03.49:784][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.03.53:256][497]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2025.03.30-17.06.25:832][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2025.03.30-17.06.25:835][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.173
+[2025.03.30-17.06.25:843][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2025.03.30-17.06.25:929][ 46]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2025.03.30-17.06.25:929][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2025.03.30-17.06.25:929][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.30-17.06.25:994][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto1
+[2025.03.30-17.06.25:994][ 46]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_MainMenu_Auto1FD13030946DE43E973A272B8DB7C4778.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto1.uasset'
+[2025.03.30-17.06.26:046][ 46]LogFileHelpers: Auto-saving content packages took 0.210
+[2025.03.30-17.07.57:825][913]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.30-17.07.57:825][913]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.30-17.07.57:826][913]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.30-17.07.59:350][913]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2025.03.30-17.07.59:368][913]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.30-17.07.59:376][913]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.30-17.07.59:405][914]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.30-17.08.03:773][389]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Loading
+[2025.03.30-17.08.03:870][389]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.30-17.08.04:416][447]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Loading.WBP_Loading
+[2025.03.30-17.08.04:417][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.08.04:427][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.08.04:973][447]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.08.04:973][447]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.08.31:003][804]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.30-17.09.47:427][553]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.30-17.11.03:028][613]BlueprintLog: New page: Compile WBP_Loading
+[2025.03.30-17.11.03:358][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.03.30-17.11.03:804][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-17.11.03:868][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Loading" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset" SILENT=true
+[2025.03.30-17.11.03:878][640]LogSavePackage: Moving output files for package: /Game/UI/WBP_Loading
+[2025.03.30-17.11.03:878][640]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Loading76D998DA45A7A0A152F2999D329BDB22.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset'
+[2025.03.30-17.11.03:896][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.70 sec)
+[2025.03.30-17.11.03:911][640]AssetCheck: New page: Asset Save: WBP_Loading
+[2025.03.30-17.11.03:911][640]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Loading.WBP_Loading
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 0 (Found bundle for host: 0xa0947960870 [serially])
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 1 (Re-using existing connection #4 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.232.9.46) port 443 (#4))
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.12.02:929][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.12.02:930][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.30-17.12.02:930][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 6 (Closing connection 4)
+[2025.03.30-17.12.02:930][483]LogHttp: Warning: 00000A09A15FD200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.30-17.12.02:930][483]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.12.15:438][529]BlueprintLog: New page: Compile WBP_Loading
+[2025.03.30-17.12.15:623][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.03.30-17.12.57:477][697]BlueprintLog: New page: Compile WBP_MainMenu
+[2025.03.30-17.12.57:593][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 0 (Found bundle for host: 0xa09479606f0 [serially])
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.175.114.234) port 443 (#5))
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 6 (Closing connection 5)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: 00000A09A1877D00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.30-17.14.58:550][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.16.26:436][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.03.30-17.16.26:441][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.088
+[2025.03.30-17.16.26:441][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2025.03.30-17.16.26:444][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2025.03.30-17.16.26:444][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2025.03.30-17.16.26:444][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.03.30-17.16.26:450][ 66]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto2
+[2025.03.30-17.16.26:450][ 66]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_MainMenu_Auto2EFC33F82471935286848059FCBE73DA4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto2.uasset'
+[2025.03.30-17.16.26:450][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Loading] ([2] browsable assets)...
+[2025.03.30-17.16.26:455][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Loading.WBP_Loading]
+[2025.03.30-17.16.26:455][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Loading]
+[2025.03.30-17.16.26:455][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Loading" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Loading_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.03.30-17.16.26:460][ 66]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Loading_Auto2
+[2025.03.30-17.16.26:460][ 66]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Loading_Auto22F7A5F5E4FBE03D0B856DE9FCAA49D86.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Loading_Auto2.uasset'
+[2025.03.30-17.16.26:460][ 66]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.03.30-17.22.17:312][860]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.22.17:312][860]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.30-17.26.27:030][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2025.03.30-17.26.27:039][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.127
+[2025.03.30-17.26.27:040][473]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2025.03.30-17.26.27:046][473]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2025.03.30-17.26.27:046][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2025.03.30-17.26.27:046][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.30-17.26.27:051][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto3
+[2025.03.30-17.26.27:051][473]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_MainMenu_Auto3571D24E44D691C64148AAFB0DA2274C4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto3.uasset'
+[2025.03.30-17.26.27:051][473]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.03.30-17.31.20:067][353]LogHttp: Warning: 00000A09B0A0B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 0 (Found bundle for host: 0xa0947960090 [serially])
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 1 (Re-using existing connection #6 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.210.50.0) port 443 (#6))
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: 00000A09B0A0B400: libcurl info message cache 7 (Closing connection 6)
+[2025.03.30-17.31.20:068][353]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 0 (Found bundle for host: 0xa0947960b40 [serially])
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 1 (Re-using existing connection #7 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.159.190) port 443 (#7))
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 6 (Closing connection 7)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: 00000A09B0A01400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.30-17.35.58:677][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 0 (Found bundle for host: 0xa0947960690 [serially])
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.7.213.195) port 443 (#8))
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 6 (Closing connection 8)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.30-17.40.12:522][949]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.52.43:636][179]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.244 and deleted 0 files with total size 0 MiB. Scanned 1903 files in 1896 folders with total size 197 MiB.
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 0 (Found bundle for host: 0xa0947960390 [serially])
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 1 (Re-using existing connection #9 with host datarouter.ol.epicgames.com)
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.26.26.255) port 443 (#9))
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.30-17.57.11:619][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.03.30-17.57.11:620][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 6 (Closing connection 9)
+[2025.03.30-17.57.11:620][983]LogHttp: Warning: 00000A09B0A0AA00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.30-17.57.11:620][983]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72DF4E9F-406F-7839-CA7C-A19D1AF24F91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.03.30-17.59.59:651][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.30-18.00.00:986][711]LogSlate: Window 'Save Content' being destroyed
+[2025.03.30-18.00.01:005][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-18.00.01:080][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Loading" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset" SILENT=true
+[2025.03.30-18.00.01:091][711]LogSavePackage: Moving output files for package: /Game/UI/WBP_Loading
+[2025.03.30-18.00.01:091][711]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Loading8E0860954A84554A4D8CFFABD95412E1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset'
+[2025.03.30-18.00.01:093][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2025.03.30-18.00.01:097][711]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2025.03.30-18.00.01:098][711]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_MainMenuA8ED361544E63D0F08646DB8C4F0672C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_MainMenu.uasset'
+[2025.03.30-18.00.01:117][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.82 sec)
+[2025.03.30-18.00.01:144][711]LogStall: Shutdown...
+[2025.03.30-18.00.01:151][711]LogStall: Shutdown complete.
+[2025.03.30-18.00.01:508][711]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.01:509][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.01:959][711]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.30-18.00.01:959][711]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.01:959][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.02:447][711]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.02:447][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.02:469][711]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.02:469][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.02:812][711]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.02:812][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.02:828][711]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.02:828][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.03:210][711]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.03.30-18.00.03:646][711]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.30-18.00.03:646][711]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu
+[2025.03.30-18.00.03:647][711]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Loading.WBP_Loading
+[2025.03.30-18.00.03:664][712]Cmd: QUIT_EDITOR
+[2025.03.30-18.00.03:664][712]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.30-18.00.03:735][712]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.30-18.00.03:776][712]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.30-18.00.03:789][712]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.30-18.00.03:891][712]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.03:891][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.03:892][712]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.03:892][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.00.04:658][712]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.30-18.00.04:968][712]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.30-18.00.06:477][712]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.30-18.00.06:526][712]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.30-18.00.06:526][712]LogAudio: Display: Audio Device unregistered from world 'L_Loading'.
+[2025.03.30-18.00.06:801][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.30-18.00.06:804][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.30-18.00.06:902][712]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.30-18.00.07:027][712]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.30-18.00.07:136][712]LogExit: Preparing to exit.
+[2025.03.30-18.00.08:049][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2025.03.30-18.00.08:081][712]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:081][712]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:083][712]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:084][712]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.08:085][712]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.30-18.00.09:877][712]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.00.10:629][712]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.30-18.00.10:876][712]LogExit: Editor shut down
+[2025.03.30-18.00.10:901][712]LogExit: Transaction tracking system shut down
+[2025.03.30-18.00.19:200][712]LogExit: Object subsystem successfully closed.
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: ================================================
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: Total job queries 45, among them cache hits 8 (17.78%)
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 27 distinct outputs (72.97%)
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.30-18.00.19:216][712]LogShaderCompilers: Display: ================================================
+[2025.03.30-18.00.19:379][712]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.30-18.00.19:771][712]LogVirtualization: UE::Virtualization was shutdown
