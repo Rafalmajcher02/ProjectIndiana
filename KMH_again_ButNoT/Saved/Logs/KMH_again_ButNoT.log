@@ -1985,3 +1985,92 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.06-13.54.20:522][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
 [2025.04.06-13.54.23:213][407]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2025.04.06-13.54.23:341][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.04.06-13.55.24:324][370]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.55.24:531][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2025.04.06-13.55.43:564][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2025.04.06-13.55.44:796][773]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-13.55.44:819][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.55.44:901][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.06-13.55.44:924][773]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.06-13.55.44:924][773]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode5FF2A82D4012B6087622B5B1938F8896.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.06-13.55.44:946][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.21 sec)
+[2025.04.06-13.55.44:969][773]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.06-13.55.44:969][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-13.55.56:274][770]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.55.56:434][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.06-13.58.22:322][ 15]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.58.22:554][ 15]LogUObjectHash: Compacting FUObjectHashTables data took  66.05ms
+[2025.04.06-13.58.26:590][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-13.58.26:591][336]PIE: New page: PIE session: L_Loading (6 Apr 2025, 15:58:26)
+[2025.04.06-13.58.26:591][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.58.26:592][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001677s)
+[2025.04.06-13.58.26:592][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Loading.L_Loading to /Game/Maps/UEDPIE_0_L_Loading.L_Loading (0.001719s)
+[2025.04.06-13.58.26:593][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.58.26:602][336]LogAIModule: Creating AISystem for world L_Loading
+[2025.04.06-13.58.26:602][336]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2025.04.06-13.58.26:681][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2025.04.06-13.58.26:690][336]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-13.58.26:690][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-13.58.26:690][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-13.58.26:691][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-13.58.26:691][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-13.58.26:691][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-13.58.26:716][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-13.58.26:746][336]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-13.58.26:748][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-13.58.26:748][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-13.58.26:748][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-13.58.26:749][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.04.06-13.58.26:749][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.04.06-13.58.26:751][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.04.06-13.58.26:751][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.04.06-13.58.26:751][336]LogInit: FAudioDevice initialized.
+[2025.04.06-13.58.26:751][336]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Loading'.
+[2025.04.06-13.58.26:757][336]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-13.58.26:758][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Loading.L_Loading up for play (max tick rate 0) at 2025.04.06-14.58.26
+[2025.04.06-13.58.26:758][336]LogWorld: Bringing up level for play took: 0.000600
+[2025.04.06-13.58.26:762][336]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.04.06-13.58.26:766][336]PIE: Server logged in
+[2025.04.06-13.58.26:767][336]PIE: Play in editor total start time 0.177 seconds.
+[2025.04.06-13.58.34:816][ 12]LogNet: Browse: /Game/Maps/L_Main
+[2025.04.06-13.58.34:825][ 12]LogLoad: LoadMap: /Game/Maps/L_Main
+[2025.04.06-13.58.34:825][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.58.34:843][ 12]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.58.34:843][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.58.34:958][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-13.58.34:963][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.04.06-13.58.35:055][ 12]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Main'.
+[2025.04.06-13.58.35:055][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.58.35:056][ 12]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-13.58.35:056][ 12]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2025.04.06-13.58.35:056][ 12]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-13.58.35:057][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-14.58.35
+[2025.04.06-13.58.35:057][ 12]LogWorld: Bringing up level for play took: 0.001011
+[2025.04.06-13.58.35:083][ 12]LogLoad: Took 0.257714 seconds to LoadMap(/Game/Maps/L_Main)
+[2025.04.06-13.58.37:997][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.58.37:997][286]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-13.58.37:997][286]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.58.37:997][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.58.38:002][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-13.58.38:015][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.58.38:112][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-13.58.38:112][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.04.06-13.58.38:114][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.04.06-13.58.38:123][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.58.38:126][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.04.06-13.58.38:167][287]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.04.06-13.58.39:515][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2025.04.06-13.58.40:214][369]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-13.58.40:268][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.58.40:359][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.06-13.58.40:389][369]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.06-13.58.40:390][369]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameModeBA53827B4873E2325CAE7DBC27851DD8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.06-13.58.40:412][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.35 sec)
+[2025.04.06-13.58.40:432][369]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.06-13.58.40:432][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
