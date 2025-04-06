@@ -4275,3 +4275,449 @@ Make sure 'WBP_Paused_C' has been compiled for  Hide All Menus
 [2025.04.06-16.08.57:147][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 5.58 sec)
 [2025.04.06-16.08.57:155][209]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
 [2025.04.06-16.08.57:155][209]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 0 (Found bundle for host: 0x484499608a0 [serially])
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 1 (Re-using existing connection #27 with host datarouter.ol.epicgames.com)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.55.0.108) port 443 (#27))
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 6 (Closing connection 27)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: 00000485229C5000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.06-16.11.24:469][806]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-16.11.27:374][990]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.27:374][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.36:505][277]LogSlate: Window 'Message Log' being destroyed
+[2025.04.06-16.11.38:896][515]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.38:896][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.38:905][515]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.38:906][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.39:468][559]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.06-16.11.39:468][559]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.39:468][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.39:872][587]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.39:872][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.39:894][587]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.39:894][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.40:280][622]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.40:280][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.40:289][622]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.40:289][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.40:770][652]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.40:770][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.40:779][652]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.11.40:780][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.11.42:397][738]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2025.04.06-16.11.47:611][198]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.06-16.11.47:644][198]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.06-16.11.47:675][199]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.06-16.11.50:018][470]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2025.04.06-16.11.50:168][470]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.06-16.12.08:579][234]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.04.06-16.12.08:587][234]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.04.06-16.12.09:322][236]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.04.06-16.12.11:345][479]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Pause
+[2025.04.06-16.12.11:489][479]LogContentBrowser: End creating deferred item NewInputAction
+[2025.04.06-16.12.11:583][486]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Player/Input/IA_Pause.IA_Pause
+[2025.04.06-16.12.16:164][981]LogSlate: Window 'IA_Pause' being destroyed
+[2025.04.06-16.12.16:177][981]LogSlate: Window 'IA_Pause' being destroyed
+[2025.04.06-16.12.22:337][525]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.04.06-16.12.22:348][525]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.04.06-16.12.22:403][526]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.04.06-16.12.26:781][ 50]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Main
+[2025.04.06-16.12.26:782][ 50]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.04.06-16.12.27:019][ 76]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Player/Input/IMC_Main.IMC_Main
+[2025.04.06-16.12.44:427][835]LogSlate: Window 'IMC_Main' being destroyed
+[2025.04.06-16.12.44:441][835]LogSlate: Window 'IMC_Main' being destroyed
+[2025.04.06-16.12.46:142][987]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2025.04.06-16.12.47:064][987]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-16.12.47:082][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-16.12.47:147][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Input/IA_Pause" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/Input/IA_Pause.uasset" SILENT=true
+[2025.04.06-16.12.47:164][987]LogSavePackage: Moving output files for package: /Game/Player/Input/IA_Pause
+[2025.04.06-16.12.47:164][987]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/IA_Pause3D7451E342258647C92AE088F3646C48.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/Input/IA_Pause.uasset'
+[2025.04.06-16.12.47:165][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Input/IMC_Main" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/Input/IMC_Main.uasset" SILENT=true
+[2025.04.06-16.12.47:166][987]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC_Main
+[2025.04.06-16.12.47:166][987]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/IMC_Main936547BD434C8E756A3433A746FDA80D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/Input/IMC_Main.uasset'
+[2025.04.06-16.12.47:182][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.68 sec)
+[2025.04.06-16.12.47:188][987]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.06-16.12.47:188][987]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC_Main.IMC_Main
+[2025.04.06-16.12.47:218][987]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Player/Input/IA_Pause.IA_Pause
+[2025.04.06-16.12.54:647][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.04.06-16.12.54:648][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.12.58:855][166]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.12.58:855][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 0 (  Trying 44.209.34.48:443...)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (44.209.34.48) port 443 (#28))
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 2 (ALPN: offers http/1.1)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 3 (SSL re-using session ID)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 5 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: 000004850290CD00: libcurl info message cache 6 (Closing connection 28)
+[2025.04.06-16.13.01:025][365]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-16.13.02:271][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/PC_Player.PC_Player
+[2025.04.06-16.13.02:271][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.13.05:063][662]LogSlate: Window 'PC_Player' being destroyed
+[2025.04.06-16.17.40:491][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.06-16.17.40:504][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.056
+[2025.04.06-16.17.40:505][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PC_Player] ([2] browsable assets)...
+[2025.04.06-16.17.40:505][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PC_Player]
+[2025.04.06-16.17.40:505][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Player/PC_Player_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.04.06-16.17.40:508][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/PC_Player_Auto7
+[2025.04.06-16.17.40:509][305]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_Player_Auto7EE39CD0347081CA9B85547BAF5B23A74.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Player/PC_Player_Auto7.uasset'
+[2025.04.06-16.17.40:510][305]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.04.06-16.19.10:486][514]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.19.10:508][514]LogBlueprint: Error: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\Player\PC_Player.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2025.04.06-16.19.10:568][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.06-16.19.33:931][ 49]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.19.33:995][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.06-16.20.20:131][ 76]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.20.20:178][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.06-16.20.31:557][315]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.20.31:602][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.06-16.20.32:934][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-16.20.32:940][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-16.20.32:940][437]PIE: New page: PIE session: L_Main (6 Apr 2025, 18:20:32)
+[2025.04.06-16.20.32:974][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.20.32:975][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2025.04.06-16.20.32:975][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001242s)
+[2025.04.06-16.20.32:975][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.20.32:975][437]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-16.20.32:975][437]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2025.04.06-16.20.33:010][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.06-16.20.33:012][437]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.04.06-16.20.33:012][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-16.20.33:013][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-16.20.33:013][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-16.20.33:013][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-16.20.33:014][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-16.20.33:014][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-16.20.33:016][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-16.20.33:038][437]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-16.20.33:039][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-16.20.33:039][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-16.20.33:039][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-16.20.33:040][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.04.06-16.20.33:040][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.04.06-16.20.33:041][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.04.06-16.20.33:041][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.04.06-16.20.33:041][437]LogInit: FAudioDevice initialized.
+[2025.04.06-16.20.33:041][437]LogAudio: Display: Audio Device (ID: 36) registered with world 'L_Main'.
+[2025.04.06-16.20.33:043][437]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-16.20.33:045][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-17.20.33
+[2025.04.06-16.20.33:045][437]LogWorld: Bringing up level for play took: 0.000559
+[2025.04.06-16.20.33:047][437]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.04.06-16.20.33:049][437]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.20.33:073][437]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.06-16.20.33:073][437]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.06-16.20.33:120][437]PIE: Server logged in
+[2025.04.06-16.20.33:121][437]PIE: Play in editor total start time 0.181 seconds.
+[2025.04.06-16.20.34:039][533]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.20.34:039][533]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.20.34:039][533]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.20.34:039][533]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.20.34:039][533]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.20.37:964][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.20.37:964][966]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.20.37:964][966]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.20.37:964][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.20.37:970][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-16.20.37:976][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.20.38:009][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-16.20.38:009][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.06-16.20.38:010][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.06-16.20.38:014][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.20.38:016][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.06-16.20.38:720][967]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.04.06-16.21.01:177][134]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.21.01:180][134]LogBlueprint: Error: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\Player\PC_Player.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2025.04.06-16.21.01:225][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.06-16.21.49:407][232]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.21.49:457][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.06-16.21.50:625][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-16.21.50:631][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-16.21.50:631][342]PIE: New page: PIE session: L_Main (6 Apr 2025, 18:21:50)
+[2025.04.06-16.21.50:631][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.21.50:632][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001553s)
+[2025.04.06-16.21.50:632][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001594s)
+[2025.04.06-16.21.50:632][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.21.50:633][342]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-16.21.50:633][342]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2025.04.06-16.21.50:665][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.06-16.21.50:669][342]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.04.06-16.21.50:669][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-16.21.50:669][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-16.21.50:670][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-16.21.50:670][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-16.21.50:670][342]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-16.21.50:670][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-16.21.50:670][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-16.21.50:670][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-16.21.50:670][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-16.21.50:670][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-16.21.50:670][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-16.21.50:673][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-16.21.50:695][342]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-16.21.50:695][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-16.21.50:695][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-16.21.50:695][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-16.21.50:696][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.04.06-16.21.50:696][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.04.06-16.21.50:699][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.04.06-16.21.50:699][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.04.06-16.21.50:699][342]LogInit: FAudioDevice initialized.
+[2025.04.06-16.21.50:699][342]LogAudio: Display: Audio Device (ID: 37) registered with world 'L_Main'.
+[2025.04.06-16.21.50:702][342]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-16.21.50:703][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-17.21.50
+[2025.04.06-16.21.50:703][342]LogWorld: Bringing up level for play took: 0.000485
+[2025.04.06-16.21.50:705][342]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.04.06-16.21.50:708][342]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.21.50:708][342]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.06-16.21.50:708][342]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.06-16.21.50:708][342]PIE: Server logged in
+[2025.04.06-16.21.50:709][342]PIE: Play in editor total start time 0.078 seconds.
+[2025.04.06-16.21.51:563][437]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.21.51:563][437]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.21.51:563][437]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.21.51:563][437]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.21.51:563][437]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.21.58:254][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.21.58:254][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.21.58:254][219]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.21.58:254][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.21.58:258][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-16.21.58:264][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.21.58:297][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-16.21.58:297][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.06-16.21.58:298][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.06-16.21.58:302][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.21.58:304][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.04.06-16.21.58:336][220]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.04.06-16.22.04:846][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-16.22.04:846][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.23.14:767][927]BlueprintLog: New page: Compile PC_Player
+[2025.04.06-16.23.14:902][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.06-16.23.15:202][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-16.23.15:279][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PC_Player" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset" SILENT=true
+[2025.04.06-16.23.15:288][952]LogSavePackage: Moving output files for package: /Game/Player/PC_Player
+[2025.04.06-16.23.15:288][952]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/PC_PlayerC3D5F75D44DE8C12AE3CC487246870D6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/PC_Player.uasset'
+[2025.04.06-16.23.15:306][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.78 sec)
+[2025.04.06-16.23.15:412][952]AssetCheck: New page: Asset Save: PC_Player
+[2025.04.06-16.23.15:412][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/PC_Player.PC_Player
+[2025.04.06-16.23.16:171][ 18]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-16.23.16:178][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-16.23.16:178][ 18]PIE: New page: PIE session: L_Main (6 Apr 2025, 18:23:16)
+[2025.04.06-16.23.16:178][ 18]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.23.16:179][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001069s)
+[2025.04.06-16.23.16:179][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001101s)
+[2025.04.06-16.23.16:180][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-16.23.16:180][ 18]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-16.23.16:180][ 18]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2025.04.06-16.23.16:217][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.06-16.23.16:220][ 18]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-16.23.16:220][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-16.23.16:220][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-16.23.16:221][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-16.23.16:221][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-16.23.16:221][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-16.23.16:224][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-16.23.16:248][ 18]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-16.23.16:248][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-16.23.16:248][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-16.23.16:248][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-16.23.16:249][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.04.06-16.23.16:250][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.04.06-16.23.16:251][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.04.06-16.23.16:251][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.04.06-16.23.16:251][ 18]LogInit: FAudioDevice initialized.
+[2025.04.06-16.23.16:251][ 18]LogAudio: Display: Audio Device (ID: 38) registered with world 'L_Main'.
+[2025.04.06-16.23.16:255][ 18]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-16.23.16:255][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-17.23.16
+[2025.04.06-16.23.16:255][ 18]LogWorld: Bringing up level for play took: 0.000457
+[2025.04.06-16.23.16:258][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.04.06-16.23.16:260][ 18]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.16:260][ 18]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.06-16.23.16:260][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.06-16.23.16:260][ 18]PIE: Server logged in
+[2025.04.06-16.23.16:261][ 18]PIE: Play in editor total start time 0.083 seconds.
+[2025.04.06-16.23.17:097][108]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.17:098][108]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.17:098][108]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.17:098][108]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.17:098][108]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.18:166][227]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.18:166][227]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.18:576][276]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.18:576][276]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.18:576][276]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.18:576][276]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.18:576][276]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.18:811][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.18:811][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.18:990][324]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.18:990][324]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.18:990][324]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.18:991][324]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.18:991][324]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.19:181][347]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.19:182][347]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.19:348][367]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.19:348][367]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.19:348][367]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.19:349][367]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.19:349][367]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.19:510][386]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.19:510][386]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.19:671][405]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.19:671][405]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.19:671][405]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.19:671][405]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.19:671][405]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.19:813][422]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.19:813][422]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.19:967][440]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.19:967][440]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.19:967][440]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.19:968][440]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.19:968][440]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.20:108][457]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.20:108][457]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.20:265][476]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.20:265][476]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.20:265][476]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.20:266][476]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.20:266][476]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.20:385][490]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.20:385][490]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.20:543][509]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.20:543][509]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.20:543][509]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.20:544][509]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.20:544][509]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.20:810][541]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.20:810][541]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.20:944][557]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.20:944][557]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.20:944][557]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.20:945][557]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.20:945][557]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.21:115][577]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.21:115][577]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.21:247][593]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.21:248][593]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.21:248][593]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.21:248][593]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.21:248][593]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.21:556][630]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.21:556][630]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.21:649][641]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.21:649][641]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.21:649][641]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.21:649][641]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.21:649][641]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.21:793][658]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.21:793][658]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.21:926][674]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.21:926][674]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.21:926][674]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.21:926][674]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.21:926][674]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.22:053][689]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.22:053][689]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.22:177][704]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.22:178][704]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.22:178][704]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.22:178][704]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.22:178][704]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.22:346][724]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.22:346][724]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.22:495][742]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.22:495][742]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.22:495][742]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.22:496][742]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.22:496][742]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.22:662][762]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.22:662][762]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.22:799][778]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.22:799][778]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.22:799][778]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.22:799][778]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.22:799][778]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.22:976][799]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.22:976][799]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.23:108][815]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.23:109][815]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.23:109][815]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.23:109][815]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.23:109][815]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.23:327][841]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause true
+[2025.04.06-16.23.23:327][841]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.06-16.23.23:484][860]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.06-16.23.23:484][860]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.06-16.23.23:484][860]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.06-16.23.23:484][860]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.06-16.23.23:484][860]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.06-16.23.25:014][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.23.25:014][ 23]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-16.23.25:014][ 23]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-16.23.25:014][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.23.25:095][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-16.23.25:101][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-16.23.25:147][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-16.23.25:148][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.06-16.23.25:149][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.06-16.23.25:153][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-16.23.25:155][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.06-16.23.25:186][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.04.06-16.23.26:146][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
