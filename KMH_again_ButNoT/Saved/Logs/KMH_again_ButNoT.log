@@ -1796,3 +1796,192 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.06-13.42.46:094][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 415 ms (total: 2.53 sec)
 [2025.04.06-13.42.46:113][866]AssetCheck: New page: Asset Save: Team_Logo_2
 [2025.04.06-13.42.46:113][866]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Team_Logo_2.Team_Logo_2
+[2025.04.06-13.47.54:914][380]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.47.55:071][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2025.04.06-13.48.01:448][980]BlueprintLog: New page: Compile WBP_Loading
+[2025.04.06-13.48.01:579][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2025.04.06-13.48.02:091][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.48.02:172][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Loading" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset" SILENT=true
+[2025.04.06-13.48.02:218][  7]LogSavePackage: Moving output files for package: /Game/UI/WBP_Loading
+[2025.04.06-13.48.02:219][  7]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Loading1CC200214FE9448AAE506E976CCEC217.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Loading.uasset'
+[2025.04.06-13.48.02:242][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 2.68 sec)
+[2025.04.06-13.48.02:269][  7]AssetCheck: New page: Asset Save: WBP_Loading
+[2025.04.06-13.48.02:269][  7]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Loading.WBP_Loading
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 0 (Found bundle for host: 0x48449960ea0 [serially])
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 1 (Re-using existing connection #7 with host datarouter.ol.epicgames.com)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.72.225.195) port 443 (#7))
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 6 (Closing connection 7)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: 00000484F91BE600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.06-13.48.24:478][ 75]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-13.48.50:198][273]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.48.50:402][273]LogUObjectHash: Compacting FUObjectHashTables data took  15.87ms
+[2025.04.06-13.48.50:704][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.48.50:794][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.06-13.48.50:833][280]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.06-13.48.50:835][280]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameModeC71B3D154C0DBFA86262A5B779F062CD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.06-13.48.50:855][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 2.83 sec)
+[2025.04.06-13.48.50:879][280]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.06-13.48.50:879][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-13.50.39:537][194]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-13.50.39:537][194]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-13.50.39:537][194]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-13.51.09:182][601]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.51.09:335][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.04.06-13.51.09:775][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.51.09:857][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.06-13.51.09:885][615]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.06-13.51.09:885][615]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode4EC580BA4A93EDC3D115CDB24F974EBB.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.06-13.51.09:904][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.96 sec)
+[2025.04.06-13.51.09:923][615]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.06-13.51.09:923][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-13.51.18:544][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2025.04.06-13.51.20:529][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-13.51.20:538][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-13.51.20:538][383]PIE: New page: PIE session: L_Loading (6 Apr 2025, 15:51:20)
+[2025.04.06-13.51.20:538][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.51.20:541][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002016s)
+[2025.04.06-13.51.20:541][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Loading.L_Loading to /Game/Maps/UEDPIE_0_L_Loading.L_Loading (0.002081s)
+[2025.04.06-13.51.20:541][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.51.20:542][383]LogAIModule: Creating AISystem for world L_Loading
+[2025.04.06-13.51.20:542][383]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2025.04.06-13.51.20:643][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2025.04.06-13.51.20:647][383]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-13.51.20:647][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-13.51.20:647][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-13.51.20:647][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-13.51.20:647][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-13.51.20:647][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-13.51.20:650][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-13.51.20:683][383]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-13.51.20:684][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-13.51.20:684][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-13.51.20:684][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-13.51.20:685][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.04.06-13.51.20:685][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.04.06-13.51.20:687][383]LogInit: FAudioDevice initialized.
+[2025.04.06-13.51.20:687][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.04.06-13.51.20:687][383]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Loading'.
+[2025.04.06-13.51.20:687][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.04.06-13.51.20:693][383]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-13.51.20:694][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Loading.L_Loading up for play (max tick rate 0) at 2025.04.06-14.51.20
+[2025.04.06-13.51.20:694][383]LogWorld: Bringing up level for play took: 0.000803
+[2025.04.06-13.51.20:697][383]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.04.06-13.51.20:699][383]PIE: Server logged in
+[2025.04.06-13.51.20:700][383]PIE: Play in editor total start time 0.162 seconds.
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 0 (Found bundle for host: 0x48449960090 [serially])
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (98.83.95.153) port 443 (#8))
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 6 (Closing connection 8)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: 00000484FDED2300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.06-13.51.24:878][653]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-13.51.48:868][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.51.48:868][714]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.51.48:892][714]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.51.48:893][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.51.48:899][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-13.51.48:918][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.51.49:023][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.51.49:023][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.04.06-13.51.49:026][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.04.06-13.51.49:061][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2025.04.06-13.51.49:140][715]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.04.06-13.51.49:248][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.04.06-13.52.10:413][156]LogContentBrowser: Attempting asset rename: L_Main -> L_Main
+[2025.04.06-13.52.14:302][455]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.06-13.52.14:481][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.04.06-13.52.14:985][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.52.15:063][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.06-13.52.15:088][480]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.06-13.52.15:089][480]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode90943CDC44945995B4EC9FB9C6590835.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.06-13.52.15:107][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.08 sec)
+[2025.04.06-13.52.15:132][480]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.06-13.52.15:132][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-13.52.16:260][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-13.52.16:267][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-13.52.16:267][569]PIE: New page: PIE session: L_Loading (6 Apr 2025, 15:52:16)
+[2025.04.06-13.52.16:267][569]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.52.16:269][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2025.04.06-13.52.16:269][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Loading.L_Loading to /Game/Maps/UEDPIE_0_L_Loading.L_Loading (0.001710s)
+[2025.04.06-13.52.16:269][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.52.16:270][569]LogAIModule: Creating AISystem for world L_Loading
+[2025.04.06-13.52.16:270][569]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2025.04.06-13.52.16:370][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2025.04.06-13.52.16:378][569]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-13.52.16:378][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-13.52.16:378][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-13.52.16:378][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-13.52.16:378][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-13.52.16:378][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-13.52.16:397][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-13.52.16:431][569]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-13.52.16:431][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-13.52.16:431][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-13.52.16:431][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-13.52.16:432][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.04.06-13.52.16:432][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.04.06-13.52.16:435][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.04.06-13.52.16:435][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.04.06-13.52.16:435][569]LogInit: FAudioDevice initialized.
+[2025.04.06-13.52.16:435][569]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Loading'.
+[2025.04.06-13.52.16:442][569]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-13.52.16:443][569]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Loading.L_Loading up for play (max tick rate 0) at 2025.04.06-14.52.16
+[2025.04.06-13.52.16:443][569]LogWorld: Bringing up level for play took: 0.000764
+[2025.04.06-13.52.16:446][569]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.04.06-13.52.16:448][569]PIE: Server logged in
+[2025.04.06-13.52.16:449][569]PIE: Play in editor total start time 0.181 seconds.
+[2025.04.06-13.52.31:518][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.52.31:518][964]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-13.52.31:518][964]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.52.31:519][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.52.31:523][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-13.52.31:538][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.52.31:677][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-13.52.31:677][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.04.06-13.52.31:680][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.04.06-13.52.31:685][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.52.31:688][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.04.06-13.52.31:732][965]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.04.06-13.52.31:820][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.04.06-13.52.34:114][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.04.06-13.52.36:384][314]LogHttp: Warning: 00000484F5D58700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-13.52.36:384][314]LogHttp: Warning: 00000484F5D58700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.06-13.52.36:384][314]LogHttp: Warning: 00000484F5D58700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.06-13.52.36:384][314]LogHttp: Warning: 00000484F5D58700: libcurl info message cache 1 (Closing connection 9)
+[2025.04.06-13.52.36:384][314]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-13.52.38:762][447]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.52.38:913][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.04.06-13.52.55:255][  8]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.52.55:429][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.04.06-13.53.21:492][879]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.53.22:185][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.04.06-13.53.22:222][881]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.53.22:233][881]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.53.22:471][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2025.04.06-13.53.22:488][882]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.53.23:646][882]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.53.23:771][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2025.04.06-13.54.20:522][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.04.06-13.54.23:213][407]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.06-13.54.23:341][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
