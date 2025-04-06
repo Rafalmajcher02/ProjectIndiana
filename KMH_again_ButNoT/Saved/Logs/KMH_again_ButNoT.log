@@ -2074,3 +2074,407 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.06-13.58.40:412][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.35 sec)
 [2025.04.06-13.58.40:432][369]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
 [2025.04.06-13.58.40:432][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.06-13.58.52:958][805]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.06-13.58.53:021][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.58.53:132][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.58.54:607][805]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-13.58.54:607][805]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-13.58.55:011][805]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2025.04.06-13.58.55:434][805]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004176s (0.470927s overbudget)
+[2025.04.06-13.59.48:380][277]LogHttp: Warning: 0000048504B5BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 0 (Found bundle for host: 0x48449960d80 [serially])
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.106.192) port 443 (#11))
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: 0000048504B5BE00: libcurl info message cache 7 (Closing connection 11)
+[2025.04.06-13.59.48:381][277]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-13.59.50:398][427]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.00.25:442][288]LogEditorTransaction: Undo Move Widget
+[2025.04.06-14.01.17:969][489]LogSlate: Took 0.038799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.04.06-14.02.35:831][982]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-14.02.35:832][982]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-14.02.35:832][982]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.06-14.02.36:751][982]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2025.04.06-14.02.36:793][982]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.04.06-14.02.36:804][982]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.04.06-14.02.36:836][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.04.06-14.02.40:942][355]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Setting
+[2025.04.06-14.02.41:110][355]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.04.06-14.02.42:588][490]LogContentBrowser: Attempting asset rename: WBP_Setting -> WBP_Settings
+[2025.04.06-14.02.44:950][490]LogMetaData: Removing '/Game/UI/WBP_Settings.SKEL_WBP_Settings_C' ref from Metadata '/Game/UI/WBP_Setting.PackageMetaData'
+[2025.04.06-14.02.44:950][490]LogMetaData: Removing '/Game/UI/WBP_Settings.WBP_Settings_C' ref from Metadata '/Game/UI/WBP_Setting.PackageMetaData'
+[2025.04.06-14.02.44:950][490]LogMetaData: Removing '/Game/UI/WBP_Settings.WBP_Settings:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WBP_Setting.PackageMetaData'
+[2025.04.06-14.02.44:950][490]LogMetaData: Removing '/Game/UI/WBP_Settings.WBP_Settings:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WBP_Setting.PackageMetaData'
+[2025.04.06-14.02.44:950][490]LogMetaData: Removing '/Game/UI/WBP_Settings.WBP_Settings:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WBP_Setting.PackageMetaData'
+[2025.04.06-14.02.45:097][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.02.45:192][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Settings" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset" SILENT=true
+[2025.04.06-14.02.45:195][490]LogSavePackage: Moving output files for package: /Game/UI/WBP_Settings
+[2025.04.06-14.02.45:195][490]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_SettingsE5F9B3D448F761E555DE1EB9F13ADAA4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset'
+[2025.04.06-14.02.45:213][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 3.47 sec)
+[2025.04.06-14.02.45:382][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2025.04.06-14.02.45:483][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2025.04.06-14.02.45:584][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.06-14.02.45:603][490]AssetCheck: New page: Asset Save: WBP_Settings
+[2025.04.06-14.02.45:603][490]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.06-14.02.46:969][587]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.06-14.02.46:969][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.02.46:988][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.02.47:554][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.02.47:554][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.03.05:835][189]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.03.06:678][239]BlueprintLog: New page: Compile WBP_Settings
+[2025.04.06-14.03.06:827][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2025.04.06-14.03.26:211][555]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.850 and deleted 0 files with total size 0 MiB. Scanned 1911 files in 1904 folders with total size 201 MiB.
+[2025.04.06-14.04.04:080][182]LogEditorTransaction: Undo Remove Widget
+[2025.04.06-14.06.00:106][848]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.06.19:827][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.07.07:974][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2025.04.06-14.07.07:977][986]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.118
+[2025.04.06-14.07.07:978][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Paused] ([2] browsable assets)...
+[2025.04.06-14.07.07:983][986]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused]
+[2025.04.06-14.07.07:983][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Paused]
+[2025.04.06-14.07.07:983][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.04.06-14.07.08:008][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Paused_Auto3
+[2025.04.06-14.07.08:008][986]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused_Auto3667A37FF40EBD24E3AC30E9D75896A98.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto3.uasset'
+[2025.04.06-14.07.08:010][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Settings] ([2] browsable assets)...
+[2025.04.06-14.07.08:014][986]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings]
+[2025.04.06-14.07.08:014][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Settings]
+[2025.04.06-14.07.08:014][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Settings" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Settings_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.04.06-14.07.08:069][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Settings_Auto3
+[2025.04.06-14.07.08:069][986]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Settings_Auto3D435DE0E4AEF5749CE557EBE237DD914.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Settings_Auto3.uasset'
+[2025.04.06-14.07.08:071][986]LogFileHelpers: Auto-saving content packages took 0.094
+[2025.04.06-14.08.39:386][991]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.08.46:296][413]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.08.47:715][499]BlueprintLog: New page: Compile WBP_Settings
+[2025.04.06-14.08.47:967][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.04.06-14.08.49:752][570]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.08.49:943][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.04.06-14.09.10:749][361]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.09.10:749][361]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.09.13:132][506]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.09.13:350][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.04.06-14.09.13:767][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.09.13:851][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.06-14.09.13:877][508]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.06-14.09.13:878][508]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused1C474E1E4C58A04BACAB0C88093322A7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.06-14.09.13:901][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 3.60 sec)
+[2025.04.06-14.09.13:918][508]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.06-14.09.13:918][508]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.06-14.09.37:790][744]LogContentBrowser: Deferred new asset file creation: WBP_Settings1
+[2025.04.06-14.09.37:824][744]LogContentBrowser: Creating deferred item: WBP_Settings1
+[2025.04.06-14.09.37:865][745]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_Settings1).
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 0 (Found bundle for host: 0x48449960c30 [serially])
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 1 (Re-using existing connection #13 with host datarouter.ol.epicgames.com)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (13.216.136.29) port 443 (#13))
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 6 (Closing connection 13)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: 00000484FF2CB900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.06-14.09.40:794][984]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-14.09.41:600][ 49]LogContentBrowser: Attempting asset rename: WBP_Settings1 -> WBP_Statistics
+[2025.04.06-14.09.41:828][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2025.04.06-14.09.41:870][ 49]LogContentBrowser: End creating deferred item WBP_Settings1
+[2025.04.06-14.09.43:037][115]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Statistics.WBP_Statistics
+[2025.04.06-14.09.43:038][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.09.43:055][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.09.43:583][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.09.43:583][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.10.17:471][639]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.06-14.10.21:179][896]BlueprintLog: New page: Compile WBP_Statistics
+[2025.04.06-14.10.21:347][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.04.06-14.10.25:094][ 88]LogContentBrowser: Deferred new asset file creation: WBP_Statistics1
+[2025.04.06-14.10.25:122][ 88]LogContentBrowser: Creating deferred item: WBP_Statistics1
+[2025.04.06-14.10.25:173][ 89]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_Statistics1).
+[2025.04.06-14.10.30:397][570]LogContentBrowser: Attempting asset rename: WBP_Statistics1 -> WBP_Statistics1
+[2025.04.06-14.10.30:547][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2025.04.06-14.10.30:568][570]LogContentBrowser: End creating deferred item WBP_Statistics1
+[2025.04.06-14.10.31:729][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2025.04.06-14.10.33:471][621]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.06-14.10.33:802][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2025.04.06-14.10.33:956][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2025.04.06-14.10.34:067][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.06-14.10.35:722][680]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.06-14.10.35:722][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.10.35:732][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.10.36:309][680]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.10.36:310][680]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.10.40:944][ 62]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.10.40:944][ 62]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.10.46:315][558]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.06-14.10.46:502][558]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
+[2025.04.06-14.10.46:806][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.10.46:891][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.04.06-14.10.46:894][565]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.04.06-14.10.46:894][565]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageFE4457F942E395396CAE66AA60E45B70.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.04.06-14.10.46:988][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 3.79 sec)
+[2025.04.06-14.10.47:011][565]AssetCheck: New page: Asset Save: WBP_Storage
+[2025.04.06-14.10.47:011][565]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.06-14.10.49:531][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.04.06-14.10.50:184][731]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-14.10.50:210][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.10.50:303][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Settings" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset" SILENT=true
+[2025.04.06-14.10.50:307][731]LogSavePackage: Moving output files for package: /Game/UI/WBP_Settings
+[2025.04.06-14.10.50:308][731]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_SettingsDB2633B84A86100E996EE08E86D12888.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset'
+[2025.04.06-14.10.50:314][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Statistics" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Statistics.uasset" SILENT=true
+[2025.04.06-14.10.50:320][731]LogSavePackage: Moving output files for package: /Game/UI/WBP_Statistics
+[2025.04.06-14.10.50:320][731]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Statistics160CE9024853903F73D1A0B61B498FE4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Statistics.uasset'
+[2025.04.06-14.10.50:338][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.91 sec)
+[2025.04.06-14.10.50:359][731]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.06-14.10.50:360][731]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Statistics.WBP_Statistics
+[2025.04.06-14.10.50:360][731]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.06-14.10.52:530][842]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.52:530][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.10.52:600][842]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.52:600][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.10.53:901][909]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.53:901][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.10.53:916][909]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.53:916][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.10.54:603][956]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.54:603][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.10.54:620][956]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.10.54:620][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.11.28:188][321]LogEditorTransaction: Undo Remove Widget
+[2025.04.06-14.13.35:827][ 66]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.13.36:044][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.04.06-14.13.55:236][722]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.13.55:389][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2025.04.06-14.13.56:125][771]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.13.56:125][771]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.14.20:705][854]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.14.20:705][854]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.14.43:314][611]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.14.43:314][611]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.14.56:911][493]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.14.57:054][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2025.04.06-14.14.57:496][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.14.57:591][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.06-14.14.57:604][504]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.06-14.14.57:605][504]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused9E150AC04907EE8F98AB00A571A01DA3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.06-14.14.57:621][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 4.04 sec)
+[2025.04.06-14.14.57:642][504]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.06-14.14.57:643][504]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.06-14.22.47:407][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-14.22.47:414][757]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.04.06-14.22.47:415][757]LogPlayLevel: [PlayLevel] Compiling WBP_Settings before play...
+[2025.04.06-14.22.47:588][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.04.06-14.22.47:600][757]LogPlayLevel: PlayLevel: Blueprint regeneration took 185 ms (1 blueprints)
+[2025.04.06-14.22.47:600][757]PIE: New page: PIE session: L_Loading (6 Apr 2025, 16:22:47)
+[2025.04.06-14.22.47:600][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-14.22.47:602][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001312s)
+[2025.04.06-14.22.47:602][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Loading.L_Loading to /Game/Maps/UEDPIE_0_L_Loading.L_Loading (0.001348s)
+[2025.04.06-14.22.47:602][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.22.47:602][757]LogAIModule: Creating AISystem for world L_Loading
+[2025.04.06-14.22.47:603][757]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2025.04.06-14.22.47:679][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.04.06-14.22.47:680][757]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-14.22.47:681][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-14.22.47:681][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-14.22.47:681][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-14.22.47:681][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-14.22.47:681][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-14.22.47:685][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-14.22.47:711][757]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-14.22.47:711][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-14.22.47:711][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-14.22.47:711][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-14.22.47:711][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.04.06-14.22.47:711][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.04.06-14.22.47:715][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.04.06-14.22.47:715][757]LogInit: FAudioDevice initialized.
+[2025.04.06-14.22.47:715][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.04.06-14.22.47:715][757]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_Loading'.
+[2025.04.06-14.22.47:718][757]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-14.22.47:719][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Loading.L_Loading up for play (max tick rate 0) at 2025.04.06-15.22.47
+[2025.04.06-14.22.47:719][757]LogWorld: Bringing up level for play took: 0.000600
+[2025.04.06-14.22.47:731][757]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.04.06-14.22.47:734][757]PIE: Server logged in
+[2025.04.06-14.22.47:734][757]PIE: Play in editor total start time 0.32 seconds.
+[2025.04.06-14.22.55:661][642]LogNet: Browse: /Game/Maps/L_Main
+[2025.04.06-14.22.55:661][642]LogLoad: LoadMap: /Game/Maps/L_Main
+[2025.04.06-14.22.55:661][642]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-14.22.55:662][642]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.22.55:662][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.22.55:796][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-14.22.55:799][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.04.06-14.22.55:861][642]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_Main'.
+[2025.04.06-14.22.55:861][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.22.55:862][642]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-14.22.55:862][642]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2025.04.06-14.22.55:862][642]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-14.22.55:862][642]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-15.22.55
+[2025.04.06-14.22.55:862][642]LogWorld: Bringing up level for play took: 0.000647
+[2025.04.06-14.22.55:865][642]LogLoad: Took 0.203452 seconds to LoadMap(/Game/Maps/L_Main)
+[2025.04.06-14.23.00:883][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-14.23.00:883][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-14.23.00:883][204]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.23.00:883][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.23.00:887][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-14.23.00:899][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.23.00:976][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-14.23.00:976][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.04.06-14.23.00:978][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.04.06-14.23.00:991][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.04.06-14.23.01:027][205]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 0 (Found bundle for host: 0x484499601b0 [serially])
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 1 (Re-using existing connection #17 with host datarouter.ol.epicgames.com)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.201.211.208) port 443 (#17))
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 6 (Closing connection 17)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: 000004850F05C300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.06-14.24.24:730][455]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD07F3D05-426F-ACD1-E00D-3F9A9FD50813%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.06-14.27.22:298][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.04.06-14.27.22:304][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.084
+[2025.04.06-14.27.22:317][604]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Paused] ([2] browsable assets)...
+[2025.04.06-14.27.22:326][604]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused]
+[2025.04.06-14.27.22:326][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Paused]
+[2025.04.06-14.27.22:326][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.04.06-14.27.22:350][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Paused_Auto4
+[2025.04.06-14.27.22:352][604]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused_Auto4583689164339ECC4069A76A56F77BC4A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto4.uasset'
+[2025.04.06-14.27.22:353][604]LogFileHelpers: Auto-saving content packages took 0.048
+[2025.04.06-14.29.05:034][161]LogScript: Warning: Accessed None trying to read property WBP_Settings
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_85
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:000D
+[2025.04.06-14.29.05:034][161]LogScript: Warning: Accessed None trying to read property WBP_Statistics
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_85
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:0033
+[2025.04.06-14.29.05:034][161]LogScript: Warning: Accessed None trying to read property WBP_Storage
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_85
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:0059
+[2025.04.06-14.29.05:034][161]LogScript: Warning: Accessed None trying to read property WBP_Settings
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_85
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:ExecuteUbergraph_WBP_Paused:0015
+[2025.04.06-14.29.08:495][476]LogScript: Warning: Accessed None trying to read property WBP_Settings
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_86
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:000D
+[2025.04.06-14.29.08:495][476]LogScript: Warning: Accessed None trying to read property WBP_Statistics
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_86
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:0033
+[2025.04.06-14.29.08:495][476]LogScript: Warning: Accessed None trying to read property WBP_Storage
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_86
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:HideAllMenus:0059
+[2025.04.06-14.29.08:495][476]LogScript: Warning: Accessed None trying to read property WBP_Settings
+	WBP_Paused_C /Engine/Transient.World_23:WBP_Paused_C_86
+	Function /Game/UI/WBP_Paused.WBP_Paused_C:ExecuteUbergraph_WBP_Paused:0015
+[2025.04.06-14.29.51:214][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.29.51:214][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.35.28:794][669]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.35.28:795][669]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.35.52:263][367]LogSlate: Window 'Delete Function' being destroyed
+[2025.04.06-14.36.02:561][454]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.02:561][454]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.17:472][902]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.17:472][902]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.32:442][310]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.32:442][310]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.36.49:523][ 10]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.36.49:553][ 10]LogBlueprint: Error: [AssetLog] D:\Repos\ProjectIndiana\KMH_again_ButNoT\Content\UI\WBP_Paused.uasset: [Compiler] Could not find a function named "HideAllMenus" in 'WBP_Paused_C'.
+Make sure 'WBP_Paused_C' has been compiled for  Hide All Menus
+[2025.04.06-14.36.50:237][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.04.06-14.36.58:562][859]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.36.58:690][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.04.06-14.36.59:833][893]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.06-14.36.59:839][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-14.36.59:839][893]PIE: New page: PIE session: L_Loading (6 Apr 2025, 16:36:59)
+[2025.04.06-14.36.59:839][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-14.36.59:840][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001044s)
+[2025.04.06-14.36.59:840][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Loading.L_Loading to /Game/Maps/UEDPIE_0_L_Loading.L_Loading (0.001075s)
+[2025.04.06-14.36.59:840][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.36.59:841][893]LogAIModule: Creating AISystem for world L_Loading
+[2025.04.06-14.36.59:841][893]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2025.04.06-14.36.59:915][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.04.06-14.36.59:921][893]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.06-14.36.59:921][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-14.36.59:921][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-14.36.59:921][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-14.36.59:921][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-14.36.59:921][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-14.36.59:924][893]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-14.36.59:946][893]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.06-14.36.59:947][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-14.36.59:947][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-14.36.59:947][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-14.36.59:948][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.04.06-14.36.59:948][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.04.06-14.36.59:951][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.04.06-14.36.59:951][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.04.06-14.36.59:951][893]LogInit: FAudioDevice initialized.
+[2025.04.06-14.36.59:951][893]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_Loading'.
+[2025.04.06-14.36.59:956][893]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-14.36.59:957][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Loading.L_Loading up for play (max tick rate 0) at 2025.04.06-15.36.59
+[2025.04.06-14.36.59:957][893]LogWorld: Bringing up level for play took: 0.000945
+[2025.04.06-14.36.59:961][893]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.04.06-14.36.59:963][893]PIE: Server logged in
+[2025.04.06-14.36.59:964][893]PIE: Play in editor total start time 0.126 seconds.
+[2025.04.06-14.37.07:883][820]LogNet: Browse: /Game/Maps/L_Main
+[2025.04.06-14.37.07:883][820]LogLoad: LoadMap: /Game/Maps/L_Main
+[2025.04.06-14.37.07:883][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Loading
+[2025.04.06-14.37.07:883][820]LogWorld: UWorld::CleanupWorld for L_Loading, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.37.07:883][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.37.07:998][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-14.37.08:001][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.04.06-14.37.08:007][820]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_Main'.
+[2025.04.06-14.37.08:007][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-14.37.08:008][820]LogAIModule: Creating AISystem for world L_Main
+[2025.04.06-14.37.08:008][820]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2025.04.06-14.37.08:008][820]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.06-14.37.08:009][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.06-15.37.08
+[2025.04.06-14.37.08:009][820]LogWorld: Bringing up level for play took: 0.000617
+[2025.04.06-14.37.08:011][820]LogLoad: Took 0.128143 seconds to LoadMap(/Game/Maps/L_Main)
+[2025.04.06-14.37.14:812][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-14.37.14:812][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.06-14.37.14:812][599]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-14.37.14:812][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.37.14:815][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-14.37.14:826][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-14.37.14:902][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-14.37.14:902][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.04.06-14.37.14:904][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.04.06-14.37.14:907][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-14.37.14:910][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.04.06-14.37.14:946][600]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.04.06-14.37.46:974][ 77]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.37.46:974][ 77]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.06-14.38.06:473][190]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.06-14.38.06:598][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.04.06-14.38.31:628][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.04.06-14.38.31:631][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Loading' took 0.083
+[2025.04.06-14.38.31:632][343]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Paused] ([2] browsable assets)...
+[2025.04.06-14.38.31:637][343]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused]
+[2025.04.06-14.38.31:637][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Paused]
+[2025.04.06-14.38.31:637][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.04.06-14.38.31:647][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Paused_Auto5
+[2025.04.06-14.38.31:647][343]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused_Auto55A002C70455B877178C8A69D756E7820.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Paused_Auto5.uasset'
+[2025.04.06-14.38.31:648][343]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.04.06-14.39.27:264][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.06-14.39.27:924][ 61]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-14.39.27:939][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-14.39.28:019][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.06-14.39.28:028][ 61]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.06-14.39.28:029][ 61]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PausedDA82FF0E46DF71CB9AE5859B31FFD0FE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.06-14.39.28:044][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.14 sec)
+[2025.04.06-14.39.28:056][ 61]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.06-14.39.28:056][ 61]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
