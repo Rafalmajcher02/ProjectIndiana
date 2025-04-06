@@ -4721,3 +4721,33 @@ Make sure 'WBP_Paused_C' has been compiled for  Hide All Menus
 [2025.04.06-16.23.25:155][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2025.04.06-16.23.25:186][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_65
 [2025.04.06-16.23.26:146][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: ================================================
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: Total job queries 44, among them cache hits 5 (11.36%)
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 27 distinct outputs (69.23%)
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.04.06-16.25.27:225][394]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Job execution time: average 7.24 s, max 7.43 s
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Job life time (pending + execution): average 7.34 s, max 7.53
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.53 s
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Average processing rate: 0.53 jobs/sec
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Total thread time: 4.34 s
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Percentage time preprocessing: 14.36%
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Effective parallelization: 0.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.52% of total time (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.53% of total time (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.44% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.51% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.04.06-16.25.27:226][394]LogShaderCompilers: Display: ================================================
+[2025.04.06-16.25.49:199][476]LogSlate: External Image Picker: DecompressImage failed
