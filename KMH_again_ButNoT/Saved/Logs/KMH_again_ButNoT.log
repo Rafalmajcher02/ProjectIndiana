@@ -1804,3 +1804,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Main_ReadyMealPizza.BPC_Main_ReadyMealPizza
 [2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Main_ChickenWithRice.BPC_Main_ChickenWithRice
 [2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_FruitSalad.BPC_Extra_FruitSalad
+[2025.04.08-11.07.35:894][269]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.08-11.07.35:903][269]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.08-11.07.35:910][270]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.08-11.07.40:522][817]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.04.08-11.07.40:522][817]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.08-11.09.31:700][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Brownie.BPC_Extra_Brownie
+[2025.04.08-11.09.31:700][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.09.41:153][ 87]BlueprintLog: New page: Compile BPC_Extra_Brownie
+[2025.04.08-11.09.41:208][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.08-11.09.41:692][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-11.09.41:744][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Brownie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset" SILENT=true
+[2025.04.08-11.09.41:986][136]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Brownie
+[2025.04.08-11.09.41:987][136]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Brownie7376022A45B0A35D3CA70A83543C047D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset'
+[2025.04.08-11.09.41:996][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 304 ms (total: 3.14 sec)
+[2025.04.08-11.09.42:003][136]AssetCheck: New page: Asset Save: BPC_Extra_Brownie
+[2025.04.08-11.09.42:004][136]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_Brownie.BPC_Extra_Brownie
+[2025.04.08-11.09.42:574][200]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.09.42:574][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
