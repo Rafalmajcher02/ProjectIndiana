@@ -1189,3 +1189,618 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.08-10.49.06:367][616]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2025.04.08-10.49.06:367][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.04.08-10.49.10:344][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.04.08-10.49.30:120][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.08-10.49.30:522][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-10.49.30:643][764]PIE: New page: PIE session: L_Main (8 Apr 2025, 12:49:30)
+[2025.04.08-10.49.30:892][764]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.08-10.49.30:893][764]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.04.08-10.49.30:927][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.49.31:026][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098572s)
+[2025.04.08-10.49.31:026][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.098679s)
+[2025.04.08-10.49.31:047][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.49.31:048][764]LogAIModule: Creating AISystem for world L_Main
+[2025.04.08-10.49.31:048][764]LogPlayLevel: PIE: World Init took: (0.021648s)
+[2025.04.08-10.49.31:167][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.04.08-10.49.31:186][764]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.08-10.49.31:186][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-10.49.31:186][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-10.49.31:187][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-10.49.31:187][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-10.49.31:187][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-10.49.31:189][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-10.49.31:214][764]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.08-10.49.31:214][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-10.49.31:214][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-10.49.31:214][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-10.49.31:214][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.08-10.49.31:214][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.08-10.49.31:216][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.08-10.49.31:216][764]LogInit: FAudioDevice initialized.
+[2025.04.08-10.49.31:216][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.08-10.49.31:216][764]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Main'.
+[2025.04.08-10.49.31:401][764]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.08-10.49.31:447][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.08-11.49.31
+[2025.04.08-10.49.31:471][764]LogWorld: Bringing up level for play took: 0.033385
+[2025.04.08-10.49.31:504][764]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.04.08-10.49.32:289][764]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.08-10.49.32:310][764]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.08-10.49.32:310][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.08-10.49.32:316][764]PIE: Server logged in
+[2025.04.08-10.49.32:317][764]PIE: Play in editor total start time 1.955 seconds.
+[2025.04.08-10.49.34:305][914]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.08-10.49.34:305][914]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.08-10.49.34:305][914]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.08-10.49.34:324][914]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.08-10.49.34:324][914]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.08-10.49.35:497][ 21]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.04.08-10.49.36:423][124]LogBlueprintUserMessages: [WBP_PickUpToTray] Everything requested was added to tray
+[2025.04.08-10.49.37:273][226]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Everything requested was added to tray
+[2025.04.08-10.49.37:747][283]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Everything requested was added to tray
+[2025.04.08-10.49.39:131][449]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.39:431][485]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.39:875][538]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.40:593][624]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.40:968][669]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.41:435][725]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.42:094][804]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.42:429][844]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.42:758][882]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.49.43:755][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.49.43:755][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.49.43:783][976]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.49.43:916][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.49.44:018][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-10.49.45:156][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.49.45:201][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.08-10.49.45:336][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.08-10.49.45:337][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.08-10.49.45:341][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.49.45:491][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.08-10.49.45:514][977]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.04.08-10.49.49:624][432]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_AppleJuice.BPC_Drink_AppleJuice
+[2025.04.08-10.49.49:634][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.49.51:222][432]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2025.04.08-10.49.51:625][432]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2025.04.08-10.49.51:735][432]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000930s (0.111635s overbudget)
+[2025.04.08-10.49.54:357][638]LogSlate: Window 'BPC_Drink_AppleJuice' being destroyed
+[2025.04.08-10.50.07:594][968]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.08-10.50.32:911][140]BlueprintLog: New page: Compile BPC_Drink_AppleJuice
+[2025.04.08-10.50.33:737][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.04.08-10.50.34:125][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-10.50.34:428][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_AppleJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset" SILENT=true
+[2025.04.08-10.50.35:340][182]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_AppleJuice
+[2025.04.08-10.50.35:340][182]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_AppleJuice72AD6C244E5565217A19BAA1F3CD3B8D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset'
+[2025.04.08-10.50.35:382][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 2.60 sec)
+[2025.04.08-10.50.35:389][182]AssetCheck: New page: Asset Save: BPC_Drink_AppleJuice
+[2025.04.08-10.50.35:389][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_AppleJuice.BPC_Drink_AppleJuice
+[2025.04.08-10.50.37:789][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.08-10.50.37:795][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-10.50.37:795][452]PIE: New page: PIE session: L_Main (8 Apr 2025, 12:50:37)
+[2025.04.08-10.50.37:795][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.50.37:796][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001065s)
+[2025.04.08-10.50.37:796][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001096s)
+[2025.04.08-10.50.37:796][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.50.37:797][452]LogAIModule: Creating AISystem for world L_Main
+[2025.04.08-10.50.37:797][452]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2025.04.08-10.50.37:826][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.08-10.50.37:832][452]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.08-10.50.37:832][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-10.50.37:832][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-10.50.37:833][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-10.50.37:833][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-10.50.37:833][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-10.50.37:835][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-10.50.37:858][452]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.08-10.50.37:859][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-10.50.37:859][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-10.50.37:859][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-10.50.37:859][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.08-10.50.37:859][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.08-10.50.37:861][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.08-10.50.37:861][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.08-10.50.37:861][452]LogInit: FAudioDevice initialized.
+[2025.04.08-10.50.37:861][452]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Main'.
+[2025.04.08-10.50.37:864][452]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.08-10.50.37:865][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.08-11.50.37
+[2025.04.08-10.50.37:865][452]LogWorld: Bringing up level for play took: 0.000458
+[2025.04.08-10.50.37:867][452]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.04.08-10.50.37:869][452]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.08-10.50.37:869][452]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.08-10.50.37:869][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.08-10.50.37:869][452]PIE: Server logged in
+[2025.04.08-10.50.37:869][452]PIE: Play in editor total start time 0.075 seconds.
+[2025.04.08-10.50.39:254][610]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.08-10.50.39:254][610]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.08-10.50.39:254][610]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.08-10.50.39:254][610]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.08-10.50.39:254][610]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.08-10.50.40:246][727]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.04.08-10.50.40:732][785]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.50.42:109][949]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.50.43:033][ 57]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.50.43:252][ 83]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.43:426][104]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.43:932][164]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.44:344][213]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.44:830][271]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.45:368][335]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.45:770][383]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.45:972][407]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.46:165][430]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.48:094][659]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.48:446][701]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.48:691][730]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.48:882][753]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.50.51:651][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.50.51:651][ 51]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.50.51:651][ 51]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.50.51:651][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.50.51:654][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-10.50.51:660][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.50.51:689][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.50.51:690][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.08-10.50.51:691][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.08-10.50.51:697][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.08-10.50.51:726][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.04.08-10.50.56:667][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Cola.BPC_Cola
+[2025.04.08-10.50.56:667][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39AB4C34-46D6-FB32-BD1E-BAA23975FBCE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 0 (Found bundle for host: 0x79136170000 [serially])
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.233.49.169) port 443 (#0))
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 6 (Closing connection 0)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: 00000791893BEB00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.08-10.50.57:336][626]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39AB4C34-46D6-FB32-BD1E-BAA23975FBCE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.08-10.51.32:629][676]BlueprintLog: New page: Compile BPC_Drink_AppleJuice
+[2025.04.08-10.51.32:683][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.08-10.51.34:021][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.08-10.51.34:027][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-10.51.34:027][798]PIE: New page: PIE session: L_Main (8 Apr 2025, 12:51:34)
+[2025.04.08-10.51.34:027][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.51.34:028][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001040s)
+[2025.04.08-10.51.34:028][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001071s)
+[2025.04.08-10.51.34:028][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.51.34:028][798]LogAIModule: Creating AISystem for world L_Main
+[2025.04.08-10.51.34:028][798]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2025.04.08-10.51.34:066][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.04.08-10.51.34:068][798]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.08-10.51.34:068][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-10.51.34:068][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-10.51.34:069][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-10.51.34:069][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-10.51.34:069][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-10.51.34:071][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-10.51.34:093][798]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.08-10.51.34:095][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-10.51.34:095][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-10.51.34:095][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-10.51.34:096][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.08-10.51.34:096][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.08-10.51.34:097][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.08-10.51.34:097][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.08-10.51.34:097][798]LogInit: FAudioDevice initialized.
+[2025.04.08-10.51.34:097][798]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Main'.
+[2025.04.08-10.51.34:100][798]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.08-10.51.34:100][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.08-11.51.34
+[2025.04.08-10.51.34:100][798]LogWorld: Bringing up level for play took: 0.000450
+[2025.04.08-10.51.34:103][798]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.04.08-10.51.34:105][798]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.08-10.51.34:105][798]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.08-10.51.34:105][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.08-10.51.34:106][798]PIE: Server logged in
+[2025.04.08-10.51.34:106][798]PIE: Play in editor total start time 0.079 seconds.
+[2025.04.08-10.51.35:360][940]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.08-10.51.35:360][940]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.08-10.51.35:360][940]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.08-10.51.35:361][940]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.08-10.51.35:361][940]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.08-10.51.36:135][ 32]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.04.08-10.51.36:545][ 81]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.51.38:182][277]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.51.39:114][388]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.51.40:700][575]LogBlueprintUserMessages: [WBP_PickUpToTray] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.51.41:060][618]LogBlueprintUserMessages: [WBP_PickUpToTray_2] Failed to add any item to tray for reasons (Likely not enough space in the inventory or slots did not generate correctly)
+[2025.04.08-10.51.54:145][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.51.54:145][ 72]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.51.54:145][ 72]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.51.54:145][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.51.54:147][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-10.51.54:154][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.51.54:189][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.08-10.51.54:189][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-10.51.54:190][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-10.51.54:193][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.51.54:195][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.08-10.51.54:248][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.04.08-10.52.06:079][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.04.08-10.52.06:080][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.52.06:095][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.52.06:528][409]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.08-10.52.06:528][409]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.08-10.52.08:776][618]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.08-10.52.08:777][618]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.08-10.52.08:777][618]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.08-10.52.18:400][707]BlueprintLog: New page: Compile WBP_Canteen
+[2025.04.08-10.52.18:483][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.04.08-10.52.20:087][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.08-10.52.20:094][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-10.52.20:094][811]PIE: New page: PIE session: L_Main (8 Apr 2025, 12:52:20)
+[2025.04.08-10.52.20:094][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.52.20:095][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2025.04.08-10.52.20:095][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001088s)
+[2025.04.08-10.52.20:095][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.52.20:095][811]LogAIModule: Creating AISystem for world L_Main
+[2025.04.08-10.52.20:096][811]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2025.04.08-10.52.20:141][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.08-10.52.20:143][811]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.08-10.52.20:143][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-10.52.20:143][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-10.52.20:144][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-10.52.20:144][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-10.52.20:144][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-10.52.20:146][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-10.52.20:168][811]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.08-10.52.20:168][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-10.52.20:168][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-10.52.20:168][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-10.52.20:169][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.08-10.52.20:169][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.08-10.52.20:171][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.08-10.52.20:171][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.08-10.52.20:171][811]LogInit: FAudioDevice initialized.
+[2025.04.08-10.52.20:171][811]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Main'.
+[2025.04.08-10.52.20:174][811]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.08-10.52.20:174][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.08-11.52.20
+[2025.04.08-10.52.20:174][811]LogWorld: Bringing up level for play took: 0.000424
+[2025.04.08-10.52.20:176][811]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.04.08-10.52.20:178][811]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.08-10.52.20:178][811]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.08-10.52.20:178][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.08-10.52.20:178][811]PIE: Server logged in
+[2025.04.08-10.52.20:179][811]PIE: Play in editor total start time 0.086 seconds.
+[2025.04.08-10.52.21:230][929]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] event should pause false
+[2025.04.08-10.52.21:230][929]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.08-10.52.21:230][929]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.08-10.52.21:231][929]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_1' was already added to the screen.
+[2025.04.08-10.52.21:231][929]LogScript: Warning: Last function called:
+	/Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode_C.ExecuteUbergraph_GMB_2D_CanteenGameMode
+
+[2025.04.08-10.52.21:867][  3]LogBlueprintUserMessages: [BP_TrayInventory_C_0] The Tray BeginPlay
+[2025.04.08-10.52.22:325][ 58]LogBlueprintUserMessages: [WBP_PickUpToTray_1] Everything requested was added to tray
+[2025.04.08-10.52.24:141][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.52.24:141][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.08-10.52.24:141][267]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.52.24:141][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.24:144][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-10.52.24:149][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.24:191][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-10.52.24:191][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.08-10.52.24:193][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.08-10.52.24:198][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.08-10.52.24:225][269]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.04.08-10.52.25:830][450]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.52.25:830][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.25:838][450]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.52.25:838][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.27:136][559]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.52.27:136][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.31:302][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.08-10.52.31:302][ 28]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.52.31:302][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.52.41:786][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.08-10.52.42:947][191]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.08-10.52.43:069][191]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Items/BPC_Cola.BPC_Cola
+	Asset Type: Blueprint
+[2025.04.08-10.52.44:421][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.08-10.52.44:445][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.08-10.52.44:470][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.08-10.52.45:370][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.08-10.52.46:063][279]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.08-10.52.46:255][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.04.08-10.52.46:282][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.08-10.52.46:310][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.08-10.52.46:865][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.08-10.52.47:596][334]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.08-10.52.47:628][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-10.52.47:655][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.08-10.52.47:679][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.08-10.53.38:941][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_FizzyJuice.BPC_Drink_FizzyJuice
+[2025.04.08-10.53.38:941][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.53.42:802][246]LogSlate: Window 'BPC_Drink_FizzyJuice' being destroyed
+[2025.04.08-10.57.30:001][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.08-10.57.30:003][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.035
+[2025.04.08-10.57.30:019][738]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Canteen] ([2] browsable assets)...
+[2025.04.08-10.57.30:026][738]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen]
+[2025.04.08-10.57.30:026][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Canteen]
+[2025.04.08-10.57.30:026][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Canteen_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.04.08-10.57.30:106][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Canteen_Auto1
+[2025.04.08-10.57.30:106][738]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Canteen_Auto1B055F69C4596F37FD56F7599926A6AE2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Canteen_Auto1.uasset'
+[2025.04.08-10.57.30:141][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_AppleJuice] ([2] browsable assets)...
+[2025.04.08-10.57.30:141][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_AppleJuice]
+[2025.04.08-10.57.30:155][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_AppleJuice_Auto1
+[2025.04.08-10.57.30:155][738]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_AppleJuice_Auto1317BDF434A5D72326E3154B9F7F1BCAE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_AppleJuice_Auto1.uasset'
+[2025.04.08-10.57.30:168][738]LogFileHelpers: Auto-saving content packages took 0.153
+[2025.04.08-10.58.00:850][479]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.58.00:850][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.58.03:418][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_AppleJuice.BPC_Drink_AppleJuice
+[2025.04.08-10.58.03:418][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.58.05:575][938]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.58.05:575][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.58.07:699][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_FizzyJuice.BPC_Drink_FizzyJuice
+[2025.04.08-10.58.07:700][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.58.38:446][592]BlueprintLog: New page: Compile BPC_Drink_FizzyJuice
+[2025.04.08-10.58.38:506][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.08-10.58.39:275][674]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.58.39:275][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.58.40:366][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_Lemonade.BPC_Drink_Lemonade
+[2025.04.08-10.58.40:366][786]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.58.42:847][977]LogSlate: Window 'BPC_Drink_Lemonade' being destroyed
+[2025.04.08-10.59.04:947][503]BlueprintLog: New page: Compile BPC_Drink_Lemonade
+[2025.04.08-10.59.04:995][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.08-10.59.05:840][590]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.59.05:840][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.59.06:839][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_Milk.BPC_Drink_Milk
+[2025.04.08-10.59.06:839][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.59.09:121][869]LogSlate: Window 'BPC_Drink_Milk' being destroyed
+[2025.04.08-10.59.25:496][780]BlueprintLog: New page: Compile BPC_Drink_Milk
+[2025.04.08-10.59.25:545][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.08-10.59.26:545][861]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.59.26:545][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.59.27:800][983]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_OrangeJuice.BPC_Drink_OrangeJuice
+[2025.04.08-10.59.27:801][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.59.30:376][180]LogSlate: Window 'BPC_Drink_OrangeJuice' being destroyed
+[2025.04.08-10.59.47:160][136]BlueprintLog: New page: Compile BPC_Drink_OrangeJuice
+[2025.04.08-10.59.47:209][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.08-10.59.48:193][240]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-10.59.48:193][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-10.59.49:490][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_SportsDrink.BPC_Drink_SportsDrink
+[2025.04.08-10.59.49:490][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-10.59.52:270][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_Lemonade.BPC_Drink_Lemonade
+[2025.04.08-10.59.52:270][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.00.07:688][244]BlueprintLog: New page: Compile BPC_Drink_Lemonade
+[2025.04.08-11.00.07:748][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.08-11.00.08:425][316]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.00.08:425][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.00.09:710][432]BlueprintLog: New page: Compile BPC_Drink_SportsDrink
+[2025.04.08-11.00.09:772][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-11.00.17:290][195]BlueprintLog: New page: Compile BPC_Drink_SportsDrink
+[2025.04.08-11.00.17:338][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.08-11.00.18:419][300]LogSlate: Window 'BPC_Drink_SportsDrink' being destroyed
+[2025.04.08-11.00.18:427][300]LogSlate: Window 'BPC_Drink_SportsDrink' being destroyed
+[2025.04.08-11.00.18:431][300]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.08-11.00.18:431][300]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.00.18:431][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.00.20:270][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Drink_Water.BPC_Drink_Water
+[2025.04.08-11.00.20:270][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.00.22:431][643]LogSlate: Window 'BPC_Drink_Water' being destroyed
+[2025.04.08-11.00.34:846][ 82]BlueprintLog: New page: Compile BPC_Drink_Water
+[2025.04.08-11.00.34:897][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-11.00.35:786][180]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.00.35:786][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.00.37:067][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Apple.BPC_Extra_Apple
+[2025.04.08-11.00.37:068][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.00.38:227][303]LogViewport: Scene viewport resized to 732x270, mode Windowed.
+[2025.04.08-11.00.39:401][374]LogViewport: Scene viewport resized to 729x289, mode Windowed.
+[2025.04.08-11.00.40:517][376]LogViewport: Scene viewport resized to 550x190, mode Windowed.
+[2025.04.08-11.00.40:544][377]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2025.04.08-11.00.40:977][427]LogSlate: Window 'BPC_Extra_Apple' being destroyed
+[2025.04.08-11.00.45:641][946]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.00.45:641][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.00.46:707][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Apple.BPC_Extra_Apple
+[2025.04.08-11.00.46:708][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.01.03:411][780]BlueprintLog: New page: Compile BPC_Extra_Apple
+[2025.04.08-11.01.03:468][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.08-11.01.15:989][260]BlueprintLog: New page: Compile BPC_Extra_Apple
+[2025.04.08-11.01.16:045][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.08-11.01.16:942][355]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.01.16:942][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.01.18:076][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Brownie.BPC_Extra_Brownie
+[2025.04.08-11.01.18:076][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.01.20:747][671]LogSlate: Window 'BPC_Extra_Brownie' being destroyed
+[2025.04.08-11.01.41:654][122]BlueprintLog: New page: Compile BPC_Extra_Brownie
+[2025.04.08-11.01.41:705][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-11.01.42:583][213]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.01.42:583][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.01.43:876][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Cookie.BPC_Extra_Cookie
+[2025.04.08-11.01.43:877][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.01.46:640][514]LogSlate: Window 'BPC_Extra_Cookie' being destroyed
+[2025.04.08-11.02.03:478][490]BlueprintLog: New page: Compile BPC_Extra_Cookie
+[2025.04.08-11.02.03:530][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.08-11.02.04:341][576]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.02.04:341][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.02.05:582][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_FruitSalad.BPC_Extra_FruitSalad
+[2025.04.08-11.02.05:583][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.02.07:840][861]LogSlate: Window 'BPC_Extra_FruitSalad' being destroyed
+[2025.04.08-11.02.25:780][946]BlueprintLog: New page: Compile BPC_Extra_FruitSalad
+[2025.04.08-11.02.25:830][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.08-11.02.26:566][ 26]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.02.26:566][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.02.30:256][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_IceCream.BPC_Extra_IceCream
+[2025.04.08-11.02.30:256][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.02.32:846][624]LogSlate: Window 'BPC_Extra_IceCream' being destroyed
+[2025.04.08-11.02.51:162][764]BlueprintLog: New page: Compile BPC_Extra_IceCream
+[2025.04.08-11.02.51:214][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.08-11.03.01:846][ 31]BlueprintLog: New page: Compile BPC_Extra_IceCream
+[2025.04.08-11.03.01:898][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-11.03.02:673][111]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.02:673][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.04:125][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Prunes.BPC_Extra_Prunes
+[2025.04.08-11.03.04:125][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.06:410][422]LogSlate: Window 'BPC_Extra_Prunes' being destroyed
+[2025.04.08-11.03.22:638][312]BlueprintLog: New page: Compile BPC_Extra_Prunes
+[2025.04.08-11.03.22:692][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.08-11.03.23:509][398]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.23:509][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.26:397][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Apple.BPC_Extra_Apple
+[2025.04.08-11.03.26:398][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.29:145][983]BlueprintLog: New page: Compile BPC_Extra_Apple
+[2025.04.08-11.03.29:195][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.08-11.03.30:086][ 80]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.30:086][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.32:156][307]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Brownie.BPC_Extra_Brownie
+[2025.04.08-11.03.32:156][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.35:312][617]BlueprintLog: New page: Compile BPC_Extra_Brownie
+[2025.04.08-11.03.35:363][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.08-11.03.36:040][688]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.36:040][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.37:013][784]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Cookie.BPC_Extra_Cookie
+[2025.04.08-11.03.37:014][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.40:420][ 38]BlueprintLog: New page: Compile BPC_Extra_Cookie
+[2025.04.08-11.03.40:473][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.08-11.03.41:083][101]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.41:083][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.44:762][520]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_Prunes.BPC_Extra_Prunes
+[2025.04.08-11.03.44:763][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.47:203][754]BlueprintLog: New page: Compile BPC_Extra_Prunes
+[2025.04.08-11.03.47:257][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.08-11.03.48:134][849]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.03.48:134][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.03.49:739][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Extra_VeggieSalad.BPC_Extra_VeggieSalad
+[2025.04.08-11.03.49:739][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.03.52:114][198]LogSlate: Window 'BPC_Extra_VeggieSalad' being destroyed
+[2025.04.08-11.04.11:652][470]BlueprintLog: New page: Compile BPC_Extra_VeggieSalad
+[2025.04.08-11.04.11:704][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.08-11.04.12:628][562]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.04.12:628][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.04.18:077][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Main_ChickenWithRice.BPC_Main_ChickenWithRice
+[2025.04.08-11.04.18:078][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.04.20:605][385]LogSlate: Window 'BPC_Main_ChickenWithRice' being destroyed
+[2025.04.08-11.04.53:810][ 67]BlueprintLog: New page: Compile BPC_Main_ChickenWithRice
+[2025.04.08-11.04.53:863][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.08-11.04.56:757][401]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.04.56:757][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.04.58:132][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Main_Porridge.BPC_Main_Porridge
+[2025.04.08-11.04.58:133][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.05.00:090][680]LogSlate: Window 'BPC_Main_Porridge' being destroyed
+[2025.04.08-11.05.18:020][776]BlueprintLog: New page: Compile BPC_Main_Porridge
+[2025.04.08-11.05.18:077][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.08-11.05.18:768][850]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.05.18:768][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.05.19:754][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_Main_ReadyMealPizza.BPC_Main_ReadyMealPizza
+[2025.04.08-11.05.19:754][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.05.22:196][138]LogSlate: Window 'BPC_Main_ReadyMealPizza' being destroyed
+[2025.04.08-11.05.33:895][478]BlueprintLog: New page: Compile BPC_Main_ReadyMealPizza
+[2025.04.08-11.05.33:947][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.08-11.05.35:617][669]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.05.35:617][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.05.36:926][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BPC_MainToastie.BPC_MainToastie
+[2025.04.08-11.05.36:926][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.08-11.05.40:070][ 10]LogSlate: Window 'BPC_MainToastie' being destroyed
+[2025.04.08-11.05.52:153][416]BlueprintLog: New page: Compile BPC_MainToastie
+[2025.04.08-11.05.52:206][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.08-11.05.52:991][504]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-11.05.52:992][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-11.05.54:489][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.08-11.05.55:340][657]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-11.05.55:349][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-11.05.55:412][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_AppleJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset" SILENT=true
+[2025.04.08-11.05.55:424][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_AppleJuice
+[2025.04.08-11.05.55:424][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_AppleJuice4006645A4CF4C1E6221158A59450BBFD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset'
+[2025.04.08-11.05.55:426][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_FizzyJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_FizzyJuice.uasset" SILENT=true
+[2025.04.08-11.05.55:430][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_FizzyJuice
+[2025.04.08-11.05.55:430][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_FizzyJuice80684E58494B0AB7E1E7D9872E8B6233.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_FizzyJuice.uasset'
+[2025.04.08-11.05.55:432][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Lemonade" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Lemonade.uasset" SILENT=true
+[2025.04.08-11.05.55:437][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Lemonade
+[2025.04.08-11.05.55:438][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Lemonade17FFC62A42F3481FB3FD519636BD1006.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Lemonade.uasset'
+[2025.04.08-11.05.55:440][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Milk" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Milk.uasset" SILENT=true
+[2025.04.08-11.05.55:443][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Milk
+[2025.04.08-11.05.55:444][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Milk333495094E57E3551FBB28815FC1F1A6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Milk.uasset'
+[2025.04.08-11.05.55:479][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_OrangeJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_OrangeJuice.uasset" SILENT=true
+[2025.04.08-11.05.55:483][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_OrangeJuice
+[2025.04.08-11.05.55:484][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_OrangeJuiceB1FB591D4FB63EDF5CB4E7BC711BE35E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_OrangeJuice.uasset'
+[2025.04.08-11.05.55:486][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_SportsDrink" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_SportsDrink.uasset" SILENT=true
+[2025.04.08-11.05.55:488][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_SportsDrink
+[2025.04.08-11.05.55:489][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_SportsDrink83B6410F47C5FBD5AC8BFF826FEDE5FF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_SportsDrink.uasset'
+[2025.04.08-11.05.55:490][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Water" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Water.uasset" SILENT=true
+[2025.04.08-11.05.55:494][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Water
+[2025.04.08-11.05.55:494][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Water7D75EC2C4A74577F8F76C69D7F8CC7C4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Water.uasset'
+[2025.04.08-11.05.55:496][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Apple" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Apple.uasset" SILENT=true
+[2025.04.08-11.05.55:499][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Apple
+[2025.04.08-11.05.55:499][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Apple4BD0084846EFDB0169DE978F8D3ED317.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Apple.uasset'
+[2025.04.08-11.05.55:502][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Brownie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset" SILENT=true
+[2025.04.08-11.05.55:506][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Brownie
+[2025.04.08-11.05.55:506][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_BrownieAD7C8C054121ECE3559B9F84B46146D6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset'
+[2025.04.08-11.05.55:508][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Cookie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Cookie.uasset" SILENT=true
+[2025.04.08-11.05.55:512][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Cookie
+[2025.04.08-11.05.55:513][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_CookieF2DB654641EA9C1342462CB4F0650381.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Cookie.uasset'
+[2025.04.08-11.05.55:514][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_FruitSalad" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_FruitSalad.uasset" SILENT=true
+[2025.04.08-11.05.55:517][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_FruitSalad
+[2025.04.08-11.05.55:518][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_FruitSaladE6190D0746A5C5912D3D788189C52050.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_FruitSalad.uasset'
+[2025.04.08-11.05.55:520][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_IceCream" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_IceCream.uasset" SILENT=true
+[2025.04.08-11.05.55:523][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_IceCream
+[2025.04.08-11.05.55:524][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_IceCreamCA51F7FA444C48472AAA9081D71C5E5C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_IceCream.uasset'
+[2025.04.08-11.05.55:525][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Prunes" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Prunes.uasset" SILENT=true
+[2025.04.08-11.05.55:528][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Prunes
+[2025.04.08-11.05.55:529][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_PrunesEBBFF41549871F3BC36D06AD59B188DD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Prunes.uasset'
+[2025.04.08-11.05.55:530][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_VeggieSalad" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_VeggieSalad.uasset" SILENT=true
+[2025.04.08-11.05.55:534][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_VeggieSalad
+[2025.04.08-11.05.55:534][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_VeggieSalad6424D45748865D6DBB38A99F7C542C02.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_VeggieSalad.uasset'
+[2025.04.08-11.05.55:539][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_ChickenWithRice
+[2025.04.08-11.05.55:540][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ChickenWithRice59CDCEB94504B53CCF1233BF3D755653.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_ChickenWithRice.uasset'
+[2025.04.08-11.05.55:540][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Main_Porridge" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_Porridge.uasset" SILENT=true
+[2025.04.08-11.05.55:545][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_Porridge
+[2025.04.08-11.05.55:545][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_PorridgeE99DD44A4F2C9C187D95FDB7849D7955.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_Porridge.uasset'
+[2025.04.08-11.05.55:550][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_ReadyMealPizza
+[2025.04.08-11.05.55:551][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ReadyMealPizzaB015BE3C4906BE45FC2498ABF16D77D2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_ReadyMealPizza.uasset'
+[2025.04.08-11.05.55:553][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_MainToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_MainToastie.uasset" SILENT=true
+[2025.04.08-11.05.55:556][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_MainToastie
+[2025.04.08-11.05.55:557][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_MainToastieE18E7DD84AB79CA03A1AF9AFDAE53AE0.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_MainToastie.uasset'
+[2025.04.08-11.05.55:558][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Canteen" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset" SILENT=true
+[2025.04.08-11.05.55:574][657]LogSavePackage: Moving output files for package: /Game/UI/WBP_Canteen
+[2025.04.08-11.05.55:574][657]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_CanteenDBDA1676458234E1049194AA717E40B4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Canteen.uasset'
+[2025.04.08-11.05.55:581][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 2.83 sec)
+[2025.04.08-11.05.55:588][657]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.08-11.05.55:588][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_Apple.BPC_Extra_Apple
+[2025.04.08-11.05.55:588][657]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_FizzyJuice.BPC_Drink_FizzyJuice
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_Cookie.BPC_Extra_Cookie
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_IceCream.BPC_Extra_IceCream
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_Prunes.BPC_Extra_Prunes
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_Brownie.BPC_Extra_Brownie
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_OrangeJuice.BPC_Drink_OrangeJuice
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_AppleJuice.BPC_Drink_AppleJuice
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_MainToastie.BPC_MainToastie
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_SportsDrink.BPC_Drink_SportsDrink
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Main_Porridge.BPC_Main_Porridge
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_VeggieSalad.BPC_Extra_VeggieSalad
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_Milk.BPC_Drink_Milk
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_Lemonade.BPC_Drink_Lemonade
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Drink_Water.BPC_Drink_Water
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Main_ReadyMealPizza.BPC_Main_ReadyMealPizza
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Main_ChickenWithRice.BPC_Main_ChickenWithRice
+[2025.04.08-11.05.55:590][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BPC_Extra_FruitSalad.BPC_Extra_FruitSalad
