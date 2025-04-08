@@ -1,0 +1,10 @@
+Orange - Fruit - For Fruit Salad and For Orange Juice
+Sweet Corn - For Pizza and For Toastie
+
+Separated Chicken and Rice - Allows chicken to be added to pizza too
+
+Sugar - Not servable - only for cooking for ice cream or making fruit salad unhealthy 
+Strawberry - For fruit salad, for ice cream 
+Lettuce - Not servable, for toastie, for veg salad
+Tomato - for veg salad, for toastie
+Onion - for pizza, for veg salad, not servable
