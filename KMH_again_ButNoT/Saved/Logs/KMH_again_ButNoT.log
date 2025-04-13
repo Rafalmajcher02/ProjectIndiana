@@ -1899,3 +1899,389 @@ Script Stack (0 frames) :
 [2025.04.13-16.02.32:520][761]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Kid.WBP_Kid
 [2025.04.13-16.02.32:520][761]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Main.L_Main
 [2025.04.13-16.02.32:520][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/I_BOx.I_BOx
+[2025.04.13-16.04.11:312][701]LogSlate: Window 'Message Log' being destroyed
+[2025.04.13-16.04.31:392][928]LogEditorViewport: Clicking Background
+[2025.04.13-16.04.52:850][495]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.04.52:868][495]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.04.52:889][496]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.04.57:652][ 24]LogContentBrowser: Attempting asset rename: NewFolder -> BodyTypeA
+[2025.04.13-16.04.57:695][ 24]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.05.00:377][141]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.05.00:401][141]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.05.00:414][142]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.05.02:614][377]LogContentBrowser: Attempting asset rename: NewFolder -> BodyTypeB
+[2025.04.13-16.05.02:623][377]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.05.04:681][532]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.05.04:700][532]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.05.04:719][533]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.05.07:065][788]LogContentBrowser: Attempting asset rename: NewFolder -> BodyTypeC
+[2025.04.13-16.05.07:065][788]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.05.09:358][981]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.05.09:384][981]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.05.09:394][982]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.05.12:145][276]LogContentBrowser: Attempting asset rename: NewFolder -> BodyTypeD
+[2025.04.13-16.05.12:145][276]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.05.14:149][419]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.05.14:166][419]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.05.14:181][420]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.05.16:845][713]LogContentBrowser: Attempting asset rename: NewFolder -> BodyTypeE
+[2025.04.13-16.05.16:846][713]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.05.47:938][702]LogInterchangeEngine: [Pending] Importing
+[2025.04.13-16.05.47:939][702]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.05.47:939][702]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.05.47:940][702]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.05.47:940][702]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.05.47:940][702]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.05.48:165][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:170][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:173][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:175][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:176][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:196][703]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.05.48:339][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_6.I_6 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:344][703]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.05.48:373][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_1.I_1 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:373][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_2.I_2 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:374][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_5.I_5 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:374][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_4.I_4 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:415][703]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.05.48:419][703]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeA/I_3.I_3 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.05.48:419][703]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.05.48:419][703]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.05.48:419][703]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.05.48:419][703]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.13-16.05.48:546][703]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.05.48:657][704]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.08:444][914]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.08:461][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:461][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:461][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:461][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:461][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:467][915]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.08:491][915]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.08:805][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_6.I_6 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:807][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_4.I_4 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:812][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_1.I_1 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:815][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_3.I_3 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:817][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_2.I_2 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:821][915]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeB/I_5.I_5 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.08:822][915]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.08:822][915]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.08:822][915]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.08:822][915]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.08:822][915]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.13-16.06.08:949][916]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.08:973][916]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32162464-4E3E-4C4E-F31C-D09E004CF7AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 0 (Found bundle for host: 0x843a7960db0 [serially])
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 1 (Re-using existing connection #15 with host datarouter.ol.epicgames.com)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.205.147.231) port 443 (#15))
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 6 (Closing connection 15)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: 0000084450014600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.13-16.06.20:413][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32162464-4E3E-4C4E-F31C-D09E004CF7AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.13-16.06.25:680][119]LogInterchangeEngine: [Pending] Importing
+[2025.04.13-16.06.25:680][119]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.25:680][119]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.25:680][119]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.25:682][119]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.25:682][119]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.25:701][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:701][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:701][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:701][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:701][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:702][120]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.25:722][120]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.26:031][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_5.I_5 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:033][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_6.I_6 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:037][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_2.I_2 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:047][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_1.I_1 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:048][120]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.26:048][120]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.26:048][120]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.26:048][120]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.26:048][120]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.13-16.06.26:067][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_4.I_4 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:076][120]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeC/I_3.I_3 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.26:128][120]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.26:193][121]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.40:502][312]LogInterchangeEngine: [Pending] Importing
+[2025.04.13-16.06.40:502][312]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.40:502][312]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.40:502][312]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.40:503][312]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.40:503][312]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.40:517][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:518][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:518][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:518][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:518][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:518][312]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.40:532][313]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.40:532][313]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.40:532][313]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.40:532][313]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.40:532][313]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.13-16.06.40:534][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_5.I_5 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:535][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_1.I_1 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:535][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_2.I_2 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:535][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_6.I_6 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:536][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_3.I_3 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:546][313]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeD/I_4.I_4 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.40:640][313]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.40:657][313]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.54:612][497]LogInterchangeEngine: [Pending] Importing
+[2025.04.13-16.06.54:614][497]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.54:614][497]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.54:614][497]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.54:614][497]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.54:615][497]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.54:630][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:630][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:630][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:630][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:630][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:632][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.13-16.06.54:658][498]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.13-16.06.54:959][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_1.I_1 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.54:960][498]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.13-16.06.54:960][498]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.13-16.06.54:960][498]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.13-16.06.54:960][498]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.13-16.06.54:960][498]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.13-16.06.54:963][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_3.I_3 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.54:965][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_5.I_5 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.54:974][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_4.I_4 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.54:974][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_2.I_2 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.54:974][498]LogTexture: Display: Building textures: /Game/Images/Customers/BodyTypes/BodyTypeE/I_6.I_6 (BGRA8, 375x450 x1x1x1) (Required Memory Estimate: 4.997765 MB), EncodeSpeed: Fast
+[2025.04.13-16.06.55:100][498]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.06.55:184][499]LogInterchangeEngine: [Success] Import Done
+[2025.04.13-16.07.12:165][946]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.07.12:183][946]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.07.12:199][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.07.15:348][290]LogContentBrowser: Attempting asset rename: NewFolder -> Blazer
+[2025.04.13-16.07.15:359][290]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.07.17:775][494]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.13-16.07.17:800][494]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.13-16.07.17:813][495]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.13-16.07.19:938][734]LogContentBrowser: Attempting asset rename: NewFolder -> T-Shirt
+[2025.04.13-16.07.19:939][734]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.13-16.07.40:979][764]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.04.13-16.07.40:989][764]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.04.13-16.07.52:167][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2025.04.13-16.07.53:927][713]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.07.54:423][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.13-16.07.54:509][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.04.13-16.07.54:592][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.13-16.07.56:865][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.13-16.07.57:736][915]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.07.57:839][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.04.13-16.07.57:924][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.04.13-16.07.58:012][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.13-16.08.00:460][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.13-16.08.01:435][112]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.01:537][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.04.13-16.08.01:626][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.04.13-16.08.01:713][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.13-16.08.03:936][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.13-16.08.04:655][316]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.04:750][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.13-16.08.04:833][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.04.13-16.08.04:926][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.13-16.08.07:052][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.13-16.08.07:927][510]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.08:026][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.13-16.08.08:107][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.04.13-16.08.08:206][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.13-16.08.10:510][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.13-16.08.16:237][707]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.20:090][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.13-16.08.20:978][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.21:073][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.04.13-16.08.21:156][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.04.13-16.08.21:242][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.13-16.08.23:160][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.13-16.08.23:845][184]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.23:944][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.13-16.08.24:031][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2025.04.13-16.08.24:120][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.13-16.08.27:637][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.04.13-16.08.29:985][481]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.30:082][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.04.13-16.08.30:166][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2025.04.13-16.08.30:255][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.13-16.08.32:643][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.13-16.08.33:460][684]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.33:595][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.13-16.08.33:691][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.04.13-16.08.33:782][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.13-16.08.35:826][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.13-16.08.36:510][857]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.13-16.08.36:606][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.13-16.08.36:699][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.04.13-16.08.36:805][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.13-16.09.00:461][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.13-16.09.01:409][365]LogSlate: Window 'Save Content' being destroyed
+[2025.04.13-16.09.01:443][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.13-16.09.01:536][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_1
+[2025.04.13-16.09.01:536][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_1E8ACBDB0484A993B9DCB918946F6AD13.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_1.uasset'
+[2025.04.13-16.09.01:547][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_1
+[2025.04.13-16.09.01:547][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_13C7D1E0B4D3965ED63A83C9A506818AF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_1.uasset'
+[2025.04.13-16.09.01:585][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_1
+[2025.04.13-16.09.01:585][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_10097781B442F1EF3F79276AB7038D624.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_1.uasset'
+[2025.04.13-16.09.01:594][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_1
+[2025.04.13-16.09.01:594][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_1FCB69EBC43AB5B0AB58974BA479F8D63.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_1.uasset'
+[2025.04.13-16.09.01:604][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_1
+[2025.04.13-16.09.01:604][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_1305F37604F348B29E28D099E58F91044.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_1.uasset'
+[2025.04.13-16.09.01:614][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_2
+[2025.04.13-16.09.01:614][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_2F2377F0C42B7EA037152A69964BCC85A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_2.uasset'
+[2025.04.13-16.09.01:623][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_2
+[2025.04.13-16.09.01:623][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_2FCFA52E24213595FBF6AEA9532D5B460.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_2.uasset'
+[2025.04.13-16.09.01:633][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_2
+[2025.04.13-16.09.01:633][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_246A451A04AD1253C1F01D58172C7E375.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_2.uasset'
+[2025.04.13-16.09.01:644][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_2
+[2025.04.13-16.09.01:644][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_24C7EE90341B8EAD3E4481EAE92E854A5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_2.uasset'
+[2025.04.13-16.09.01:654][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_2
+[2025.04.13-16.09.01:654][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_292F498DA4D2D0DD532B30AB075F8F016.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_2.uasset'
+[2025.04.13-16.09.01:664][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_3
+[2025.04.13-16.09.01:665][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_3A9551F204463EF868DAF2A90ABCE0E69.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_3.uasset'
+[2025.04.13-16.09.01:694][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_3
+[2025.04.13-16.09.01:695][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_3B74E6ED44D8DF38279B06FB3F176794D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_3.uasset'
+[2025.04.13-16.09.01:709][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_3
+[2025.04.13-16.09.01:709][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_3AA9E7676485D0636BBF03FA7F20E2D51.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_3.uasset'
+[2025.04.13-16.09.01:722][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_3
+[2025.04.13-16.09.01:722][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_34AE152FF487857954A07DEBD36177A57.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_3.uasset'
+[2025.04.13-16.09.01:732][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_3
+[2025.04.13-16.09.01:732][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_320DAC60F48B4D637738B42A784B0EAA6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_3.uasset'
+[2025.04.13-16.09.01:744][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_4
+[2025.04.13-16.09.01:744][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_47D24720F421F5424A7393F90947FF01F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_4.uasset'
+[2025.04.13-16.09.01:752][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_4
+[2025.04.13-16.09.01:752][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_413ABDB80475C14509C04BE868C7D7EB4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_4.uasset'
+[2025.04.13-16.09.01:762][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_4
+[2025.04.13-16.09.01:763][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_46FE6DBA44E29ADA5D88046947BD209CC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_4.uasset'
+[2025.04.13-16.09.01:779][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_4
+[2025.04.13-16.09.01:779][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_4D5A20C5542079CA659908FB82A91A7A5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_4.uasset'
+[2025.04.13-16.09.01:788][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_4
+[2025.04.13-16.09.01:788][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_4DDEF6270492C55650DBD8EBE1D9A7F2F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_4.uasset'
+[2025.04.13-16.09.01:799][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_5
+[2025.04.13-16.09.01:799][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_500E58399433B3740C2EC0D98D7679897.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_5.uasset'
+[2025.04.13-16.09.01:809][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_5
+[2025.04.13-16.09.01:809][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_51643D9E843B0D2A853F06E9E7B5FBFA8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_5.uasset'
+[2025.04.13-16.09.01:819][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_5
+[2025.04.13-16.09.01:819][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_585FEB1564EF46373CFA506A55F97F1FF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_5.uasset'
+[2025.04.13-16.09.01:830][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_5
+[2025.04.13-16.09.01:830][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_54B032E1F45A9B50755D927A95F202D5E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_5.uasset'
+[2025.04.13-16.09.01:839][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_5
+[2025.04.13-16.09.01:839][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_525DFD4674A0574BB28002CB954578852.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_5.uasset'
+[2025.04.13-16.09.01:851][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeB/I_6
+[2025.04.13-16.09.01:851][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_6064F80164DC2023B93169F90EA235C92.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeB/I_6.uasset'
+[2025.04.13-16.09.01:861][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeC/I_6
+[2025.04.13-16.09.01:861][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_6CC28D787480BA28BE255678A13DEA8C4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeC/I_6.uasset'
+[2025.04.13-16.09.01:872][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeD/I_6
+[2025.04.13-16.09.01:872][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_66CB511E242EEA9EF24D2418576B94C17.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeD/I_6.uasset'
+[2025.04.13-16.09.01:894][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeA/I_6
+[2025.04.13-16.09.01:894][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_67BF42B374568329DFBB3A4A5F617079B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeA/I_6.uasset'
+[2025.04.13-16.09.01:927][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/BodyTypeE/I_6
+[2025.04.13-16.09.01:927][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_692A4C95D49F9B5A106B27AABA00278E0.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/BodyTypeE/I_6.uasset'
+[2025.04.13-16.09.01:935][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerClosed
+[2025.04.13-16.09.01:935][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerClosed967EDAD042062DA5C2261EAD05813D4A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerClosed.uasset'
+[2025.04.13-16.09.01:942][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerClosed
+[2025.04.13-16.09.01:943][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerClosed0FB4C2384C1AAEA5DADD3AAC7E31DF02.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerClosed.uasset'
+[2025.04.13-16.09.01:950][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerClosed
+[2025.04.13-16.09.01:951][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerClosed1E4600184EF722CE331FB9B4C0B97A1C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerClosed.uasset'
+[2025.04.13-16.09.01:959][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerClosed
+[2025.04.13-16.09.01:959][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerClosedBBB131CB4ACC6D3E77101681D3BDE7A0.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerClosed.uasset'
+[2025.04.13-16.09.01:965][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerClosed
+[2025.04.13-16.09.01:965][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerClosed54A4381847AFA1208483E894C73B3D85.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerClosed.uasset'
+[2025.04.13-16.09.01:973][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerOpen
+[2025.04.13-16.09.01:973][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerOpenC611B2B44D565A2F7A0895825FC8515E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerOpen.uasset'
+[2025.04.13-16.09.01:982][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerOpen
+[2025.04.13-16.09.01:982][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerOpenABE452FA4E26A454A88DB3A441C45B58.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerOpen.uasset'
+[2025.04.13-16.09.01:989][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerOpen
+[2025.04.13-16.09.01:989][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerOpenE9DEC3CA44D778DFA735E1949D3326E7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerOpen.uasset'
+[2025.04.13-16.09.01:996][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerOpen
+[2025.04.13-16.09.01:997][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerOpen8D479A004B83E674CCAFF5974FC1EEA2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerOpen.uasset'
+[2025.04.13-16.09.02:005][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerOpen
+[2025.04.13-16.09.02:005][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_BlazerOpen4BC69BA344325577D90656A2EFD43458.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerOpen.uasset'
+[2025.04.13-16.09.02:012][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_Long-Sleeve
+[2025.04.13-16.09.02:012][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_Long-Sleeve7EB193624BBC3548EE76F3A9DA4BC48B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_Long-Sleeve.uasset'
+[2025.04.13-16.09.02:020][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_LongSleeve
+[2025.04.13-16.09.02:020][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_LongSleeve30B3DEF0482B6FA55A14249AE24AF021.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_LongSleeve.uasset'
+[2025.04.13-16.09.02:028][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_LongSleeve
+[2025.04.13-16.09.02:028][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_LongSleeve20D2A2B2447A951E7DA64AB73FC765CF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_LongSleeve.uasset'
+[2025.04.13-16.09.02:037][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_LongSleeve
+[2025.04.13-16.09.02:037][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_LongSleeveAB9C3DD247814F83CA27A1B35FDD4D5A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_LongSleeve.uasset'
+[2025.04.13-16.09.02:044][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_LongSleeve
+[2025.04.13-16.09.02:044][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_LongSleeveA2BEB7E34C9DC0017DB8EEB356ED4BEE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_LongSleeve.uasset'
+[2025.04.13-16.09.02:054][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_T-Shirt
+[2025.04.13-16.09.02:054][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_T-ShirtCC3A6B7B474674749D1E5EB2D53C24BC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_T-Shirt.uasset'
+[2025.04.13-16.09.02:060][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_T-Shirt
+[2025.04.13-16.09.02:060][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_T-ShirtE1EE4A12486ADCDF64023997CF60FDB6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_T-Shirt.uasset'
+[2025.04.13-16.09.02:067][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_T-Shirt
+[2025.04.13-16.09.02:067][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_T-Shirt589533C74EACA692A02B21A791C8338F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_T-Shirt.uasset'
+[2025.04.13-16.09.02:076][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_T-Shirt
+[2025.04.13-16.09.02:076][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_T-Shirt1E7EF5754534BECCF98BD291985F40E6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_T-Shirt.uasset'
+[2025.04.13-16.09.02:082][365]LogSavePackage: Moving output files for package: /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_T-Shirt
+[2025.04.13-16.09.02:082][365]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/I_T-Shirt47BE628C41B53CC6A0E7E4A8CE71CDE3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_T-Shirt.uasset'
+[2025.04.13-16.09.02:103][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 660 ms (total: 4.46 sec)
+[2025.04.13-16.09.02:127][365]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_5.I_5
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_4.I_4
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_6.I_6
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_T-Shirt.I_T-Shirt
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_E_Cloths/I_Long-Sleeve.I_Long-Sleeve
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_T-Shirt.I_T-Shirt
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_D_Cloths/I_LongSleeve.I_LongSleeve
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_T-Shirt.I_T-Shirt
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_C_Cloths/I_LongSleeve.I_LongSleeve
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_T-Shirt.I_T-Shirt
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_B_Cloths/I_LongSleeve.I_LongSleeve
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_T-Shirt.I_T-Shirt
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/T-Shirt/Type_A_Cloths/I_LongSleeve.I_LongSleeve
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerOpen.I_BlazerOpen
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_E_Cloths/I_BlazerClosed.I_BlazerClosed
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerOpen.I_BlazerOpen
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_D_Cloths/I_BlazerClosed.I_BlazerClosed
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerOpen.I_BlazerOpen
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_C_Cloths/I_BlazerClosed.I_BlazerClosed
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerOpen.I_BlazerOpen
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_6.I_6
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_5.I_5
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_4.I_4
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_2.I_2
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_1.I_1
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_3.I_3
+[2025.04.13-16.09.02:127][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_2.I_2
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeE/I_1.I_1
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_B_Cloths/I_BlazerClosed.I_BlazerClosed
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerOpen.I_BlazerOpen
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/Cloths/Blazer/Type_A_Cloths/I_BlazerClosed.I_BlazerClosed
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_5.I_5
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_6.I_6
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_4.I_4
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_3.I_3
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_2.I_2
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeD/I_1.I_1
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_6.I_6
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_5.I_5
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_4.I_4
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_3.I_3
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_2.I_2
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeC/I_1.I_1
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_3.I_3
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_2.I_2
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_1.I_1
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_6.I_6
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_5.I_5
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeA/I_4.I_4
+[2025.04.13-16.09.02:128][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Customers/BodyTypes/BodyTypeB/I_3.I_3
