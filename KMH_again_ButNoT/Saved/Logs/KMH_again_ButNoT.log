@@ -20829,3 +20829,150 @@ Health 0.5 Happyness
 [2025.04.17-15.33.37:267][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 8.47 sec)
 [2025.04.17-15.33.37:278][565]AssetCheck: New page: Asset Save: WBP_TraySlot
 [2025.04.17-15.33.37:279][565]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.04.17-15.39.39:657][781]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.39.43:059][ 32]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.39.53:812][976]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.02:482][674]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.11:656][448]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.19:516][ 85]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.30:806][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.37:615][579]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.43:592][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.49:982][544]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.40.58:258][199]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.41.08:677][ 69]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.41.14:536][534]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.42.03:823][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.04.17-15.42.03:828][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.090
+[2025.04.17-15.42.03:958][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.04.17-15.42.03:960][559]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.04.17-15.42.03:961][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.04.17-15.42.03:961][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.04.17-15.42.04:046][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto7
+[2025.04.17-15.42.04:046][559]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto7569CEEBA4D2ECDF4C572EBA535E6478D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto7.uasset'
+[2025.04.17-15.42.04:047][559]LogFileHelpers: Auto-saving content packages took 0.217
+[2025.04.17-15.42.12:452][625]BlueprintLog: New page: Compile WBP_TraySlot
+[2025.04.17-15.42.12:602][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.17-15.42.13:146][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.42.13:346][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
+[2025.04.17-15.42.13:417][642]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_TraySlot
+[2025.04.17-15.42.13:419][642]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot84A333E64DFA8F3AFBD7008DB97A36A7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset'
+[2025.04.17-15.42.13:439][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 8.77 sec)
+[2025.04.17-15.42.13:455][642]AssetCheck: New page: Asset Save: WBP_TraySlot
+[2025.04.17-15.42.13:455][642]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot
+[2025.04.17-15.42.15:430][743]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.42.15:431][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.42.15:480][743]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.42.15:480][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.45.58:909][331]LogEditorTransaction: Undo Move Node
+[2025.04.17-15.47.03:210][917]LogEditorTransaction: Undo Break Pin Links
+[2025.04.17-15.50.07:431][247]LogEditorTransaction: Undo Move Nodes
+[2025.04.17-15.53.03:361][  0]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.53.09:645][584]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.53.20:485][525]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.53.27:683][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.54.00:982][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.04.17-15.54.00:996][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.097
+[2025.04.17-15.54.00:997][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PickUps/WBP_PickUpToTray] ([2] browsable assets)...
+[2025.04.17-15.54.01:000][ 53]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray]
+[2025.04.17-15.54.01:001][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PickUps/WBP_PickUpToTray]
+[2025.04.17-15.54.01:065][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto8
+[2025.04.17-15.54.01:067][ 53]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray_Auto8C7B04D2E45394230993CAAA57DF24C66.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto8.uasset'
+[2025.04.17-15.54.01:088][ 53]LogFileHelpers: Auto-saving content packages took 0.092
+[2025.04.17-15.54.39:428][919]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.54.48:110][662]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.00:368][809]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.09:250][617]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.14:592][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.26:293][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.35:623][769]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.44:018][426]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.54:444][297]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.55.59:092][716]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.56.06:200][314]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.56.10:398][661]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.56.15:155][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-15.56.19:910][450]BlueprintLog: New page: Compile WBP_PickUpToTray
+[2025.04.17-15.56.20:099][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.04.17-15.56.20:407][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.56.20:503][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.04.17-15.56.20:533][453]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.04.17-15.56.20:533][453]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray90F059D544F6DC3E53C344B4F346F8AD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.04.17-15.56.20:550][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 8.91 sec)
+[2025.04.17-15.56.20:560][453]AssetCheck: New page: Asset Save: WBP_PickUpToTray
+[2025.04.17-15.56.20:560][453]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray
+[2025.04.17-15.56.22:144][547]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.56.22:144][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.56.22:159][547]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.56.22:160][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.57.15:602][640]BlueprintLog: New page: Compile GMB_2D_CanteenGameMode
+[2025.04.17-15.57.15:742][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.17-15.57.16:293][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.57.16:382][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.17-15.57.16:431][656]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.17-15.57.16:431][656]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode2D2BC5944F244D261E0236B9A877FE13.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.17-15.57.16:449][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.06 sec)
+[2025.04.17-15.57.16:457][656]AssetCheck: New page: Asset Save: GMB_2D_CanteenGameMode
+[2025.04.17-15.57.16:457][656]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/GMB_2D_CanteenGameMode.GMB_2D_CanteenGameMode
+[2025.04.17-15.57.17:435][714]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.57.17:436][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.57.21:963][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.17-15.57.21:963][114]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.57.21:963][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.57.25:947][491]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.57.25:947][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.57.25:957][491]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.57.25:957][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.57.27:275][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.17-15.57.28:038][522]LogSlate: Window 'Save Content' being destroyed
+[2025.04.17-15.57.28:062][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.57.28:148][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Main" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-15.57.28:176][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.04.17-15.57.28:183][522]LogSavePackage: Moving output files for package: /Game/Maps/L_Main
+[2025.04.17-15.57.28:183][522]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/L_MainD70DE39743E62A607475F8928B8C808D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Maps/L_Main.umap'
+[2025.04.17-15.57.28:203][522]LogFileHelpers: Saving map 'L_Main' took 0.056
+[2025.04.17-15.57.28:220][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 9.22 sec)
+[2025.04.17-15.57.28:232][522]AssetCheck: New page: Asset Save: L_Main
+[2025.04.17-15.57.28:232][522]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Main.L_Main
+[2025.04.17-15.58.04:321][696]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.794 and deleted 88 files with total size 0 MiB. Scanned 3994 files in 3978 folders with total size 334 MiB.
+[2025.04.17-16.17.20:260][407]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2025.04.17-16.17.20:603][407]LogStall: Shutdown...
+[2025.04.17-16.17.21:196][407]LogStall: Shutdown complete.
+[2025.04.17-16.17.24:378][407]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.04.17-16.17.47:212][408]Cmd: QUIT_EDITOR
+[2025.04.17-16.17.47:246][408]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.17-16.17.47:862][408]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.17-16.17.48:114][408]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.17-16.17.48:168][408]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.17-16.17.49:603][408]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-16.17.50:027][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-16.17.52:322][408]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.17-16.17.52:936][408]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.17-16.18.00:667][408]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.17-16.18.00:668][408]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.17-16.18.00:686][408]LogAudio: Display: Audio Device unregistered from world 'L_Main'.
+[2025.04.17-16.18.01:155][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-16.18.01:436][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-16.18.02:360][408]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.17-16.18.02:877][408]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.17-16.18.02:909][408]LogExit: Preparing to exit.
+[2025.04.17-16.18.05:683][408]LogUObjectHash: Compacting FUObjectHashTables data took  11.71ms
+[2025.04.17-16.18.05:703][408]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.05:703][408]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:012][408]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:053][408]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-16.18.06:069][408]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
