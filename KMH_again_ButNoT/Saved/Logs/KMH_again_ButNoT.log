@@ -1088,3 +1088,299 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-16.55.02:794][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 756 ms)
 [2025.04.20-16.55.02:801][689]AssetCheck: New page: Asset Save: MenuBackground
 [2025.04.20-16.55.02:801][689]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/MenuBackground.MenuBackground
+[2025.04.20-16.55.37:354][778]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.37:378][779]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.37:760][785]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.37:864][786]LogTexture: Display: Building textures: /Game/Images/4UI/SettingsBackground.SettingsBackground (TFO_AutoDXT, 1216x684 x1x1x1) (Required Memory Estimate: 114.771484 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.37:873][786]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.37:947][787]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.39:725][923]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.39:735][924]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.39:761][924]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.39:763][924]LogTexture: Display: Building textures: /Game/Images/4UI/StorageItemSlot.StorageItemSlot (BGRA8, 300x165 x1x1x1) (Required Memory Estimate: 1.510178 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.39:771][924]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.39:828][925]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.40:976][974]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.40:986][975]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.41:010][975]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.41:012][975]LogTexture: Display: Building textures: /Game/Images/4UI/StorageItemSlot2.StorageItemSlot2 (BGRA8, 300x165 x1x1x1) (Required Memory Estimate: 1.510178 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.41:019][975]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.41:094][976]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.43:553][ 31]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.43:573][ 32]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.43:593][ 32]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.43:886][ 32]LogTexture: Display: Building textures: /Game/Images/4UI/StorageMenuBackground.StorageMenuBackground (TFO_AutoDXT, 1280x720 x1x1x1) (Required Memory Estimate: 118.65625 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.43:896][ 32]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.43:964][ 33]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.45:229][ 75]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.45:240][ 76]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.45:260][ 76]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.45:561][ 76]LogTexture: Display: Building textures: /Game/Images/4UI/ThoughtBubble.ThoughtBubble (BGRA8, 350x350 x1x1x1) (Required Memory Estimate: 3.64513 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.45:571][ 76]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.45:626][ 77]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.46:856][113]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.46:866][114]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.46:883][114]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.47:189][114]LogTexture: Display: Building textures: /Game/Images/4UI/ItemBox.ItemBox (BGRA8, 150x165 x1x1x1) (Required Memory Estimate: 0.786339 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.47:197][114]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.47:264][115]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.50:437][144]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.55.50:679][144]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.55.50:683][144]LogTexture: Display: Building textures: /Game/Images/4UI/SettingsBar.SettingsBar (BGRA8, 239x953 x1x1x1) (Required Memory Estimate: 6.72377 MB), EncodeSpeed: Fast
+[2025.04.20-16.55.50:711][144]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.55.50:744][145]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.56.09:144][257]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-16.56.09:144][257]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-16.56.09:144][257]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-16.56.09:144][257]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-16.56.09:144][257]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.20-16.56.09:157][258]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.56.09:157][258]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.56.09:157][258]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.56.09:157][258]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.56.09:157][258]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-16.56.09:176][258]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.20-16.56.09:477][258]LogTexture: Display: Building textures: /Game/Images/4UI/Statistics.Statistics (BGRA8, 172x150 x1x1x1) (Required Memory Estimate: 0.817047 MB), EncodeSpeed: Fast
+[2025.04.20-16.56.09:478][258]LogTexture: Display: Building textures: /Game/Images/4UI/Resume.Resume (BGRA8, 172x150 x1x1x1) (Required Memory Estimate: 0.817047 MB), EncodeSpeed: Fast
+[2025.04.20-16.56.09:479][258]LogTexture: Display: Building textures: /Game/Images/4UI/Settings.Settings (BGRA8, 172x150 x1x1x1) (Required Memory Estimate: 0.817047 MB), EncodeSpeed: Fast
+[2025.04.20-16.56.09:481][258]LogTexture: Display: Building textures: /Game/Images/4UI/Stocks.Stocks (BGRA8, 172x150 x1x1x1) (Required Memory Estimate: 0.817047 MB), EncodeSpeed: Fast
+[2025.04.20-16.56.09:483][258]LogTexture: Display: Building textures: /Game/Images/4UI/Quit.Quit (BGRA8, 172x150 x1x1x1) (Required Memory Estimate: 0.817047 MB), EncodeSpeed: Fast
+[2025.04.20-16.56.09:483][258]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-16.56.09:483][258]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-16.56.09:483][258]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-16.56.09:483][258]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.20-16.56.09:521][258]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.56.09:576][259]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: ================================================
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: Total job queries 10, among them cache hits 0 (0.00%)
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.20-16.56.16:801][280]LogShaderCompilers: Display: ================================================
+[2025.04.20-16.56.21:014][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.20-16.56.21:839][445]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-16.56.21:853][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-16.56.21:933][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/ItemBox" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/ItemBox.uasset" SILENT=true
+[2025.04.20-16.56.21:934][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/ItemBox
+[2025.04.20-16.56.21:935][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/ItemBox5F27A8A94747839C4561FCB66AF63EED.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/ItemBox.uasset'
+[2025.04.20-16.56.21:938][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Quit" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Quit.uasset" SILENT=true
+[2025.04.20-16.56.21:940][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/Quit
+[2025.04.20-16.56.21:940][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Quit8B5A4BEC4E4808789F1B02AAE5433858.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Quit.uasset'
+[2025.04.20-16.56.21:943][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Resume" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Resume.uasset" SILENT=true
+[2025.04.20-16.56.21:946][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/Resume
+[2025.04.20-16.56.21:946][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Resume1233025C410B1D20232255B135719575.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Resume.uasset'
+[2025.04.20-16.56.21:948][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Settings" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Settings.uasset" SILENT=true
+[2025.04.20-16.56.21:951][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/Settings
+[2025.04.20-16.56.21:951][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SettingsC42F5C384D101FB917E3D69658E3798E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Settings.uasset'
+[2025.04.20-16.56.21:953][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/SettingsBackground" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SettingsBackground.uasset" SILENT=true
+[2025.04.20-16.56.21:966][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/SettingsBackground
+[2025.04.20-16.56.21:966][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SettingsBackground09DED27F4810E27C58222EA9EFE19080.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SettingsBackground.uasset'
+[2025.04.20-16.56.21:970][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/SettingsBar" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SettingsBar.uasset" SILENT=true
+[2025.04.20-16.56.21:976][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/SettingsBar
+[2025.04.20-16.56.21:977][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SettingsBarE85D26234135C3FE8B158BAD2E611694.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SettingsBar.uasset'
+[2025.04.20-16.56.21:989][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Statistics" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Statistics.uasset" SILENT=true
+[2025.04.20-16.56.21:991][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/Statistics
+[2025.04.20-16.56.21:991][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Statistics71E153A8447542E60FA655A2B8845FB9.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Statistics.uasset'
+[2025.04.20-16.56.21:993][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Stocks" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Stocks.uasset" SILENT=true
+[2025.04.20-16.56.21:996][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/Stocks
+[2025.04.20-16.56.21:996][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/StocksAF04AC8B44F434A7189A07A07AF9C75E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Stocks.uasset'
+[2025.04.20-16.56.21:998][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/StorageItemSlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageItemSlot.uasset" SILENT=true
+[2025.04.20-16.56.22:001][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/StorageItemSlot
+[2025.04.20-16.56.22:001][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/StorageItemSlotF022A8A04D1AA18F99EAF4BD495C8030.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageItemSlot.uasset'
+[2025.04.20-16.56.22:004][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/StorageItemSlot2" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageItemSlot2.uasset" SILENT=true
+[2025.04.20-16.56.22:007][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/StorageItemSlot2
+[2025.04.20-16.56.22:007][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/StorageItemSlot240A3CDF546E13C7C2E77CDB971B14281.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageItemSlot2.uasset'
+[2025.04.20-16.56.22:009][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/StorageMenuBackground" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageMenuBackground.uasset" SILENT=true
+[2025.04.20-16.56.22:044][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/StorageMenuBackground
+[2025.04.20-16.56.22:045][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/StorageMenuBackground577F686841324DB82CAD578D431CF472.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/StorageMenuBackground.uasset'
+[2025.04.20-16.56.22:047][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/ThoughtBubble" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/ThoughtBubble.uasset" SILENT=true
+[2025.04.20-16.56.22:052][445]LogSavePackage: Moving output files for package: /Game/Images/4UI/ThoughtBubble
+[2025.04.20-16.56.22:052][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/ThoughtBubble43EE77304DE150C35941D8B1EB87B80A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/ThoughtBubble.uasset'
+[2025.04.20-16.56.22:071][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 973 ms)
+[2025.04.20-16.56.22:078][445]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.20-16.56.22:078][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/SettingsBar.SettingsBar
+[2025.04.20-16.56.22:078][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Resume.Resume
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Quit.Quit
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Stocks.Stocks
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Statistics.Statistics
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Settings.Settings
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/ItemBox.ItemBox
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/ThoughtBubble.ThoughtBubble
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/StorageMenuBackground.StorageMenuBackground
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/StorageItemSlot2.StorageItemSlot2
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/StorageItemSlot.StorageItemSlot
+[2025.04.20-16.56.22:079][445]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/SettingsBackground.SettingsBackground
+[2025.04.20-16.56.57:945][472]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.20-16.56.58:009][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.20-16.56.58:477][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-16.56.58:543][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.04.20-16.56.58:550][510]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.04.20-16.56.58:551][510]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageFE042E78437D7870B06EC1BCA5BA7206.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.04.20-16.56.58:564][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.05 sec)
+[2025.04.20-16.56.58:572][510]AssetCheck: New page: Asset Save: WBP_Storage
+[2025.04.20-16.56.58:573][510]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.20-16.57.01:092][730]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.57.01:092][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.57.01:128][730]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.57.01:128][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.57.10:948][828]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.20-16.57.10:949][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.57.10:961][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.57.11:957][828]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.57.11:957][828]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.31:024][413]BlueprintLog: New page: Compile WBP_Settings
+[2025.04.20-16.58.31:200][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.04.20-16.58.31:597][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-16.58.31:669][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Settings" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset" SILENT=true
+[2025.04.20-16.58.31:696][444]LogSavePackage: Moving output files for package: /Game/UI/WBP_Settings
+[2025.04.20-16.58.31:696][444]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Settings96A64E30408E01F95C461EA7686ABD45.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Settings.uasset'
+[2025.04.20-16.58.31:710][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.17 sec)
+[2025.04.20-16.58.31:724][444]AssetCheck: New page: Asset Save: WBP_Settings
+[2025.04.20-16.58.31:724][444]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.20-16.58.32:587][540]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.32:587][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.32:596][540]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.32:596][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.37:678][ 41]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-16.58.37:678][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.37:686][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.38:105][ 41]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.38:105][ 41]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.40:366][260]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.40:366][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.40:375][260]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.40:375][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.41:164][328]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Settings.WBP_Settings
+[2025.04.20-16.58.41:165][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.41:171][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.41:584][328]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.41:584][328]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.45:937][782]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Statistics.WBP_Statistics
+[2025.04.20-16.58.45:938][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.45:951][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.58.46:383][782]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.46:383][782]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.58.47:573][904]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.47:573][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.47:589][904]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.47:590][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.56:605][915]BlueprintLog: New page: Compile WBP_Statistics
+[2025.04.20-16.58.56:749][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.04.20-16.58.57:147][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-16.58.57:222][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Statistics" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Statistics.uasset" SILENT=true
+[2025.04.20-16.58.57:225][954]LogSavePackage: Moving output files for package: /Game/UI/WBP_Statistics
+[2025.04.20-16.58.57:226][954]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Statistics2E88213C41EA8D4745CCF18E88D2B558.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Statistics.uasset'
+[2025.04.20-16.58.57:245][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.27 sec)
+[2025.04.20-16.58.57:253][954]AssetCheck: New page: Asset Save: WBP_Statistics
+[2025.04.20-16.58.57:253][954]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Statistics.WBP_Statistics
+[2025.04.20-16.58.58:071][ 35]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.58:072][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.58.58:079][ 35]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-16.58.58:079][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-16.59.02:725][553]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-16.59.02:725][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.59.02:731][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-16.59.03:142][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.59.03:142][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-16.59.09:481][241]LogSlate: Took 0.028775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.04.20-16.59.15:409][633]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-16.59.15:483][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.20-16.59.15:924][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-16.59.16:019][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-16.59.16:046][648]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-16.59.16:047][648]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PausedBAC4069D495BEDDDCAD678A8E2A2B42A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-16.59.16:059][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1.40 sec)
+[2025.04.20-16.59.16:068][648]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.20-16.59.16:068][648]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-16.59.29:660][862]LogEditorTransaction: Undo Paste clipboard contents
+[2025.04.20-17.01.38:279][729]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Total job queries 95, among them cache hits 10 (10.53%)
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 36 distinct outputs (43.90%)
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Shaders Compiled: 50
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Jobs assigned 53, completed 50 (94.34%)
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Average time worker was idle: 25.22 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.33 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 3.34 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.44
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.67 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Average processing rate: 4.29 jobs/sec
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Total thread time: 28.67 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Total thread preprocess time: 1.82 s
+[2025.04.20-17.01.38:280][729]LogShaderCompilers: Display: Percentage time preprocessing: 6.34%
+[2025.04.20-17.01.38:296][729]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.20-17.01.38:296][729]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.04.20-17.01.38:296][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.70 sec, max 0.84 sec, min 0.59 sec)
+[2025.04.20-17.01.38:296][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 0.66 sec, max 0.81 sec, min 0.53 sec)
+[2025.04.20-17.01.38:296][729]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   12 times, average 0.60 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   13 times, average 0.40 sec, max 0.47 sec, min 0.32 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.36% of total time (compiled   12 times, average 0.70 sec, max 0.84 sec, min 0.59 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.71% of total time (compiled   12 times, average 0.66 sec, max 0.81 sec, min 0.53 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.00% of total time (compiled   12 times, average 0.60 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.93% of total time (compiled   13 times, average 0.40 sec, max 0.47 sec, min 0.32 sec)
+[2025.04.20-17.01.38:297][729]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.02.03:061][842]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-17.02.03:209][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.04.20-17.02.03:631][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.02.03:713][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-17.02.03:729][880]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-17.02.03:729][880]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PausedE675ABFB407AF89AE5A0D08FABA16F31.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-17.02.03:743][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.51 sec)
+[2025.04.20-17.02.03:754][880]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.20-17.02.03:754][880]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-17.02.12:024][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.20-17.03.07:303][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.03.08:753][180]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-17.03.08:843][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.20-17.03.10:025][294]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.03.10:070][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.04.20-17.03.11:753][294]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.03.11:768][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.03.11:845][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-17.03.11:860][294]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-17.03.11:861][294]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PausedFF2A2DE74186DD1CCEFAF9A75513DDB1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-17.03.11:877][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.62 sec)
+[2025.04.20-17.03.11:900][295]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.20-17.03.11:900][295]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-17.03.35:284][268]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.03.35:331][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.20-17.04.16:728][718]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-17.04.16:819][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.20-17.04.17:218][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.04.17:290][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-17.04.17:305][754]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-17.04.17:306][754]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused1D521B4D4CD4D3CEA986A0977570F3A6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-17.04.17:319][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.73 sec)
+[2025.04.20-17.04.17:327][754]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.20-17.04.17:327][754]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-17.04.35:612][735]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-17.04.35:708][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.20-17.04.36:047][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.04.36:132][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-17.04.36:148][758]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-17.04.36:148][758]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PausedA208197247D9DFFF5BB51EB4F130C4C6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-17.04.36:162][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.84 sec)
+[2025.04.20-17.04.36:170][758]AssetCheck: New page: Asset Save: WBP_Paused
+[2025.04.20-17.04.36:170][758]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-17.04.37:110][838]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.04.37:169][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 0 (Found bundle for host: 0x93a4a160c30 [serially])
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.227.186.253) port 443 (#2))
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 6 (Closing connection 2)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.20-17.05.33:540][233]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-17.07.32:097][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
