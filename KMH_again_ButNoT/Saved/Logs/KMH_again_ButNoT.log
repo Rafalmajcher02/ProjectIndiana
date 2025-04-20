@@ -1407,3 +1407,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-17.10.45:514][755]AssetCheck: New page: Asset Save: multiple assets
 [2025.04.20-17.10.45:514][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
 [2025.04.20-17.10.45:523][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.20-17.17.10:191][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Kid.WBP_Kid
+[2025.04.20-17.17.10:192][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.17.10:198][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.17.10:616][409]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.17.10:616][409]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.20.21:235][279]BlueprintLog: New page: Compile WBP_Kid
+[2025.04.20-17.20.21:342][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.04.20-17.20.21:806][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.20.21:865][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Kid" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Kid.uasset" SILENT=true
+[2025.04.20-17.20.21:912][304]LogSavePackage: Moving output files for package: /Game/UI/WBP_Kid
+[2025.04.20-17.20.21:913][304]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_KidE752E335456A3553288EBCBE1EFF5052.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Kid.uasset'
+[2025.04.20-17.20.21:936][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.08 sec)
+[2025.04.20-17.20.21:943][304]AssetCheck: New page: Asset Save: WBP_Kid
+[2025.04.20-17.20.21:943][304]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Kid.WBP_Kid
+[2025.04.20-17.20.22:743][373]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.22:743][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.22:754][373]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.22:754][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.28:770][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
