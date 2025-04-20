@@ -1673,3 +1673,358 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-17.31.26:557][670]LogSlate: Window 'I_Toastie' being destroyed
 [2025.04.20-17.31.26:572][670]LogSlate: Window 'I_Toastie' being destroyed
 [2025.04.20-17.31.33:781][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.20-17.35.33:469][733]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-17.35.33:469][733]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-17.35.33:481][734]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.35.33:481][734]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.35.33:509][734]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-17.35.33:513][734]LogTexture: Display: Building textures: /Game/Images/4UI/Buy.Buy (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.35.33:515][734]LogTexture: Display: Building textures: /Game/Images/4UI/Sell.Sell (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.35.33:515][734]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.20-17.35.33:538][734]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-17.35.33:614][735]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-17.36.15:491][ 35]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-17.36.15:692][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.04.20-17.36.16:732][125]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.36.16:787][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.04.20-17.36.18:698][125]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.36.18:731][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.36.18:800][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Buy" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Buy.uasset" SILENT=true
+[2025.04.20-17.36.18:828][125]LogSavePackage: Moving output files for package: /Game/Images/4UI/Buy
+[2025.04.20-17.36.18:828][125]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuyBAE6AC05413CA54164C2B4AB41EF9DF8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Buy.uasset'
+[2025.04.20-17.36.18:833][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/Sell" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Sell.uasset" SILENT=true
+[2025.04.20-17.36.18:835][125]LogSavePackage: Moving output files for package: /Game/Images/4UI/Sell
+[2025.04.20-17.36.18:835][125]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SellAA12E8F2472FC359CC8AC498B7C0446B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/Sell.uasset'
+[2025.04.20-17.36.18:841][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-17.36.18:876][125]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-17.36.18:877][125]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem3C5AAD0644E04A0BB9B7B5B1C2E4F255.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-17.36.18:896][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.78 sec)
+[2025.04.20-17.36.18:927][126]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.20-17.36.18:927][126]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.36.18:927][126]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Sell.Sell
+[2025.04.20-17.36.18:927][126]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/Buy.Buy
+[2025.04.20-17.36.47:727][ 95]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-17.36.47:926][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.04.20-17.36.48:879][167]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.36.48:933][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.04.20-17.36.50:235][167]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.36.50:249][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.36.50:323][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-17.36.50:356][167]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-17.36.50:357][167]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem178AD3C34F7CC669D1ADE1A92C235CE6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-17.36.50:369][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.90 sec)
+[2025.04.20-17.36.50:391][168]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-17.36.50:391][168]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 0 (Found bundle for host: 0x93a4a1609f0 [serially])
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.62.17) port 443 (#8))
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 6 (Closing connection 8)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: 0000093A98245000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.20-17.41.18:820][247]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-17.42.30:835][463]LogHttp: Warning: 0000093A98243200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-17.42.30:835][463]LogHttp: Warning: 0000093A98243200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.20-17.42.30:835][463]LogHttp: Warning: 0000093A98243200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.20-17.42.30:835][463]LogHttp: Warning: 0000093A98243200: libcurl info message cache 1 (Closing connection 9)
+[2025.04.20-17.42.30:835][463]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-17.42.33:828][471]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.42.35:874][477]LogUdpMessaging: Display: Added local interface '192.168.13.24' to multicast group '230.0.0.1:6666'
+[2025.04.20-17.42.49:900][520]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.06:300][567]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.08:299][573]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.10:300][579]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.12:165][585]LogUdpMessaging: Display: Added local interface '192.168.1.193' to multicast group '230.0.0.1:6666'
+[2025.04.20-17.43.12:301][585]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.14:084][591]LogUdpMessaging: Display: Added local interface '192.168.1.193' to multicast group '230.0.0.1:6666'
+[2025.04.20-17.43.14:301][591]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.16:205][597]LogUdpMessaging: Display: Added local interface '192.168.1.193' to multicast group '230.0.0.1:6666'
+[2025.04.20-17.43.16:476][597]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.20-17.43.19:027][603]LogUdpMessaging: Display: Added local interface '192.168.1.193' to multicast group '230.0.0.1:6666'
+[2025.04.20-17.47.34:287][369]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.470 and deleted 0 files with total size 0 MiB. Scanned 3980 files in 3963 folders with total size 327 MiB.
+[2025.04.20-18.09.05:809][551]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-18.09.05:809][551]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-18.09.05:810][551]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-18.09.05:810][551]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-18.09.05:821][552]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-18.09.05:821][552]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-18.09.05:822][552]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-18.09.05:856][552]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-18.09.06:148][552]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-18.09.06:152][552]LogTexture: Display: Building textures: /Game/Images/4UI/SellL.SellL (BGRA8, 70x60 x1x1x1) (Required Memory Estimate: 0.185333 MB), EncodeSpeed: Fast
+[2025.04.20-18.09.06:154][552]LogTexture: Display: Building textures: /Game/Images/4UI/SellR.SellR (BGRA8, 70x60 x1x1x1) (Required Memory Estimate: 0.185333 MB), EncodeSpeed: Fast
+[2025.04.20-18.09.06:157][552]LogTexture: Display: Building textures: /Game/Images/4UI/BuyR.BuyR (BGRA8, 70x60 x1x1x1) (Required Memory Estimate: 0.185333 MB), EncodeSpeed: Fast
+[2025.04.20-18.09.06:160][552]LogTexture: Display: Building textures: /Game/Images/4UI/BuyL.BuyL (BGRA8, 70x60 x1x1x1) (Required Memory Estimate: 0.185333 MB), EncodeSpeed: Fast
+[2025.04.20-18.09.06:161][552]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-18.09.06:161][552]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-18.09.06:161][552]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.20-18.09.06:207][552]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-18.09.06:276][553]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-18.10.37:750][537]LogEditorTransaction: Undo Paste clipboard contents
+[2025.04.20-18.11.11:271][885]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.11.11:499][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2025.04.20-18.11.13:665][102]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.11.13:721][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.04.20-18.11.15:080][102]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.11.15:096][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.11.15:171][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuyL" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuyL.uasset" SILENT=true
+[2025.04.20-18.11.15:173][102]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuyL
+[2025.04.20-18.11.15:173][102]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuyLE03801334395BDBD4DA2DD941984181F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuyL.uasset'
+[2025.04.20-18.11.15:175][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuyR" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuyR.uasset" SILENT=true
+[2025.04.20-18.11.15:187][102]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuyR
+[2025.04.20-18.11.15:187][102]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuyRF10CBB5A4D718111A8872A8DF3D2AE6F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuyR.uasset'
+[2025.04.20-18.11.15:190][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/SellL" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SellL.uasset" SILENT=true
+[2025.04.20-18.11.15:198][102]LogSavePackage: Moving output files for package: /Game/Images/4UI/SellL
+[2025.04.20-18.11.15:199][102]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SellL9DA5EE194BCF056FB09C6BA200430D24.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SellL.uasset'
+[2025.04.20-18.11.15:201][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/SellR" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SellR.uasset" SILENT=true
+[2025.04.20-18.11.15:204][102]LogSavePackage: Moving output files for package: /Game/Images/4UI/SellR
+[2025.04.20-18.11.15:204][102]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/SellR5AB4CA32426DF821DD36968A669EAF25.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/SellR.uasset'
+[2025.04.20-18.11.15:209][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.11.15:244][102]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.11.15:245][102]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem5ECAA1004392C4CEC8EAEAA2CCAB1BCD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.11.15:260][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.07 sec)
+[2025.04.20-18.11.15:290][103]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.20-18.11.15:290][103]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.11.15:291][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuyL.BuyL
+[2025.04.20-18.11.15:291][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/SellR.SellR
+[2025.04.20-18.11.15:291][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/SellL.SellL
+[2025.04.20-18.11.15:291][103]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuyR.BuyR
+[2025.04.20-18.12.19:039][435]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.12.19:256][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.04.20-18.12.20:363][489]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.12.20:428][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.04.20-18.12.21:813][489]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.12.21:828][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.12.21:898][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.12.21:932][489]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.12.21:934][489]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem6B5157414D0BD7A3FF2E8B9D8B6E1524.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.12.21:947][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.19 sec)
+[2025.04.20-18.12.21:971][490]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.12.21:971][490]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.12.56:814][700]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.12.57:009][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.04.20-18.12.57:270][711]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.12.57:458][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.20-18.13.04:316][397]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.13.04:510][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.04.20-18.13.25:662][500]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.13.25:849][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.04.20-18.14.11:032][202]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.14.11:225][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.04.20-18.14.12:320][288]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.14.12:382][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.04.20-18.14.13:799][288]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.14.13:825][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.14.13:917][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.14.13:957][288]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.14.13:958][288]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem182C08624360BE76FC39049C8BDE4C10.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.14.13:977][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.34 sec)
+[2025.04.20-18.14.14:015][289]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.14.14:015][289]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 0 (Found bundle for host: 0x93a4a1605a0 [serially])
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (98.85.56.27) port 443 (#11))
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 6 (Closing connection 11)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: 0000093AC9181E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.20-18.14.18:715][509]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-18.14.46:061][366]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.14.46:257][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.04.20-18.15.23:203][368]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.15.23:395][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.04.20-18.15.24:388][445]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.15.24:444][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.04.20-18.15.25:791][445]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.15.25:812][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.15.25:886][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.15.25:921][445]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.15.25:922][445]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem23499CB7490AE3FE40C7CE8E55AF51EF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.15.25:936][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.46 sec)
+[2025.04.20-18.15.25:962][446]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.15.25:962][446]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.16.06:464][694]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.16.06:663][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.04.20-18.17.56:519][701]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.17.56:710][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.04.20-18.17.57:941][788]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.17.57:995][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.04.20-18.17.59:832][788]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.17.59:847][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.17.59:917][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.17.59:953][788]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.17.59:953][788]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemE96372B8485B3AB1F6F3E1B8337AF650.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.17.59:966][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 3.58 sec)
+[2025.04.20-18.17.59:991][789]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.17.59:991][789]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.18.34:338][521]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.18.34:537][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.04.20-18.18.36:250][635]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.20-18.18.36:405][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.04.20-18.18.59:613][113]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.18.59:833][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.20-18.19.00:870][196]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.19.00:929][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.04.20-18.19.02:453][196]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.19.02:478][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.19.02:551][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.19.02:587][196]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.19.02:587][196]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemA9CB5BFD479BB544CC5025B0204DA7F4.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.19.02:601][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 3.70 sec)
+[2025.04.20-18.19.02:633][197]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.19.02:633][197]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.20.01:213][120]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.20.01:430][120]LogUObjectHash: Compacting FUObjectHashTables data took  15.39ms
+[2025.04.20-18.20.03:007][265]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.20.03:062][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.04.20-18.20.05:087][265]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.20.05:104][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.20.05:174][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.20.05:212][265]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.20.05:213][265]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem9B290E3C4387B7B60D15BB84B1536887.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.20.05:230][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.83 sec)
+[2025.04.20-18.20.05:260][266]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.20.05:260][266]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.20.36:748][469]LogEditorTransaction: Undo Remove Widget
+[2025.04.20-18.20.59:876][937]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.21.00:063][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.04.20-18.21.01:140][ 10]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.21.01:196][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.04.20-18.21.02:275][ 10]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.21.02:294][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.21.02:368][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.21.02:403][ 10]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.21.02:405][ 10]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem8BBCCBEC4B0E6156FD04058B0730F69A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.21.02:420][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.95 sec)
+[2025.04.20-18.21.02:445][ 11]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.21.02:445][ 11]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.21.16:767][269]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.21.16:877][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.20-18.22.06:801][888]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.22.06:997][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.04.20-18.22.08:116][976]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.22.08:171][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.20-18.22.09:385][976]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.22.09:404][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.22.09:467][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.22.09:501][976]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.22.09:503][976]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemD142B9F4495A1099E8F2009A3FA2306F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.22.09:519][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4.07 sec)
+[2025.04.20-18.22.09:544][977]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.22.09:544][977]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.22.38:782][821]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.22.38:963][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.20-18.22.39:992][886]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.22.40:046][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.20-18.22.45:577][886]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.22.45:613][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.22.45:690][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.22.45:726][886]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.22.45:727][886]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemBF070BF443BFA485FEB8D38F7692F4FC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.22.45:745][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4.20 sec)
+[2025.04.20-18.22.45:779][887]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.22.45:779][887]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.23.31:523][170]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.23.31:724][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.04.20-18.23.32:723][248]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.23.32:780][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.04.20-18.23.34:127][248]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.23.34:146][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.23.34:216][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.23.34:252][248]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.23.34:252][248]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem812EDF65405C74C6EC192C8A09013AA2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.23.34:267][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 4.32 sec)
+[2025.04.20-18.23.34:293][249]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.23.34:293][249]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.24.29:976][864]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.24.30:165][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.04.20-18.24.31:506][976]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.24.31:563][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.04.20-18.24.33:135][976]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.24.33:152][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.24.33:215][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.24.33:248][976]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.24.33:249][976]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem48867136488A0D1F93A3E9BBD3113B6E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.24.33:262][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.43 sec)
+[2025.04.20-18.24.33:289][977]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.24.33:289][977]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.28.19:577][846]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-18.28.20:385][914]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-18.28.20:583][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.20-18.28.21:599][980]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-18.28.21:652][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.04.20-18.28.23:432][980]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-18.28.23:449][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-18.28.23:510][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-18.28.23:545][980]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-18.28.23:546][980]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemC3221D124BE16F4D0C6E8995DD46CEBC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-18.28.23:558][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.54 sec)
+[2025.04.20-18.28.23:582][981]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-18.28.23:582][981]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-18.28.35:251][218]LogHttp: Warning: 0000093ACD47AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 0 (Found bundle for host: 0x93a4a160780 [serially])
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 1 (Re-using existing connection #13 with host datarouter.ol.epicgames.com)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.211.109.222) port 443 (#13))
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 6 (Closing connection 13)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: 0000093ACD47AF00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.20-18.28.35:252][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-18.30.08:726][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.04.20-18.30.10:150][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.20-18.30.10:152][838]LogStall: Shutdown...
+[2025.04.20-18.30.10:168][838]LogStall: Shutdown complete.
+[2025.04.20-18.30.10:327][838]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-18.30.10:327][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-18.30.10:345][838]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-18.30.10:345][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-18.30.10:578][838]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-18.30.10:578][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-18.30.10:591][838]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-18.30.10:591][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-18.30.10:932][838]LogSlate: Window 'KMH_again_ButNoT - Unreal Editor' being destroyed
+[2025.04.20-18.30.11:461][839]Cmd: QUIT_EDITOR
+[2025.04.20-18.30.11:461][839]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.20-18.30.11:522][839]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.20-18.30.11:522][839]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.20-18.30.11:522][839]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.20-18.30.11:564][839]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-18.30.11:564][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-18.30.11:699][839]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.20-18.30.11:920][839]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.20-18.30.12:090][839]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.20-18.30.12:090][839]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.20-18.30.12:090][839]LogAudio: Display: Audio Device unregistered from world 'L_Main'.
+[2025.04.20-18.30.12:103][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.20-18.30.12:106][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.20-18.30.12:166][839]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.20-18.30.12:178][839]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.20-18.30.12:178][839]LogExit: Preparing to exit.
+[2025.04.20-18.30.12:588][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.04.20-18.30.12:654][839]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:654][839]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:717][839]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.20-18.30.12:718][839]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
