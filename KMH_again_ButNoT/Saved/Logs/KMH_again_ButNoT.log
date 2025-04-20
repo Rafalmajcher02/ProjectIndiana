@@ -1426,3 +1426,250 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-17.20.22:754][373]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2025.04.20-17.20.22:754][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.04.20-17.20.28:770][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.20-17.20.39:637][880]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.39:637][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.39:647][880]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.39:647][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.40:243][939]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.40:243][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.40:254][939]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-17.20.40:254][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-17.20.42:349][112]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.20.42:350][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.20.42:364][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.20.42:828][112]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.20.42:828][112]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Total job queries 164, among them cache hits 11 (6.71%)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 66 distinct outputs (44.00%)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Shaders Compiled: 114
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Jobs assigned 117, completed 114 (97.44%)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Average time worker was idle: 58.00 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.68 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 3.34 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 3.44
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.44 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Average processing rate: 5.32 jobs/sec
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Total thread time: 66.28 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Total thread preprocess time: 4.03 s
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Percentage time preprocessing: 6.09%
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Effective parallelization: 3.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   29 times, average 0.72 sec, max 0.87 sec, min 0.55 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   29 times, average 0.71 sec, max 0.89 sec, min 0.53 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   22 times, average 0.62 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.32% of total time (compiled   29 times, average 0.72 sec, max 0.87 sec, min 0.55 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.00% of total time (compiled   29 times, average 0.71 sec, max 0.89 sec, min 0.53 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.50% of total time (compiled   22 times, average 0.62 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.89% of total time (compiled   23 times, average 0.40 sec, max 0.47 sec, min 0.32 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 2.08% of total time (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.04.20-17.20.54:030][ 79]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.21.01:073][711]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.22.12:907][468]LogInterchangeEngine: [Pending] Importing
+[2025.04.20-17.22.12:907][468]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-17.22.12:907][468]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-17.22.12:907][468]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-17.22.12:907][468]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.20-17.22.12:908][468]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:922][469]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2025.04.20-17.22.12:945][469]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.20-17.22.13:239][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButtonHovered.BuySellButtonHovered (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:241][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButtonPressed2.BuySellButtonPressed2 (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:242][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButton.BuySellButton (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:244][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButtonHovered2.BuySellButtonHovered2 (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:245][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButtonPressed.BuySellButtonPressed (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:247][469]LogTexture: Display: Building textures: /Game/Images/4UI/BuySellButton2.BuySellButton2 (BGRA8, 300x83 x1x1x1) (Required Memory Estimate: 0.790726 MB), EncodeSpeed: Fast
+[2025.04.20-17.22.13:247][469]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.20-17.22.13:247][469]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.20-17.22.13:247][469]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.20-17.22.13:248][469]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.20-17.22.13:248][469]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.20-17.22.13:300][469]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-17.22.13:357][470]LogInterchangeEngine: [Success] Import Done
+[2025.04.20-17.22.26:049][508]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.23.21:941][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.04.20-17.23.21:953][795]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.061
+[2025.04.20-17.23.21:955][795]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_StorageItem] ([2] browsable assets)...
+[2025.04.20-17.23.21:960][795]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem]
+[2025.04.20-17.23.21:960][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_StorageItem]
+[2025.04.20-17.23.21:960][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_StorageItem_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.04.20-17.23.22:007][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_StorageItem_Auto1
+[2025.04.20-17.23.22:007][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem_Auto1B3AB985D4ED52585010ADF8D7E6B23BA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_StorageItem_Auto1.uasset'
+[2025.04.20-17.23.22:050][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButton] ([1] browsable assets)...
+[2025.04.20-17.23.22:056][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButton.BuySellButton]
+[2025.04.20-17.23.22:056][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButton]
+[2025.04.20-17.23.22:069][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButton_Auto1
+[2025.04.20-17.23.22:069][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButton_Auto15F44CCB4401B841441F5C797829A656F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButton_Auto1.uasset'
+[2025.04.20-17.23.22:070][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButton2] ([1] browsable assets)...
+[2025.04.20-17.23.22:074][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButton2.BuySellButton2]
+[2025.04.20-17.23.22:075][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButton2]
+[2025.04.20-17.23.22:084][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButton2_Auto1
+[2025.04.20-17.23.22:084][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButton2_Auto1825E37BE4B8B85009E11EB866C144934.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButton2_Auto1.uasset'
+[2025.04.20-17.23.22:085][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButtonHovered] ([1] browsable assets)...
+[2025.04.20-17.23.22:092][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButtonHovered.BuySellButtonHovered]
+[2025.04.20-17.23.22:092][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButtonHovered]
+[2025.04.20-17.23.22:094][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButtonHovered_Auto1
+[2025.04.20-17.23.22:094][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonHovered_Auto1EB0B62734DA7114731061EB621F74D91.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButtonHovered_Auto1.uasset'
+[2025.04.20-17.23.22:095][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButtonHovered2] ([1] browsable assets)...
+[2025.04.20-17.23.22:098][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButtonHovered2.BuySellButtonHovered2]
+[2025.04.20-17.23.22:098][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButtonHovered2]
+[2025.04.20-17.23.22:104][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButtonHovered2_Auto1
+[2025.04.20-17.23.22:104][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonHovered2_Auto1E00FD5144F537F25DCD6A8B545BFE324.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButtonHovered2_Auto1.uasset'
+[2025.04.20-17.23.22:106][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButtonPressed] ([1] browsable assets)...
+[2025.04.20-17.23.22:108][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButtonPressed.BuySellButtonPressed]
+[2025.04.20-17.23.22:108][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButtonPressed]
+[2025.04.20-17.23.22:111][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButtonPressed_Auto1
+[2025.04.20-17.23.22:111][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonPressed_Auto1F5683E9C49D7A4310CA64CAB84F737A3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButtonPressed_Auto1.uasset'
+[2025.04.20-17.23.22:112][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/4UI/BuySellButtonPressed2] ([1] browsable assets)...
+[2025.04.20-17.23.22:115][795]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/4UI/BuySellButtonPressed2.BuySellButtonPressed2]
+[2025.04.20-17.23.22:115][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/4UI/BuySellButtonPressed2]
+[2025.04.20-17.23.22:117][795]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/4UI/BuySellButtonPressed2_Auto1
+[2025.04.20-17.23.22:117][795]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonPressed2_Auto1A37EC0A44C5AA4387F571C96B47565DE.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Images/4UI/BuySellButtonPressed2_Auto1.uasset'
+[2025.04.20-17.23.22:131][795]LogFileHelpers: Auto-saving content packages took 0.164
+[2025.04.20-17.25.10:829][381]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.25.12:720][572]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.25.12:720][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.20-17.25.12:720][572]LogShaderCompilers: Display: Total job queries 166, among them cache hits 11 (6.63%)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 67 distinct outputs (43.23%)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: RAM used: 0.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Shaders Compiled: 117
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100.00%)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Average time worker was idle: 58.00 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.68 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 3.34 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 3.44
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.65 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Average processing rate: 5.41 jobs/sec
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Total thread time: 68.07 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Total thread preprocess time: 4.17 s
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Percentage time preprocessing: 6.13%
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Effective parallelization: 3.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   30 times, average 0.71 sec, max 0.87 sec, min 0.55 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   30 times, average 0.70 sec, max 0.89 sec, min 0.53 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   23 times, average 0.62 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.43% of total time (compiled   30 times, average 0.71 sec, max 0.87 sec, min 0.55 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.04% of total time (compiled   30 times, average 0.70 sec, max 0.89 sec, min 0.53 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.79% of total time (compiled   23 times, average 0.62 sec, max 0.73 sec, min 0.50 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.53% of total time (compiled   23 times, average 0.40 sec, max 0.47 sec, min 0.32 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 2.03% of total time (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.04.20-17.25.12:721][572]LogShaderCompilers: Display: ================================================
+[2025.04.20-17.25.41:149][191]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.26.46:537][626]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-17.26.46:764][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.04.20-17.26.47:208][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.26.47:266][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-17.26.47:299][653]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-17.26.47:300][653]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem788A05F34CECDCD3B11227A16BB650BD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-17.26.47:312][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.19 sec)
+[2025.04.20-17.26.47:321][653]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-17.26.47:321][653]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.26.48:553][767]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.26.48:597][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.20-17.26.49:991][767]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.26.50:007][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.26.50:070][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButton" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButton.uasset" SILENT=true
+[2025.04.20-17.26.50:072][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButton
+[2025.04.20-17.26.50:072][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonC60F28C9456515223E31DCAC2E139194.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButton.uasset'
+[2025.04.20-17.26.50:073][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButton2" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButton2.uasset" SILENT=true
+[2025.04.20-17.26.50:075][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButton2
+[2025.04.20-17.26.50:075][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButton2B2CE9CFB4F076B727428678F8B0AFC02.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButton2.uasset'
+[2025.04.20-17.26.50:076][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButtonHovered" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonHovered.uasset" SILENT=true
+[2025.04.20-17.26.50:078][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButtonHovered
+[2025.04.20-17.26.50:078][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonHovered10E67C9C4565C65D931A8BAFCD10029B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonHovered.uasset'
+[2025.04.20-17.26.50:079][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButtonHovered2" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonHovered2.uasset" SILENT=true
+[2025.04.20-17.26.50:081][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButtonHovered2
+[2025.04.20-17.26.50:081][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonHovered2E228078145C5967F2B6C9D87CF9DFEEF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonHovered2.uasset'
+[2025.04.20-17.26.50:082][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButtonPressed" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonPressed.uasset" SILENT=true
+[2025.04.20-17.26.50:084][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButtonPressed
+[2025.04.20-17.26.50:084][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonPressedFB780D864ADAB7000B27D592F8AC30C1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonPressed.uasset'
+[2025.04.20-17.26.50:085][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/4UI/BuySellButtonPressed2" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonPressed2.uasset" SILENT=true
+[2025.04.20-17.26.50:086][767]LogSavePackage: Moving output files for package: /Game/Images/4UI/BuySellButtonPressed2
+[2025.04.20-17.26.50:086][767]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BuySellButtonPressed2396787CE4D766C947186689E04BF3F6D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Images/4UI/BuySellButtonPressed2.uasset'
+[2025.04.20-17.26.50:106][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.29 sec)
+[2025.04.20-17.26.50:134][768]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButtonPressed2.BuySellButtonPressed2
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButtonPressed.BuySellButtonPressed
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButtonHovered2.BuySellButtonHovered2
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButtonHovered.BuySellButtonHovered
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButton2.BuySellButton2
+[2025.04.20-17.26.50:134][768]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/4UI/BuySellButton.BuySellButton
+[2025.04.20-17.27.32:049][841]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.20-17.27.34:950][128]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-17.27.35:107][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.04.20-17.27.36:172][217]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.27.36:214][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.20-17.27.37:555][217]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.27.37:569][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.27.37:634][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-17.27.37:667][217]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-17.27.37:668][217]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemFFEEB1734C835F6A3B7BE68E1107820B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-17.27.37:681][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.40 sec)
+[2025.04.20-17.27.37:705][218]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-17.27.37:705][218]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.28.18:743][562]LogHttp: Warning: 0000093AB3656E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.20-17.28.18:743][562]LogHttp: Warning: 0000093AB3656E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.04.20-17.28.18:743][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 0 (Found bundle for host: 0x93a4a1602d0 [serially])
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.233.90.49) port 443 (#5))
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 6 (Closing connection 5)
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: 0000093AB3656E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.20-17.28.18:744][562]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.20-17.29.02:745][196]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-17.29.02:927][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.20-17.29.03:789][255]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.29.03:833][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.04.20-17.29.05:488][255]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.29.05:505][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.29.05:574][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-17.29.05:607][255]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-17.29.05:607][255]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItemBF65B3DE4F6028E93424ECA1B175102B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-17.29.05:623][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.52 sec)
+[2025.04.20-17.29.05:658][256]AssetCheck: New page: Asset Save: WBP_StorageItem
+[2025.04.20-17.29.05:658][256]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-17.29.45:349][115]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.20-17.29.45:349][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.29.45:357][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.29.45:761][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.29.45:761][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.30.08:437][326]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.20-17.30.08:592][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.20-17.30.09:711][413]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.30.09:759][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.20-17.30.11:514][413]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.30.11:530][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.30.11:610][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.04.20-17.30.11:618][413]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.04.20-17.30.11:618][413]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageF0DD230F4216F0C6BA8827A19BC6A33C.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.04.20-17.30.11:631][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.62 sec)
+[2025.04.20-17.30.11:654][414]AssetCheck: New page: Asset Save: WBP_Storage
+[2025.04.20-17.30.11:654][414]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.20-17.31.20:752][246]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/Icons/I_Toastie.I_Toastie
+[2025.04.20-17.31.21:702][246]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.04.20-17.31.23:077][354]LogViewport: Scene viewport resized to 846x358, mode Windowed.
+[2025.04.20-17.31.24:088][447]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.04.20-17.31.25:153][538]LogViewport: Scene viewport resized to 846x358, mode Windowed.
+[2025.04.20-17.31.25:304][548]LogViewport: Scene viewport resized to 846x370, mode Windowed.
+[2025.04.20-17.31.26:557][670]LogSlate: Window 'I_Toastie' being destroyed
+[2025.04.20-17.31.26:572][670]LogSlate: Window 'I_Toastie' being destroyed
+[2025.04.20-17.31.33:781][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
