@@ -1384,3 +1384,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-17.05.33:540][233]LogHttp: Warning: 0000093AA7A40A00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2025.04.20-17.05.33:540][233]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD158D8E-46B9-FF44-96B1-909EE14E1911%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2025.04.20-17.07.32:097][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.20-17.10.20:022][832]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
+[2025.04.20-17.10.20:023][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.10.20:032][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-17.10.20:448][832]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.10.20:448][832]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-17.10.29:958][570]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.20-17.10.30:184][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.04.20-17.10.42:614][660]BlueprintLog: New page: Compile WBP_Paused
+[2025.04.20-17.10.42:709][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.20-17.10.43:950][754]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.20-17.10.43:996][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.20-17.10.45:365][754]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-17.10.45:379][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-17.10.45:443][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Paused" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset" SILENT=true
+[2025.04.20-17.10.45:457][754]LogSavePackage: Moving output files for package: /Game/UI/WBP_Paused
+[2025.04.20-17.10.45:458][754]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Paused64D3AE4D41EE51A29B461F979C47821A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Paused.uasset'
+[2025.04.20-17.10.45:471][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.04.20-17.10.45:479][754]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.04.20-17.10.45:479][754]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageD40AAFB840238B0360EED8AF5BF67B7A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.04.20-17.10.45:493][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.96 sec)
+[2025.04.20-17.10.45:514][755]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.20-17.10.45:514][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Paused.WBP_Paused
+[2025.04.20-17.10.45:523][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Storage.WBP_Storage
