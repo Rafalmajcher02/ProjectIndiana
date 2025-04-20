@@ -1237,3 +1237,342 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.20-11.40.39:944][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 691 ms)
 [2025.04.20-11.40.39:954][411]AssetCheck: New page: Asset Save: WBP_StorageItem
 [2025.04.20-11.40.39:954][411]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem
+[2025.04.20-11.41.27:764][899]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.41.27:764][899]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.44.05:352][759]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-11.44.05:494][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.04.20-11.45.20:320][349]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.45.20:320][349]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.47.34:828][513]BlueprintLog: New page: Compile WBP_StorageItem
+[2025.04.20-11.47.34:958][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.04.20-11.47.36:339][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.20-11.47.36:344][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.20-11.47.36:344][650]PIE: New page: PIE session: L_Main (20 Apr 2025, 13:47:36)
+[2025.04.20-11.47.36:344][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.20-11.47.36:346][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001188s)
+[2025.04.20-11.47.36:346][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001218s)
+[2025.04.20-11.47.36:346][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.47.36:346][650]LogAIModule: Creating AISystem for world L_Main
+[2025.04.20-11.47.36:346][650]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2025.04.20-11.47.36:390][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.20-11.47.36:396][650]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.20-11.47.36:396][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.20-11.47.36:396][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.20-11.47.36:397][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.20-11.47.36:397][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.20-11.47.36:397][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.20-11.47.36:398][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.20-11.47.36:422][650]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.20-11.47.36:423][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.20-11.47.36:423][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.20-11.47.36:423][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.20-11.47.36:423][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.20-11.47.36:423][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.20-11.47.36:425][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.20-11.47.36:425][650]LogInit: FAudioDevice initialized.
+[2025.04.20-11.47.36:425][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.20-11.47.36:425][650]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Main'.
+[2025.04.20-11.47.36:427][650]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.20-11.47.36:428][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.20-12.47.36
+[2025.04.20-11.47.36:428][650]LogWorld: Bringing up level for play took: 0.000449
+[2025.04.20-11.47.36:430][650]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.04.20-11.47.36:431][650]LogBlueprintUserMessages: [BP_CustomerSpawner_C_1] invalid hud
+[2025.04.20-11.47.36:437][650]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.20-11.47.36:438][650]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.20-11.47.36:438][650]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.20-11.47.36:439][650]PIE: Server logged in
+[2025.04.20-11.47.36:439][650]PIE: Play in editor total start time 0.095 seconds.
+[2025.04.20-11.47.39:044][926]LogBlueprintUserMessages: [WBP_StorageItem_13] Bought one item
+[2025.04.20-11.47.39:849][  5]LogBlueprintUserMessages: [WBP_StorageItem_13] Bought one item
+[2025.04.20-11.47.40:990][119]LogBlueprintUserMessages: [WBP_StorageItem_13] Sold item successfully
+[2025.04.20-11.47.41:232][143]LogBlueprintUserMessages: [WBP_StorageItem_13] Sold item successfully
+[2025.04.20-11.47.41:456][165]LogBlueprintUserMessages: [WBP_StorageItem_13] Sold item successfully
+[2025.04.20-11.47.42:952][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-11.47.42:952][311]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.20-11.47.42:952][311]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-11.47.42:952][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-11.47.42:955][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.20-11.47.42:962][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-11.47.43:002][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.20-11.47.43:003][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.20-11.47.43:004][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.20-11.47.43:008][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-11.47.43:011][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.20-11.47.43:034][312]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.04.20-11.48.10:070][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.20-11.48.10:074][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Main' took 0.046
+[2025.04.20-11.48.10:085][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_Kid] ([2] browsable assets)...
+[2025.04.20-11.48.10:087][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_Kid.WBP_Kid]
+[2025.04.20-11.48.10:087][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_Kid]
+[2025.04.20-11.48.10:087][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Kid" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Kid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.04.20-11.48.10:171][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_Kid_Auto1
+[2025.04.20-11.48.10:172][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Kid_Auto19E78088D4D7B739E5E70E6B855A5A70D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_Kid_Auto1.uasset'
+[2025.04.20-11.48.10:201][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/GMB_2D_CanteenGameMode] ([2] browsable assets)...
+[2025.04.20-11.48.10:201][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/GMB_2D_CanteenGameMode]
+[2025.04.20-11.48.10:267][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/GMB_2D_CanteenGameMode_Auto1
+[2025.04.20-11.48.10:268][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameMode_Auto1318AFE8A4397BB302EBDEBA276245D24.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Player/GMB_2D_CanteenGameMode_Auto1.uasset'
+[2025.04.20-11.48.10:298][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrayInventory] ([2] browsable assets)...
+[2025.04.20-11.48.10:298][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrayInventory]
+[2025.04.20-11.48.10:421][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrayInventory_Auto1
+[2025.04.20-11.48.10:421][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventory_Auto1B2A2B65A4BA1FB5BCCE5E6A2280C4152.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/BP_TrayInventory_Auto1.uasset'
+[2025.04.20-11.48.10:435][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_TraySlot] ([2] browsable assets)...
+[2025.04.20-11.48.10:439][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_TraySlot.WBP_TraySlot]
+[2025.04.20-11.48.10:439][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_TraySlot]
+[2025.04.20-11.48.10:439][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.04.20-11.48.10:510][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto1
+[2025.04.20-11.48.10:511][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_TraySlot_Auto19FD83CD947310D6D907B7781C8F86EEA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_TraySlot_Auto1.uasset'
+[2025.04.20-11.48.10:522][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_AppleJuice] ([2] browsable assets)...
+[2025.04.20-11.48.10:522][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_AppleJuice]
+[2025.04.20-11.48.10:553][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_AppleJuice_Auto1
+[2025.04.20-11.48.10:555][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_AppleJuice_Auto10B9131D14284CA4DA1ACE3A6698C9AD3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_AppleJuice_Auto1.uasset'
+[2025.04.20-11.48.10:592][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_Apple] ([2] browsable assets)...
+[2025.04.20-11.48.10:592][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_Apple]
+[2025.04.20-11.48.10:595][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_Apple_Auto1
+[2025.04.20-11.48.10:595][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Apple_Auto1715A663B4BAFB06E93C68F938B1715A6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_Apple_Auto1.uasset'
+[2025.04.20-11.48.10:596][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_Brownie] ([2] browsable assets)...
+[2025.04.20-11.48.10:596][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_Brownie]
+[2025.04.20-11.48.10:608][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_Brownie_Auto1
+[2025.04.20-11.48.10:608][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Brownie_Auto1EE5B14884748B631315071B3F388B356.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_Brownie_Auto1.uasset'
+[2025.04.20-11.48.10:608][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_Cookie] ([2] browsable assets)...
+[2025.04.20-11.48.10:608][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_Cookie]
+[2025.04.20-11.48.10:612][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_Cookie_Auto1
+[2025.04.20-11.48.10:612][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Cookie_Auto1C23A39FA4332D7257862688F487FF79A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_Cookie_Auto1.uasset'
+[2025.04.20-11.48.10:613][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_FruitSalad] ([2] browsable assets)...
+[2025.04.20-11.48.10:613][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_FruitSalad]
+[2025.04.20-11.48.10:617][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_FruitSalad_Auto1
+[2025.04.20-11.48.10:617][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_FruitSalad_Auto1191FA2E14171D03DF91CF59AAC8F2C9D.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_FruitSalad_Auto1.uasset'
+[2025.04.20-11.48.10:618][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_IceCream] ([2] browsable assets)...
+[2025.04.20-11.48.10:618][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_IceCream]
+[2025.04.20-11.48.10:622][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_IceCream_Auto1
+[2025.04.20-11.48.10:622][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_IceCream_Auto1DA8A764743820EB7128B3F89F461F91B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_IceCream_Auto1.uasset'
+[2025.04.20-11.48.10:623][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_Prunes] ([2] browsable assets)...
+[2025.04.20-11.48.10:623][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_Prunes]
+[2025.04.20-11.48.10:626][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_Prunes_Auto1
+[2025.04.20-11.48.10:627][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Prunes_Auto16237071E4F15CA8E69F69EA72B361CFA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_Prunes_Auto1.uasset'
+[2025.04.20-11.48.10:628][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Extra_VeggieSalad] ([2] browsable assets)...
+[2025.04.20-11.48.10:628][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Extra_VeggieSalad]
+[2025.04.20-11.48.10:630][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Extra_VeggieSalad_Auto1
+[2025.04.20-11.48.10:630][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_VeggieSalad_Auto11AB96F4045E1AFA526DAE58A4DE7CBA7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Extra_VeggieSalad_Auto1.uasset'
+[2025.04.20-11.48.10:631][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Main_ChickenWithRice] ([2] browsable assets)...
+[2025.04.20-11.48.10:631][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Main_ChickenWithRice]
+[2025.04.20-11.48.10:634][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Main_ChickenWithRice_Auto1
+[2025.04.20-11.48.10:634][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ChickenWithRice_Auto1A2AE97BE4F9D66F335B670A9F6DDD6DF.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Main_ChickenWithRice_Auto1.uasset'
+[2025.04.20-11.48.10:636][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Main_Porridge] ([2] browsable assets)...
+[2025.04.20-11.48.10:636][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Main_Porridge]
+[2025.04.20-11.48.10:638][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Main_Porridge_Auto1
+[2025.04.20-11.48.10:638][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_Porridge_Auto1059D4720473DB4310D0E99B017AD659E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Main_Porridge_Auto1.uasset'
+[2025.04.20-11.48.10:640][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Main_ReadyMealPizza] ([2] browsable assets)...
+[2025.04.20-11.48.10:640][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Main_ReadyMealPizza]
+[2025.04.20-11.48.10:643][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Main_ReadyMealPizza_Auto1
+[2025.04.20-11.48.10:644][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ReadyMealPizza_Auto1BC073AF34C639161F9123395B8B2B8F7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Main_ReadyMealPizza_Auto1.uasset'
+[2025.04.20-11.48.10:645][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PickUps/WBP_PickUpToTray] ([2] browsable assets)...
+[2025.04.20-11.48.10:647][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PickUps/WBP_PickUpToTray.WBP_PickUpToTray]
+[2025.04.20-11.48.10:647][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PickUps/WBP_PickUpToTray]
+[2025.04.20-11.48.10:674][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto1
+[2025.04.20-11.48.10:675][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray_Auto16AA583A148EEED4A99A74489CC95A65E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/PickUps/WBP_PickUpToTray_Auto1.uasset'
+[2025.04.20-11.48.10:696][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_FizzyJuice] ([2] browsable assets)...
+[2025.04.20-11.48.10:696][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_FizzyJuice]
+[2025.04.20-11.48.10:699][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_FizzyJuice_Auto1
+[2025.04.20-11.48.10:699][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_FizzyJuice_Auto14EF4E64C48ADE5DC15031F8A992227BA.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_FizzyJuice_Auto1.uasset'
+[2025.04.20-11.48.10:700][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_Lemonade] ([2] browsable assets)...
+[2025.04.20-11.48.10:700][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_Lemonade]
+[2025.04.20-11.48.10:703][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_Lemonade_Auto1
+[2025.04.20-11.48.10:703][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Lemonade_Auto1A2462ECC4837E1E910CD659961B19182.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_Lemonade_Auto1.uasset'
+[2025.04.20-11.48.10:704][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_Milk] ([2] browsable assets)...
+[2025.04.20-11.48.10:704][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_Milk]
+[2025.04.20-11.48.10:707][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_Milk_Auto1
+[2025.04.20-11.48.10:707][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Milk_Auto18F702AFF4DE3A9E3508374A3F8752E4E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_Milk_Auto1.uasset'
+[2025.04.20-11.48.10:708][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_OrangeJuice] ([2] browsable assets)...
+[2025.04.20-11.48.10:708][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_OrangeJuice]
+[2025.04.20-11.48.10:713][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_OrangeJuice_Auto1
+[2025.04.20-11.48.10:713][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_OrangeJuice_Auto165B4A13F4047829C0C56438C3A0E8593.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_OrangeJuice_Auto1.uasset'
+[2025.04.20-11.48.10:714][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_SportsDrink] ([2] browsable assets)...
+[2025.04.20-11.48.10:714][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_SportsDrink]
+[2025.04.20-11.48.10:717][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_SportsDrink_Auto1
+[2025.04.20-11.48.10:717][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_SportsDrink_Auto10D77104E4668D03AA408789BF05A27AC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_SportsDrink_Auto1.uasset'
+[2025.04.20-11.48.10:718][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_Drink_Water] ([2] browsable assets)...
+[2025.04.20-11.48.10:718][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_Drink_Water]
+[2025.04.20-11.48.10:720][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_Drink_Water_Auto1
+[2025.04.20-11.48.10:721][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_Water_Auto1B630121449347BF578149C86FE2D4316.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_Drink_Water_Auto1.uasset'
+[2025.04.20-11.48.10:722][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BPC_MainToastie] ([2] browsable assets)...
+[2025.04.20-11.48.10:722][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BPC_MainToastie]
+[2025.04.20-11.48.10:725][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BPC_MainToastie_Auto1
+[2025.04.20-11.48.10:725][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_MainToastie_Auto175616EAE46A3E303BE78898137F7C9D2.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/Blueprints/Items/BPC_MainToastie_Auto1.uasset'
+[2025.04.20-11.48.10:726][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_StorageItem] ([2] browsable assets)...
+[2025.04.20-11.48.10:728][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_StorageItem.WBP_StorageItem]
+[2025.04.20-11.48.10:728][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_StorageItem]
+[2025.04.20-11.48.10:728][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_StorageItem_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.04.20-11.48.10:762][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_StorageItem_Auto1
+[2025.04.20-11.48.10:762][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem_Auto1647D7BF746B576256FF0A9B3F237DB39.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/WBP_StorageItem_Auto1.uasset'
+[2025.04.20-11.48.10:763][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Tray/WBP_DraggedItem] ([2] browsable assets)...
+[2025.04.20-11.48.10:765][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Tray/WBP_DraggedItem.WBP_DraggedItem]
+[2025.04.20-11.48.10:765][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Tray/WBP_DraggedItem]
+[2025.04.20-11.48.10:771][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Tray/WBP_DraggedItem_Auto1
+[2025.04.20-11.48.10:771][415]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_DraggedItem_Auto1B7F4797F48345F50159106A776403A0A.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/Autosaves/Game/UI/Tray/WBP_DraggedItem_Auto1.uasset'
+[2025.04.20-11.48.10:772][415]LogFileHelpers: Auto-saving content packages took 0.698
+[2025.04.20-11.48.30:486][453]BlueprintLog: New page: Compile WBP_Storage
+[2025.04.20-11.48.30:558][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.04.20-11.48.32:367][640]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_CustomerCounter.WBP_CustomerCounter
+[2025.04.20-11.48.32:368][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.48.32:377][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.48.32:830][640]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.48.32:830][640]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.48.35:405][918]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Keqing.WBP_Keqing
+[2025.04.20-11.48.35:405][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.48.35:421][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.48.35:842][918]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.48.35:842][918]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.04.20-11.49.07:578][369]BlueprintLog: New page: Compile WBP_Keqing
+[2025.04.20-11.49.07:701][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.04.20-11.49.08:839][475]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.20-11.49.08:846][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.20-11.49.08:846][475]PIE: New page: PIE session: L_Main (20 Apr 2025, 13:49:08)
+[2025.04.20-11.49.08:846][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.20-11.49.08:847][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001107s)
+[2025.04.20-11.49.08:847][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001139s)
+[2025.04.20-11.49.08:847][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.20-11.49.08:847][475]LogAIModule: Creating AISystem for world L_Main
+[2025.04.20-11.49.08:848][475]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2025.04.20-11.49.08:909][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.04.20-11.49.08:911][475]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.20-11.49.08:911][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.20-11.49.08:911][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.20-11.49.08:912][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.20-11.49.08:912][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.20-11.49.08:912][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.20-11.49.08:914][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.20-11.49.08:936][475]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.20-11.49.08:937][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.20-11.49.08:937][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.20-11.49.08:937][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.20-11.49.08:937][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.20-11.49.08:937][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.20-11.49.08:938][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.20-11.49.08:938][475]LogInit: FAudioDevice initialized.
+[2025.04.20-11.49.08:938][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.20-11.49.08:938][475]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Main'.
+[2025.04.20-11.49.08:942][475]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.20-11.49.08:942][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.20-12.49.08
+[2025.04.20-11.49.08:942][475]LogWorld: Bringing up level for play took: 0.000423
+[2025.04.20-11.49.08:944][475]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.04.20-11.49.08:945][475]LogBlueprintUserMessages: [BP_CustomerSpawner_C_1] invalid hud
+[2025.04.20-11.49.08:952][475]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.20-11.49.08:953][475]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.20-11.49.08:953][475]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.20-11.49.08:953][475]PIE: Server logged in
+[2025.04.20-11.49.08:954][475]PIE: Play in editor total start time 0.108 seconds.
+[2025.04.20-11.49.13:621][945]LogBlueprintUserMessages: [WBP_StorageItem_15] Bought one item
+[2025.04.20-11.49.15:266][108]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.16:031][181]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.17:202][293]LogBlueprintUserMessages: [WBP_StorageItem_15] Bought one item
+[2025.04.20-11.49.17:380][311]LogBlueprintUserMessages: [WBP_StorageItem_15] Bought one item
+[2025.04.20-11.49.17:582][331]LogBlueprintUserMessages: [WBP_StorageItem_15] Bought one item
+[2025.04.20-11.49.17:866][358]LogBlueprintUserMessages: [WBP_StorageItem_15] Bought one item
+[2025.04.20-11.49.18:329][404]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.18:510][422]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.18:679][436]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.18:854][451]LogBlueprintUserMessages: [WBP_StorageItem_15] Sold item successfully
+[2025.04.20-11.49.20:161][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-11.49.20:161][562]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.20-11.49.20:161][562]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-11.49.20:161][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-11.49.20:164][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.20-11.49.20:174][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-11.49.20:232][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.20-11.49.20:233][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.20-11.49.20:235][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.20-11.49.20:238][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-11.49.20:241][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.04.20-11.49.20:266][563]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.04.20-11.49.22:268][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.20-11.49.22:986][782]LogSlate: Window 'Save Content' being destroyed
+[2025.04.20-11.49.22:996][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.20-11.49.23:043][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrayInventory" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset" SILENT=true
+[2025.04.20-11.49.23:152][782]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrayInventory
+[2025.04.20-11.49.23:153][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_TrayInventoryFDDB541D40661A14050F41B863C5B0DC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/BP_TrayInventory.uasset'
+[2025.04.20-11.49.23:172][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_AppleJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset" SILENT=true
+[2025.04.20-11.49.23:175][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_AppleJuice
+[2025.04.20-11.49.23:175][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_AppleJuice5786F8694477EAA1AF8B71BC1A9A42E8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_AppleJuice.uasset'
+[2025.04.20-11.49.23:176][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_FizzyJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_FizzyJuice.uasset" SILENT=true
+[2025.04.20-11.49.23:178][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_FizzyJuice
+[2025.04.20-11.49.23:180][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_FizzyJuiceC27A20D846C225BC3E74F2A78429FDAD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_FizzyJuice.uasset'
+[2025.04.20-11.49.23:181][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Lemonade" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Lemonade.uasset" SILENT=true
+[2025.04.20-11.49.23:185][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Lemonade
+[2025.04.20-11.49.23:185][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_LemonadeF3090BD54D76A7B7E197B29175A437FD.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Lemonade.uasset'
+[2025.04.20-11.49.23:192][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Milk" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Milk.uasset" SILENT=true
+[2025.04.20-11.49.23:195][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Milk
+[2025.04.20-11.49.23:196][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_MilkFE3EC9C242A61D5A3EB6B998B71F99E3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Milk.uasset'
+[2025.04.20-11.49.23:198][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_OrangeJuice" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_OrangeJuice.uasset" SILENT=true
+[2025.04.20-11.49.23:211][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_OrangeJuice
+[2025.04.20-11.49.23:212][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_OrangeJuice353B38944C1A8E8619BAD784C07CEC96.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_OrangeJuice.uasset'
+[2025.04.20-11.49.23:214][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_SportsDrink" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_SportsDrink.uasset" SILENT=true
+[2025.04.20-11.49.23:217][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_SportsDrink
+[2025.04.20-11.49.23:218][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_SportsDrinkA47438404A531A31C4F6959B5B0191F5.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_SportsDrink.uasset'
+[2025.04.20-11.49.23:219][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Drink_Water" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Water.uasset" SILENT=true
+[2025.04.20-11.49.23:222][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Drink_Water
+[2025.04.20-11.49.23:222][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Drink_WaterFA4D55D14F5A0512785490BDF63713B7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Drink_Water.uasset'
+[2025.04.20-11.49.23:235][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Apple" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Apple.uasset" SILENT=true
+[2025.04.20-11.49.23:238][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Apple
+[2025.04.20-11.49.23:239][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_AppleA7B918BF4D3E8F8E5DDACAA39134C245.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Apple.uasset'
+[2025.04.20-11.49.23:241][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Brownie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset" SILENT=true
+[2025.04.20-11.49.23:246][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Brownie
+[2025.04.20-11.49.23:247][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_BrownieB218ABCA461EEEED05900C84FF96682F.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Brownie.uasset'
+[2025.04.20-11.49.23:248][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Cookie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Cookie.uasset" SILENT=true
+[2025.04.20-11.49.23:252][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Cookie
+[2025.04.20-11.49.23:253][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_Cookie80EFCE8649AE03EA84BEBB8BD857F049.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Cookie.uasset'
+[2025.04.20-11.49.23:254][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_FruitSalad" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_FruitSalad.uasset" SILENT=true
+[2025.04.20-11.49.23:258][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_FruitSalad
+[2025.04.20-11.49.23:258][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_FruitSaladFE499D1E40F79529BC7C5F8FC7F4FCC8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_FruitSalad.uasset'
+[2025.04.20-11.49.23:260][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_IceCream" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_IceCream.uasset" SILENT=true
+[2025.04.20-11.49.23:263][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_IceCream
+[2025.04.20-11.49.23:263][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_IceCreamB310CEA3482D12C276DCB19157635733.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_IceCream.uasset'
+[2025.04.20-11.49.23:267][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_Prunes" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Prunes.uasset" SILENT=true
+[2025.04.20-11.49.23:271][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_Prunes
+[2025.04.20-11.49.23:272][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_PrunesF426C8774F6AAA606674BB89F56384B0.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_Prunes.uasset'
+[2025.04.20-11.49.23:273][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Extra_VeggieSalad" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_VeggieSalad.uasset" SILENT=true
+[2025.04.20-11.49.23:276][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Extra_VeggieSalad
+[2025.04.20-11.49.23:277][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Extra_VeggieSalad076F9D564504235759960BB6F3DEC804.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Extra_VeggieSalad.uasset'
+[2025.04.20-11.49.23:280][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_ChickenWithRice
+[2025.04.20-11.49.23:282][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ChickenWithRiceC1C58ACF4B0140C1B2018BB5CDB13DAC.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_ChickenWithRice.uasset'
+[2025.04.20-11.49.23:283][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_Main_Porridge" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_Porridge.uasset" SILENT=true
+[2025.04.20-11.49.23:287][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_Porridge
+[2025.04.20-11.49.23:287][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_PorridgeF817A068440718EA03A0038680B0D017.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_Porridge.uasset'
+[2025.04.20-11.49.23:291][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_Main_ReadyMealPizza
+[2025.04.20-11.49.23:291][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_Main_ReadyMealPizzaA4460D704C45D19A223C3E82D3B585B1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_Main_ReadyMealPizza.uasset'
+[2025.04.20-11.49.23:306][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BPC_MainToastie" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_MainToastie.uasset" SILENT=true
+[2025.04.20-11.49.23:309][782]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BPC_MainToastie
+[2025.04.20-11.49.23:309][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BPC_MainToastie9E143D9E4D0C8ED572AC9CA0C50263A6.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Items/BPC_MainToastie.uasset'
+[2025.04.20-11.49.23:310][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GMB_2D_CanteenGameMode" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset" SILENT=true
+[2025.04.20-11.49.23:369][782]LogSavePackage: Moving output files for package: /Game/Player/GMB_2D_CanteenGameMode
+[2025.04.20-11.49.23:369][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/GMB_2D_CanteenGameModeE8A7314B40B699DD7EA259B1D945D52E.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Player/GMB_2D_CanteenGameMode.uasset'
+[2025.04.20-11.49.23:370][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_DraggedItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset" SILENT=true
+[2025.04.20-11.49.23:377][782]LogSavePackage: Moving output files for package: /Game/UI/Tray/WBP_DraggedItem
+[2025.04.20-11.49.23:377][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_DraggedItem30FC541B468588F6219C65A143DC8B37.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_DraggedItem.uasset'
+[2025.04.20-11.49.23:381][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Keqing" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Keqing.uasset" SILENT=true
+[2025.04.20-11.49.23:388][782]LogSavePackage: Moving output files for package: /Game/UI/WBP_Keqing
+[2025.04.20-11.49.23:388][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_KeqingB028659E4C59D04EAA163DB80A3F24B3.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Keqing.uasset'
+[2025.04.20-11.49.23:389][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Kid" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Kid.uasset" SILENT=true
+[2025.04.20-11.49.23:409][782]LogSavePackage: Moving output files for package: /Game/UI/WBP_Kid
+[2025.04.20-11.49.23:409][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Kid4791C8B24614FB5377C89D9B5D66FE83.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Kid.uasset'
+[2025.04.20-11.49.23:412][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PickUps/WBP_PickUpToTray" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset" SILENT=true
+[2025.04.20-11.49.23:454][782]LogSavePackage: Moving output files for package: /Game/UI/PickUps/WBP_PickUpToTray
+[2025.04.20-11.49.23:455][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_PickUpToTray54900B1C4636D8D93642498D5E2DA4D1.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/PickUps/WBP_PickUpToTray.uasset'
+[2025.04.20-11.49.23:467][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Storage" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset" SILENT=true
+[2025.04.20-11.49.23:475][782]LogSavePackage: Moving output files for package: /Game/UI/WBP_Storage
+[2025.04.20-11.49.23:475][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_Storage119079DA44C16E9583EFB2AB96AC988B.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_Storage.uasset'
+[2025.04.20-11.49.23:479][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_StorageItem" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset" SILENT=true
+[2025.04.20-11.49.23:512][782]LogSavePackage: Moving output files for package: /Game/UI/WBP_StorageItem
+[2025.04.20-11.49.23:513][782]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/WBP_StorageItem24FCD1014E57F9A72B4855AB39EFAEB8.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/WBP_StorageItem.uasset'
+[2025.04.20-11.49.23:514][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Tray/WBP_TraySlot" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/UI/Tray/WBP_TraySlot.uasset" SILENT=true
