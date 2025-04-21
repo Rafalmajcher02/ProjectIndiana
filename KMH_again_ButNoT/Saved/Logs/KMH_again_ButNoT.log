@@ -31884,3 +31884,853 @@ Health 0.5 Happyness
 [2025.04.21-23.17.23:652][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 19.2 sec)
 [2025.04.21-23.17.23:659][350]AssetCheck: New page: Asset Save: WBP_Canteen
 [2025.04.21-23.17.23:660][350]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Canteen.WBP_Canteen
+[2025.04.21-23.17.44:522][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Customers/BP_CustomerSpawner.BP_CustomerSpawner
+[2025.04.21-23.17.44:523][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.21-23.18.19:802][ 77]BlueprintLog: New page: Compile BP_CustomerSpawner
+[2025.04.21-23.18.19:914][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.21-23.18.20:353][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.21-23.18.20:417][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Customers/BP_CustomerSpawner" FILE="../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Customers/BP_CustomerSpawner.uasset" SILENT=true
+[2025.04.21-23.18.20:435][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Customers/BP_CustomerSpawner
+[2025.04.21-23.18.20:435][113]LogSavePackage: Moving '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Saved/BP_CustomerSpawnerCEA866B249BD02570A55C18D367E82F7.tmp' to '../../../../../Repos/ProjectIndiana/KMH_again_ButNoT/Content/Blueprints/Customers/BP_CustomerSpawner.uasset'
+[2025.04.21-23.18.20:446][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 19.3 sec)
+[2025.04.21-23.18.20:453][113]AssetCheck: New page: Asset Save: BP_CustomerSpawner
+[2025.04.21-23.18.20:453][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Customers/BP_CustomerSpawner.BP_CustomerSpawner
+[2025.04.21-23.18.21:441][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.21-23.18.21:449][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.21-23.18.21:449][214]PIE: New page: PIE session: L_Main (22 Apr 2025, 01:18:21)
+[2025.04.21-23.18.21:449][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.21:450][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2025.04.21-23.18.21:450][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001518s)
+[2025.04.21-23.18.21:450][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.21-23.18.21:451][214]LogAIModule: Creating AISystem for world L_Main
+[2025.04.21-23.18.21:451][214]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2025.04.21-23.18.21:484][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.21-23.18.21:487][214]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.21-23.18.21:487][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.21-23.18.21:487][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.21-23.18.21:487][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.21-23.18.21:487][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.21-23.18.21:487][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.21-23.18.21:490][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.21-23.18.21:512][214]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.21-23.18.21:513][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.21-23.18.21:513][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.21-23.18.21:513][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.21-23.18.21:514][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.04.21-23.18.21:514][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.04.21-23.18.21:515][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.04.21-23.18.21:515][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.04.21-23.18.21:515][214]LogInit: FAudioDevice initialized.
+[2025.04.21-23.18.21:515][214]LogAudio: Display: Audio Device (ID: 34) registered with world 'L_Main'.
+[2025.04.21-23.18.21:518][214]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.21-23.18.21:518][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.22-00.18.21
+[2025.04.21-23.18.21:518][214]LogWorld: Bringing up level for play took: 0.000453
+[2025.04.21-23.18.21:521][214]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.04.21-23.18.21:530][214]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.21-23.18.21:531][214]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Spawned the kjids
+[2025.04.21-23.18.21:531][214]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.21-23.18.21:531][214]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.21-23.18.21:531][214]PIE: Server logged in
+[2025.04.21-23.18.21:531][214]PIE: Play in editor total start time 0.084 seconds.
+[2025.04.21-23.18.22:344][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.21-23.18.22:344][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.21-23.18.22:344][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Game Paused Condition false
+[2025.04.21-23.18.22:344][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Restocking Mode Condition false
+[2025.04.21-23.18.22:344][303]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] VALIDATED HUD
+[2025.04.21-23.18.22:350][303]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:358][304]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:376][305]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:396][306]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:404][307]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:414][308]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:421][309]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:431][310]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:441][311]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:449][312]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:457][313]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:465][314]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:475][315]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:482][316]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:493][317]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:503][318]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:511][319]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:520][320]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:528][321]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:537][322]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:546][323]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:554][324]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:563][325]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:570][326]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:579][327]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:587][328]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:595][329]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:604][330]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:613][331]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:621][332]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:628][333]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:638][334]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:648][335]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:660][336]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:667][337]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:676][338]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:683][339]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:693][340]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:702][341]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:711][342]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:719][343]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:729][344]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:736][345]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:745][346]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:753][347]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:762][348]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:771][349]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:778][350]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:787][351]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:797][352]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:805][353]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:814][354]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:824][355]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:834][356]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:843][357]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:858][358]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:865][359]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:882][360]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:893][361]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:902][362]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:913][363]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:921][364]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:929][365]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:938][366]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:948][367]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:956][368]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:963][369]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:972][370]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:980][371]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:989][372]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.22:997][373]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:007][374]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:016][375]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:024][376]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:032][377]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:041][378]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:049][379]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:058][380]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:067][381]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:077][382]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.23:110][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.23:110][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.23:110][383]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.21-23.18.23:110][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.23:113][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.21-23.18.23:119][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.23:152][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.21-23.18.23:152][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.21-23.18.23:154][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.21-23.18.23:157][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.23:161][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.04.21-23.18.23:192][384]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.04.21-23.18.24:220][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.21-23.18.24:230][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.21-23.18.24:230][484]PIE: New page: PIE session: L_Main (22 Apr 2025, 01:18:24)
+[2025.04.21-23.18.24:230][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.24:232][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2025.04.21-23.18.24:232][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001772s)
+[2025.04.21-23.18.24:232][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.21-23.18.24:233][484]LogAIModule: Creating AISystem for world L_Main
+[2025.04.21-23.18.24:233][484]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2025.04.21-23.18.24:265][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.21-23.18.24:267][484]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.21-23.18.24:267][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.21-23.18.24:267][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.21-23.18.24:267][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.21-23.18.24:267][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.21-23.18.24:267][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.21-23.18.24:271][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.21-23.18.24:292][484]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.21-23.18.24:292][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.21-23.18.24:293][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.21-23.18.24:293][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.21-23.18.24:293][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.04.21-23.18.24:293][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.04.21-23.18.24:295][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.04.21-23.18.24:295][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.04.21-23.18.24:295][484]LogInit: FAudioDevice initialized.
+[2025.04.21-23.18.24:295][484]LogAudio: Display: Audio Device (ID: 35) registered with world 'L_Main'.
+[2025.04.21-23.18.24:298][484]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.21-23.18.24:299][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.22-00.18.24
+[2025.04.21-23.18.24:299][484]LogWorld: Bringing up level for play took: 0.000459
+[2025.04.21-23.18.24:301][484]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.04.21-23.18.24:309][484]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.21-23.18.24:309][484]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Spawned the kjids
+[2025.04.21-23.18.24:309][484]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.21-23.18.24:309][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.21-23.18.24:309][484]PIE: Server logged in
+[2025.04.21-23.18.24:310][484]PIE: Play in editor total start time 0.08 seconds.
+[2025.04.21-23.18.24:790][532]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.21-23.18.24:790][532]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.21-23.18.24:790][532]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Game Paused Condition false
+[2025.04.21-23.18.24:790][532]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Restocking Mode Condition false
+[2025.04.21-23.18.24:790][532]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] VALIDATED HUD
+[2025.04.21-23.18.24:797][532]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:803][533]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:824][534]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:840][535]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:849][536]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:858][537]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:867][538]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:875][539]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:886][540]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:895][541]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:903][542]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:912][543]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:920][544]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:929][545]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:937][546]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:948][547]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:960][548]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:968][549]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:977][550]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:985][551]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.24:996][552]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:004][553]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:016][554]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:040][555]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:055][556]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:066][557]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:077][558]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:087][559]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:097][560]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:105][561]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:117][562]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:125][563]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:132][564]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:144][565]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:152][566]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:161][567]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:170][568]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:181][569]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:193][570]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:201][571]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:214][572]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:223][573]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:234][574]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:246][575]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:253][576]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:262][577]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:273][578]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:282][579]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:292][580]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:300][581]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:312][582]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:322][583]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:330][584]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:343][585]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:350][586]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:359][587]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:370][588]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:377][589]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:385][590]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:394][591]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:402][592]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:414][593]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:422][594]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:431][595]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:438][596]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:447][597]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:455][598]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:464][599]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:473][600]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:480][601]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:491][602]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:499][603]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:508][604]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:516][605]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:526][606]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:535][607]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:544][608]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:551][609]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:560][610]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:567][611]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:576][612]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:584][613]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:592][614]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:600][615]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.25:641][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.25:641][616]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.25:641][616]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.21-23.18.25:642][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.25:644][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.21-23.18.25:649][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.25:681][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.25:682][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.21-23.18.25:683][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.21-23.18.25:689][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.21-23.18.25:715][617]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.04.21-23.18.26:297][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.21-23.18.26:307][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.21-23.18.26:307][683]PIE: New page: PIE session: L_Main (22 Apr 2025, 01:18:26)
+[2025.04.21-23.18.26:307][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.26:310][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002412s)
+[2025.04.21-23.18.26:310][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.002463s)
+[2025.04.21-23.18.26:310][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.21-23.18.26:310][683]LogAIModule: Creating AISystem for world L_Main
+[2025.04.21-23.18.26:311][683]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2025.04.21-23.18.26:344][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.21-23.18.26:346][683]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.21-23.18.26:346][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.21-23.18.26:346][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.21-23.18.26:346][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.21-23.18.26:346][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.21-23.18.26:346][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.21-23.18.26:349][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.21-23.18.26:370][683]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.21-23.18.26:370][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.21-23.18.26:371][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.21-23.18.26:371][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.21-23.18.26:371][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.04.21-23.18.26:371][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.04.21-23.18.26:374][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.04.21-23.18.26:374][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.04.21-23.18.26:374][683]LogInit: FAudioDevice initialized.
+[2025.04.21-23.18.26:374][683]LogAudio: Display: Audio Device (ID: 36) registered with world 'L_Main'.
+[2025.04.21-23.18.26:377][683]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.21-23.18.26:377][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.22-00.18.26
+[2025.04.21-23.18.26:378][683]LogWorld: Bringing up level for play took: 0.000527
+[2025.04.21-23.18.26:380][683]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.04.21-23.18.26:387][683]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.21-23.18.26:387][683]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Spawned the kjids
+[2025.04.21-23.18.26:388][683]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.21-23.18.26:388][683]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.21-23.18.26:388][683]PIE: Server logged in
+[2025.04.21-23.18.26:390][683]PIE: Play in editor total start time 0.083 seconds.
+[2025.04.21-23.18.26:820][726]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.21-23.18.26:821][726]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.21-23.18.26:821][726]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Game Paused Condition false
+[2025.04.21-23.18.26:821][726]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Restocking Mode Condition false
+[2025.04.21-23.18.26:821][726]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] VALIDATED HUD
+[2025.04.21-23.18.26:827][726]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:835][727]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:853][728]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:873][729]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:882][730]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:891][731]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:898][732]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:908][733]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:915][734]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:925][735]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:933][736]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:942][737]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:949][738]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:959][739]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:967][740]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:976][741]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:983][742]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.26:994][743]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:002][744]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:012][745]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:021][746]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:032][747]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:060][748]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:069][749]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:079][750]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:087][751]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:099][752]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:110][753]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:119][754]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:128][755]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:138][756]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:146][757]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:154][758]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:163][759]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:171][760]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:179][761]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:187][762]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:199][763]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:210][764]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:221][765]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:233][766]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:243][767]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:252][768]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:264][769]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:271][770]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:279][771]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:287][772]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:297][773]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:305][774]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:315][775]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:323][776]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:331][777]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:340][778]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:348][779]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:356][780]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:364][781]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:374][782]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:383][783]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:389][784]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:398][785]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:405][786]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:413][787]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:423][788]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:432][789]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:439][790]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:448][791]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.27:480][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.27:480][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.27:480][792]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.21-23.18.27:480][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.27:483][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.21-23.18.27:490][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.27:521][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.21-23.18.27:522][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.21-23.18.27:524][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.21-23.18.27:528][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.27:531][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.21-23.18.27:553][793]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.04.21-23.18.28:152][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.21-23.18.28:159][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.21-23.18.28:159][856]PIE: New page: PIE session: L_Main (22 Apr 2025, 01:18:28)
+[2025.04.21-23.18.28:159][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.28:161][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001739s)
+[2025.04.21-23.18.28:161][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Main.L_Main to /Game/Maps/UEDPIE_0_L_Main.L_Main (0.001770s)
+[2025.04.21-23.18.28:161][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.21-23.18.28:162][856]LogAIModule: Creating AISystem for world L_Main
+[2025.04.21-23.18.28:162][856]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2025.04.21-23.18.28:197][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.21-23.18.28:199][856]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.21-23.18.28:199][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.21-23.18.28:199][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.21-23.18.28:199][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.21-23.18.28:199][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.21-23.18.28:199][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.21-23.18.28:201][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.21-23.18.28:224][856]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.21-23.18.28:225][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.21-23.18.28:225][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.21-23.18.28:225][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.21-23.18.28:225][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.04.21-23.18.28:225][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.04.21-23.18.28:227][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.04.21-23.18.28:227][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.04.21-23.18.28:227][856]LogInit: FAudioDevice initialized.
+[2025.04.21-23.18.28:227][856]LogAudio: Display: Audio Device (ID: 37) registered with world 'L_Main'.
+[2025.04.21-23.18.28:230][856]LogLoad: Game class is 'GMB_2D_CanteenGameMode_C'
+[2025.04.21-23.18.28:230][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Main.L_Main up for play (max tick rate 0) at 2025.04.22-00.18.28
+[2025.04.21-23.18.28:230][856]LogWorld: Bringing up level for play took: 0.000450
+[2025.04.21-23.18.28:232][856]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.04.21-23.18.28:241][856]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused true
+[2025.04.21-23.18.28:241][856]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Spawned the kjids
+[2025.04.21-23.18.28:241][856]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.21-23.18.28:241][856]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.04.21-23.18.28:241][856]PIE: Server logged in
+[2025.04.21-23.18.28:242][856]PIE: Play in editor total start time 0.083 seconds.
+[2025.04.21-23.18.28:653][896]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] is to be paused false
+[2025.04.21-23.18.28:653][896]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] has it been paused? false
+[2025.04.21-23.18.28:653][896]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Game Paused Condition false
+[2025.04.21-23.18.28:653][896]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] Restocking Mode Condition false
+[2025.04.21-23.18.28:653][896]LogBlueprintUserMessages: [GMB_2D_CanteenGameMode_C_0] VALIDATED HUD
+[2025.04.21-23.18.28:660][896]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:667][897]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:686][898]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:701][899]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:712][900]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:719][901]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:729][902]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:736][903]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:745][904]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:753][905]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:763][906]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:769][907]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:779][908]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:787][909]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:796][910]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:803][911]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:813][912]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:820][913]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:829][914]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:836][915]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:846][916]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:854][917]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:862][918]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:873][919]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:881][920]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:890][921]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:907][922]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:921][923]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:931][924]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:942][925]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:949][926]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:962][927]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:970][928]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:979][929]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:987][930]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.28:999][931]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:006][932]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:014][933]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:024][934]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:033][935]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:042][936]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:052][937]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:062][938]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:072][939]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:087][940]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:100][941]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:114][942]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:126][943]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:137][944]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:148][945]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:157][946]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:173][947]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:179][948]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:188][949]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:197][950]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:205][951]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:213][952]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:222][953]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:230][954]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:241][955]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:250][956]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:260][957]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:270][958]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:277][959]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:285][960]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:295][961]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:303][962]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:310][963]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:317][964]LogBlueprintUserMessages: [WBP_Kid_C_0] Current Ratio of
+Health 0.5 Happyness
+[2025.04.21-23.18.29:361][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.29:361][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Main
+[2025.04.21-23.18.29:361][965]LogWorld: UWorld::CleanupWorld for L_Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.21-23.18.29:361][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.29:363][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.21-23.18.29:369][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.21-23.18.29:400][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.21-23.18.29:401][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.21-23.18.29:402][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.21-23.18.29:405][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.21-23.18.29:409][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.21-23.18.29:444][966]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.04.21-23.18.30:546][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.21-23.18.31:173][ 77]LogSlate: Window 'Save Content' being destroyed
